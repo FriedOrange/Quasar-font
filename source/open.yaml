@@ -1,5 +1,26 @@
 sources:
   - open.designspace
 familyName: "Quasar Open"
+instances:
+  open[wght].ttf:
+  - coordinates:
+      wght: 100
+  - coordinates:
+      wght: 200
+  - coordinates:
+      wght: 200
+  - coordinates:
+      wght: 400
+  - coordinates:
+      wght: 500
+  - coordinates:
+      wght: 600
+  - coordinates:
+      wght: 700
+  - coordinates:
+      wght: 800
+  - coordinates:
+      wght: 900
 buildOTF: false
+buildWebfont: false
 autohintTTF: false

@@ -2,7 +2,7 @@
 <designspace format="5.0">
 	<axes>
 		<axis name="Weight" tag="wght" minimum="100" maximum="900" default="100">
-			<labels>
+			<!-- <labels>
 				<label name="Thin" uservalue="100" />
 				<label name="Extra Light" uservalue="200" />
 				<label name="Light" uservalue="300" />
@@ -11,34 +11,76 @@
 				<label name="Semibold" uservalue="600" />
 				<label name="Bold" uservalue="700" />
 				<label name="Extra Bold" uservalue="800" />
-				<label name="Bold" uservalue="900" />
-			</labels>
+				<label name="Black" uservalue="900" />
+			</labels> -->
 			<map input="100.0" output="25" />
-			<map input="200.0" output="44" />
+			<!-- <map input="200.0" output="44" />
 			<map input="300.0" output="63" />
 			<map input="400.0" output="82" />
 			<map input="500.0" output="101" />
 			<map input="600.0" output="120" />
 			<map input="700.0" output="139" />
-			<map input="800.0" output="158" />
+			<map input="800.0" output="158" /> -->
 			<map input="900.0" output="175" />
 		</axis>
 	</axes>
 	<sources>
-		<source familyname="Quasar Open" stylename="Thin" filename="QuasarOpen-MASTER-100.ufo" name="openthin">
+		<source familyname="Quasar Open" stylename="Thin" filename="QuasarOpen-MASTER-100.ufo" name="openthin-master">
 			<location>
-				<dimension name="Weight" uservalue="100" xvalue="25" />
+				<dimension name="Weight" xvalue="25" />
 			</location>
 		</source>
-		<source familyname="Quasar Open" stylename="Black" filename="QuasarOpen-MASTER-900.ufo" name="openblack">
+		<source familyname="Quasar Open" stylename="Black" filename="QuasarOpen-MASTER-900.ufo" name="openblack-master">
 			<location>
-				<dimension name="Weight" uservalue="900" xvalue="175" />
+				<dimension name="Weight" xvalue="175" />
 			</location>
 		</source>
 	</sources>
-	<!-- <instances>
-		<instance familyname="Quasar Open" stylename="Thin">
-
+	<instances>
+		<instance familyname="Quasar Open" stylename="Thin" name="openthin" filename="open100.ttf" postscriptfontname="QuasarOpen-Thin" stylemapfamilyname="Quasar Open" stylemapstylename="Thin">
+			<location>
+				<dimension name="Weight" uservalue="100" />
+			</location>
 		</instance>
-	</instances> -->
+		<instance familyname="Quasar Open" stylename="Extra Light" name="openxlight" filename="open200.ttf" postscriptfontname="QuasarOpen-ExtraLight" stylemapfamilyname="Quasar Open" stylemapstylename="Extra Light">
+			<location>
+				<dimension name="Weight" uservalue="200" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Open" stylename="Light" name="openlight" filename="open200.ttf" postscriptfontname="QuasarOpen-Light" stylemapfamilyname="Quasar Open" stylemapstylename="Light">
+			<location>
+				<dimension name="Weight" uservalue="300" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Open" stylename="Regular" name="openregular" filename="open400.ttf" postscriptfontname="QuasarOpen-Regular" stylemapfamilyname="Quasar Open" stylemapstylename="Regular">
+			<location>
+				<dimension name="Weight" uservalue="400" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Open" stylename="Medium" name="openmedium" filename="open500.ttf" postscriptfontname="QuasarOpen-Medium" stylemapfamilyname="Quasar Open" stylemapstylename="Medium">
+			<location>
+				<dimension name="Weight" uservalue="500" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Open" stylename="Semibold" name="opensbold" filename="open600.ttf" postscriptfontname="QuasarOpen-SemiBold" stylemapfamilyname="Quasar Open" stylemapstylename="Semi Bold">
+			<location>
+				<dimension name="Weight" uservalue="600" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Open" stylename="Bold" name="openbold" filename="open700.ttf" postscriptfontname="QuasarOpen-Bold" stylemapfamilyname="Quasar Open" stylemapstylename="Bold">
+			<location>
+				<dimension name="Weight" uservalue="700" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Open" stylename="Extra Bold" name="openxbold" filename="open800.ttf" postscriptfontname="QuasarOpen-ExtraBold" stylemapfamilyname="Quasar Open" stylemapstylename="Extra Bold">
+			<location>
+				<dimension name="Weight" uservalue="800" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Open" stylename="Black" name="openblack" filename="open900.ttf" postscriptfontname="QuasarOpen-Black" stylemapfamilyname="Quasar Open" stylemapstylename="Black">
+			<location>
+				<dimension name="Weight" uservalue="900" />
+			</location>
+		</instance>
+	</instances>
 </designspace>
