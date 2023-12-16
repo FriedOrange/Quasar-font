@@ -4,5 +4,5 @@ sfd2ufo source\QuasarOpen-MASTER-900.sfd source\QuasarOpen-MASTER-900.ufo
 
 @rem build OpenType fonts
 @cd source
-python %USERPROFILE%\AppData\Local\Programs\Python\Python310\Scripts\gftools-builder.py open.yaml
+python %USERPROFILE%\AppData\Local\Programs\Python\Python310\Scripts\gftools-builder.py QuasarOpen.yaml
 @cd ..
