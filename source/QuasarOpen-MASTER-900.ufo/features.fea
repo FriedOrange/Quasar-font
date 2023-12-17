@@ -1,4 +1,4 @@
-@GDEF_base = [i];
+@GDEF_base = [i o];
 @GDEF_mark = [];
 @GDEF_ligature = [];
 @GDEF_component = [];

@@ -17,9 +17,9 @@
     <key>openTypeHeadCreated</key>
     <string>2023/12/15 10:16:09</string>
     <key>openTypeHheaAscender</key>
-    <integer>500</integer>
+    <integer>510</integer>
     <key>openTypeHheaDescender</key>
-    <integer>0</integer>
+    <integer>-10</integer>
     <key>openTypeOS2Selection</key>
     <array>
       <integer>7</integer>
@@ -32,10 +32,12 @@
     <integer>-200</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>90</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>PfEd</string>
     <key>openTypeOS2WinAscent</key>
-    <integer>500</integer>
+    <integer>510</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>0</integer>
+    <integer>10</integer>
     <key>postscriptFontName</key>
     <string>QuasarOpen-Thin</string>
     <key>postscriptFullName</key>
