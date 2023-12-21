@@ -1,4 +1,4 @@
-@GDEF_base = [i n o];
+@GDEF_base = [a i n o];
 @GDEF_mark = [];
 @GDEF_ligature = [];
 @GDEF_component = [];

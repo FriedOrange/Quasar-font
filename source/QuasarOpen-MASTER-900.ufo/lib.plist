@@ -4,12 +4,15 @@
   <dict>
     <key>public.glyphOrder</key>
     <array>
+      <string>a</string>
       <string>i</string>
       <string>n</string>
       <string>o</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
+      <key>a</key>
+      <string>base</string>
       <key>i</key>
       <string>base</string>
       <key>n</key>

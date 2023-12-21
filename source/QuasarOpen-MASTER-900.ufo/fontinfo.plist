@@ -32,8 +32,6 @@
     <integer>-200</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>90</integer>
-    <key>openTypeOS2VendorID</key>
-    <string>PfEd</string>
     <key>openTypeOS2WinAscent</key>
     <integer>510</integer>
     <key>openTypeOS2WinDescent</key>
