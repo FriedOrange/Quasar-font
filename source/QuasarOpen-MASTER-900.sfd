@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1703153181
+ModificationTime: 1703156337
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,7 +47,7 @@ FitToEm: 1
 WinInfo: 32 16 5
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 5
+BeginChars: 1114112 6
 
 StartChar: i
 Encoding: 105 105 0
@@ -217,7 +217,7 @@ EndChar
 StartChar: g
 Encoding: 103 103 4
 Width: 600
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -274,6 +274,37 @@ SplineSet
  353 165 385 205 385 250 c 0
  385 264.985296237 381.451411701 279.416125552 374.7604456 292 c 1
  557.059856315 292 l 1
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 5
+Width: 410
+Flags: HWO
+LayerCount: 2
+Back
+SplineSet
+330 500 m 2
+ 390 500 l 25
+ 390 325 l 25
+ 330 325 l 2
+ 300 325 255 310 255 236 c 2
+ 255 0 l 9
+ 80 0 l 17
+ 80 241 l 2
+ 80 413 196 500 330 500 c 2
+EndSplineSet
+Fore
+SplineSet
+330 500 m 2
+ 390 500 l 25
+ 390 325 l 25
+ 349 325 l 2
+ 272 325 255 286 255 206 c 2
+ 255 0 l 9
+ 80 0 l 17
+ 80 241 l 2
+ 80 413 196 500 330 500 c 2
 EndSplineSet
 EndChar
 EndChars
