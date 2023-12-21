@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1703150283
+ModificationTime: 1703153181
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,11 +43,11 @@ UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
-FitToEm: 0
+FitToEm: 1
 WinInfo: 32 16 5
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 4
+BeginChars: 1114112 5
 
 StartChar: i
 Encoding: 105 105 0
@@ -130,7 +130,7 @@ EndChar
 StartChar: n
 Encoding: 110 110 2
 Width: 660
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -211,6 +211,69 @@ SplineSet
  385 0 l 17
  385 236 l 2
  385 319 333 335 300 335 c 3
+EndSplineSet
+EndChar
+
+StartChar: g
+Encoding: 103 103 4
+Width: 600
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+40 -95 m 0
+ 40 50 146 165 300 165 c 0
+ 458 165 560 50 560 -95 c 0
+ 560 -240 458 -355 300 -355 c 0
+ 146 -355 40 -240 40 -95 c 0
+  Spiro
+    40 -95 o
+    73.121 36.7363 o
+    164.264 129.882 o
+    300 165 o
+    437.514 129.882 o
+    527.767 36.7363 o
+    560 -95 o
+    527.767 -226.736 o
+    437.514 -319.882 o
+    300 -355 o
+    164.264 -319.882 o
+    73.121 -226.736 o
+    0 0 z
+  EndSpiro
+215 -95 m 0
+ 215 -140 247 -180 300 -180 c 0
+ 353 -180 385 -140 385 -95 c 0
+ 385 -50 353 -10 300 -10 c 0
+ 247 -10 215 -50 215 -95 c 0
+  Spiro
+    215 -95 o
+    225.239 -136.999 o
+    254.445 -167.986 o
+    300 -180 o
+    345.555 -167.986 o
+    374.761 -136.999 o
+    385 -95 o
+    374.761 -53.0007 o
+    345.555 -22.0143 o
+    300 -10 o
+    254.445 -22.0143 o
+    225.239 -53.0007 o
+    0 0 z
+  EndSpiro
+557.059856315 292 m 1
+ 559.005183106 278.347174285 560 264.319883745 560 250 c 0
+ 560 105 458 -10 300 -10 c 0
+ 146 -10 40 105 40 250 c 0
+ 40 395 146 510 300 510 c 2
+ 560 510 l 1
+ 560 335 l 1
+ 300 335 l 2
+ 247 335 215 295 215 250 c 0
+ 215 205 247 165 300 165 c 0
+ 353 165 385 205 385 250 c 0
+ 385 264.985296237 381.451411701 279.416125552 374.7604456 292 c 1
+ 557.059856315 292 l 1
 EndSplineSet
 EndChar
 EndChars

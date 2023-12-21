@@ -19,7 +19,7 @@
     <key>openTypeHheaAscender</key>
     <integer>510</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-505</integer>
+    <integer>-355</integer>
     <key>openTypeOS2Selection</key>
     <array>
       <integer>7</integer>
@@ -37,7 +37,7 @@
     <key>openTypeOS2WinAscent</key>
     <integer>510</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>505</integer>
+    <integer>355</integer>
     <key>postscriptFontName</key>
     <string>QuasarOpen-Thin</string>
     <key>postscriptFullName</key>

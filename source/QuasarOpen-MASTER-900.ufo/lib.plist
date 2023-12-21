@@ -5,6 +5,7 @@
     <key>public.glyphOrder</key>
     <array>
       <string>a</string>
+      <string>g</string>
       <string>i</string>
       <string>n</string>
       <string>o</string>
@@ -12,6 +13,8 @@
     <key>public.openTypeCategories</key>
     <dict>
       <key>a</key>
+      <string>base</string>
+      <key>g</key>
       <string>base</string>
       <key>i</key>
       <string>base</string>
