@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1702803449
+ModificationTime: 1703142737
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ FitToEm: 0
 WinInfo: 32 16 5
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 2
+BeginChars: 1114112 3
 
 StartChar: i
 Encoding: 105 105 0
@@ -68,7 +68,7 @@ EndChar
 StartChar: o
 Encoding: 111 111 1
 Width: 640
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
@@ -90,11 +90,105 @@ SplineSet
  373 165 405 205 405 250 c 3
  405 295 373 335 320 335 c 3
  267 335 235 295 235 250 c 3
+  Spiro
+    235 250 o
+    245.239 208.001 o
+    274.445 177.014 o
+    320 165 o
+    365.555 177.014 o
+    394.761 208.001 o
+    405 250 o
+    394.761 291.999 o
+    365.555 322.986 o
+    320 335 o
+    274.445 322.986 o
+    245.239 291.999 o
+    0 0 z
+  EndSpiro
 60 250 m 3
  60 395 166 510 320 510 c 3
  478 510 580 395 580 250 c 3
  580 105 478 -10 320 -10 c 3
  166 -10 60 105 60 250 c 3
+  Spiro
+    60 250 o
+    93.121 381.736 o
+    184.264 474.882 o
+    320 510 o
+    457.514 474.882 o
+    547.767 381.736 o
+    580 250 o
+    547.767 118.264 o
+    457.514 25.118 o
+    320 -10 o
+    184.264 25.118 o
+    93.121 118.264 o
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 2
+Width: 680
+Flags: HWO
+LayerCount: 2
+Back
+SplineSet
+255 250 m 7
+ 255 205 287 165 340 165 c 7
+ 393 165 425 205 425 250 c 7
+ 425 295 393 335 340 335 c 7
+ 287 335 255 295 255 250 c 7
+  Spiro
+    255 250 o
+    265.239 208.001 o
+    294.445 177.014 o
+    340 165 o
+    385.555 177.014 o
+    414.761 208.001 o
+    425 250 o
+    414.761 291.999 o
+    385.555 322.986 o
+    340 335 o
+    294.445 322.986 o
+    265.239 291.999 o
+    0 0 z
+  EndSpiro
+80 250 m 7
+ 80 395 186 510 340 510 c 7
+ 498 510 600 395 600 250 c 7
+ 600 105 498 -10 340 -10 c 7
+ 186 -10 80 105 80 250 c 7
+  Spiro
+    80 250 o
+    113.121 381.736 o
+    204.264 474.882 o
+    340 510 o
+    477.514 474.882 o
+    567.767 381.736 o
+    600 250 o
+    567.767 118.264 o
+    477.514 25.118 o
+    340 -10 o
+    204.264 25.118 o
+    113.121 118.264 o
+    0 0 z
+  EndSpiro
+EndSplineSet
+Fore
+SplineSet
+80 238 m 2
+ 80 420 206 510 340 510 c 0
+ 476 510 600 420 600 238 c 2
+ 600 0 l 9
+ 425 0 l 17
+ 425 236 l 2
+ 425 319 373 335 340 335 c 3
+ 307 335 255 319 255 236 c 2
+ 255 0 l 9
+ 80 0 l 17
+ 80 238 l 2
 EndSplineSet
 EndChar
 EndChars

@@ -5,11 +5,14 @@
     <key>public.glyphOrder</key>
     <array>
       <string>i</string>
+      <string>n</string>
       <string>o</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
       <key>i</key>
+      <string>base</string>
+      <key>n</key>
       <string>base</string>
       <key>o</key>
       <string>base</string>
