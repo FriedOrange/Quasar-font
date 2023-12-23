@@ -10,6 +10,7 @@
       <string>n</string>
       <string>o</string>
       <string>r</string>
+      <string>x</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -24,6 +25,8 @@
       <key>o</key>
       <string>base</string>
       <key>r</key>
+      <string>base</string>
+      <key>x</key>
       <string>base</string>
     </dict>
   </dict>
