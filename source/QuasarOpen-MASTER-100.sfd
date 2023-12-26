@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1703596206
+ModificationTime: 1703599901
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ FitToEm: 1
 WinInfo: 32 16 6
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 7
+BeginChars: 1114112 11
 
 StartChar: i
 Encoding: 105 105 0
@@ -72,44 +72,57 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-65 250 m 0
- 65 121 161 15 295 15 c 0
- 429 15 525 121 525 250 c 0
- 525 379 429 485 295 485 c 0
- 161 485 65 379 65 250 c 0
-40 250 m 0
- 40 395 146 510 295 510 c 0
- 444 510 550 395 550 250 c 0
- 550 105 444 -10 295 -10 c 0
- 146 -10 40 105 40 250 c 0
+65 250 m 4
+ 65 121 161 15 295 15 c 4
+ 429 15 525 121 525 250 c 4
+ 525 379 429 485 295 485 c 4
+ 161 485 65 379 65 250 c 4
+40 250 m 4
+ 40 395 146 510 295 510 c 4
+ 444 510 550 395 550 250 c 4
+ 550 105 444 -10 295 -10 c 4
+ 146 -10 40 105 40 250 c 4
 EndSplineSet
 EndChar
 
 StartChar: n
 Encoding: 110 110 2
-Width: 650
+Width: 630
 Flags: HMW
 LayerCount: 2
+Back
+SplineSet
+80 275 m 4
+ 80 405 185 510 315 510 c 4
+ 445 510 550 405 550 275 c 4
+ 550 145 445 40 315 40 c 4
+ 185 40 80 145 80 275 c 4
+105 275 m 0
+ 105 391 199 485 315 485 c 0
+ 431 485 525 391 525 275 c 0
+ 525 159 431 65 315 65 c 0
+ 199 65 105 159 105 275 c 0
+EndSplineSet
 Fore
 SplineSet
-80 248 m 2
- 80 419 201 510 325 510 c 0
- 449 510 570 419 570 248 c 2
- 570 0 l 9
- 545 0 l 17
- 545 247 l 2
- 545 404 434 485 325 485 c 0
- 216 485 105 404 105 247 c 2
+80 268 m 2
+ 80 415 191 510 315 510 c 0
+ 439 510 550 414 550 268 c 2
+ 550 0 l 9
+ 525 0 l 17
+ 525 267 l 2
+ 525 404 421 485 315 485 c 0
+ 209 485 105 404 105 267 c 2
  105 0 l 9
  80 0 l 17
- 80 248 l 2
+ 80 268 l 2
 EndSplineSet
 EndChar
 
 StartChar: g
 Encoding: 103 103 3
 Width: 520
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -239,6 +252,19 @@ Encoding: 97 97 4
 Width: 620
 Flags: HMW
 LayerCount: 2
+Back
+SplineSet
+65 250 m 4
+ 65 121 161 15 295 15 c 4
+ 429 15 525 121 525 250 c 4
+ 525 379 429 485 295 485 c 4
+ 161 485 65 379 65 250 c 4
+40 250 m 4
+ 40 395 146 510 295 510 c 4
+ 444 510 550 395 550 250 c 4
+ 550 105 444 -10 295 -10 c 4
+ 146 -10 40 105 40 250 c 4
+EndSplineSet
 Fore
 SplineSet
 295 485 m 0
@@ -314,6 +340,56 @@ SplineSet
  280 379 184 475 50 475 c 1
  50 500 l 1
 EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 7
+Width: 620
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+295 485 m 0
+ 161 485 65 379 65 250 c 0
+ 65 121 161 15 295 15 c 0
+ 357.077561523 15 410.999792884 37.7492967995 451 74.9951578719 c 1
+ 451 41.1785031205 l 1
+ 408.898144661 8.95534920896 355.492753135 -10 295 -10 c 0
+ 146 -10 40 105 40 250 c 0
+ 40 395 146 510 295 510 c 0
+ 419 510 540 419 540 238 c 2
+ 540 -328 l 1
+ 515 -328 l 1
+ 515 237 l 2
+ 515 404 404 485 295 485 c 0
+EndSplineSet
+EndChar
+
+StartChar: p
+Encoding: 112 112 8
+Width: 620
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 7 113 N -1 0 0 1 620 0 2
+EndChar
+
+StartChar: b
+Encoding: 98 98 9
+Width: 620
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 7 113 N -1 0 0 -1 620 500 2
+EndChar
+
+StartChar: d
+Encoding: 100 100 10
+Width: 620
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 7 113 N 1 0 0 -1 0 500 2
 EndChar
 EndChars
 EndSplineFont
