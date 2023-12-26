@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1703599901
+ModificationTime: 1703600057
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ FitToEm: 1
 WinInfo: 32 16 6
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 11
+BeginChars: 1114112 13
 
 StartChar: i
 Encoding: 105 105 0
@@ -119,8 +119,23 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: l
+Encoding: 108 108 3
+Width: 185
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+80 828 m 5
+ 105 828 l 5
+ 105 0 l 1
+ 80 0 l 1
+ 80 828 l 5
+EndSplineSet
+EndChar
+
 StartChar: g
-Encoding: 103 103 3
+Encoding: 103 103 4
 Width: 520
 Flags: HMW
 LayerCount: 2
@@ -248,7 +263,7 @@ EndSplineSet
 EndChar
 
 StartChar: a
-Encoding: 97 97 4
+Encoding: 97 97 5
 Width: 620
 Flags: HMW
 LayerCount: 2
@@ -284,7 +299,7 @@ EndSplineSet
 EndChar
 
 StartChar: r
-Encoding: 114 114 5
+Encoding: 114 114 6
 Width: 375
 Flags: HW
 LayerCount: 2
@@ -303,7 +318,7 @@ EndSplineSet
 EndChar
 
 StartChar: x
-Encoding: 120 120 6
+Encoding: 120 120 7
 Width: 585
 Flags: HW
 LayerCount: 2
@@ -343,7 +358,7 @@ EndSplineSet
 EndChar
 
 StartChar: q
-Encoding: 113 113 7
+Encoding: 113 113 8
 Width: 620
 Flags: HW
 LayerCount: 2
@@ -366,30 +381,39 @@ EndSplineSet
 EndChar
 
 StartChar: p
-Encoding: 112 112 8
+Encoding: 112 112 9
 Width: 620
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 7 113 N -1 0 0 1 620 0 2
+Refer: 8 113 N -1 0 0 1 620 0 2
 EndChar
 
 StartChar: b
-Encoding: 98 98 9
+Encoding: 98 98 10
 Width: 620
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 7 113 N -1 0 0 -1 620 500 2
+Refer: 8 113 N -1 0 0 -1 620 500 2
 EndChar
 
 StartChar: d
-Encoding: 100 100 10
+Encoding: 100 100 11
 Width: 620
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 8 113 N 1 0 0 -1 0 500 2
+EndChar
+
+StartChar: u
+Encoding: 117 117 12
+Width: 630
 Flags: HWO
 LayerCount: 2
 Fore
-Refer: 7 113 N 1 0 0 -1 0 500 2
+Refer: 2 110 N -1 0 0 -1 630 500 2
 EndChar
 EndChars
 EndSplineFont

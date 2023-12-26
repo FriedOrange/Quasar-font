@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="630"/>
+  <unicode hex="0070"/>
+  <outline>
+    <component base="q" xScale="-1.0" xOffset="630.0"/>
+  </outline>
+</glyph>

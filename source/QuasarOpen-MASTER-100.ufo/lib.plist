@@ -5,26 +5,44 @@
     <key>public.glyphOrder</key>
     <array>
       <string>a</string>
+      <string>b</string>
+      <string>d</string>
       <string>g</string>
       <string>i</string>
+      <string>l</string>
       <string>n</string>
       <string>o</string>
+      <string>p</string>
+      <string>q</string>
       <string>r</string>
+      <string>u</string>
       <string>x</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
       <key>a</key>
       <string>base</string>
+      <key>b</key>
+      <string>base</string>
+      <key>d</key>
+      <string>base</string>
       <key>g</key>
       <string>base</string>
       <key>i</key>
+      <string>base</string>
+      <key>l</key>
       <string>base</string>
       <key>n</key>
       <string>base</string>
       <key>o</key>
       <string>base</string>
+      <key>p</key>
+      <string>base</string>
+      <key>q</key>
+      <string>base</string>
       <key>r</key>
+      <string>base</string>
+      <key>u</key>
       <string>base</string>
       <key>x</key>
       <string>base</string>
