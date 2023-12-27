@@ -20,6 +20,7 @@
       <string>r</string>
       <string>u</string>
       <string>x</string>
+      <string>y</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -54,6 +55,8 @@
       <key>u</key>
       <string>base</string>
       <key>x</key>
+      <string>base</string>
+      <key>y</key>
       <string>base</string>
     </dict>
   </dict>
