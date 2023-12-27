@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1703674657
+ModificationTime: 1703676969
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,24 +48,12 @@ FitToEm: 1
 WinInfo: 16 16 8
 BeginPrivate: 0
 EndPrivate
-Grid
-69 295 m 0
- 69 414 165 510 284 510 c 0
- 403 510 499 414 499 295 c 0
- 499 176 403 80 284 80 c 0
- 165 80 69 176 69 295 c 0
-94 295 m 0
- 94 190 179 105 284 105 c 0
- 389 105 474 190 474 295 c 0
- 474 400 389 485 284 485 c 0
- 179 485 94 400 94 295 c 0
-EndSplineSet
-BeginChars: 1114112 15
+BeginChars: 1114112 16
 
 StartChar: i
 Encoding: 105 105 0
 Width: 185
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -388,16 +376,16 @@ Flags: HMW
 LayerCount: 2
 Back
 SplineSet
-65 250 m 4
- 65 121 161 15 295 15 c 4
- 429 15 525 121 525 250 c 4
- 525 379 429 485 295 485 c 4
- 161 485 65 379 65 250 c 4
-40 250 m 4
- 40 395 146 510 295 510 c 4
- 444 510 550 395 550 250 c 4
- 550 105 444 -10 295 -10 c 4
- 146 -10 40 105 40 250 c 4
+65 250 m 0
+ 65 121 161 15 295 15 c 0
+ 429 15 525 121 525 250 c 0
+ 525 379 429 485 295 485 c 0
+ 161 485 65 379 65 250 c 0
+40 250 m 0
+ 40 395 146 510 295 510 c 0
+ 444 510 550 395 550 250 c 0
+ 550 105 444 -10 295 -10 c 0
+ 146 -10 40 105 40 250 c 0
 EndSplineSet
 Fore
 SplineSet
@@ -533,6 +521,42 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 2 110 N -1 0 0 -1 630 500 2
+EndChar
+
+StartChar: e
+Encoding: 101 101 15
+Width: 590
+Flags: HWO
+LayerCount: 2
+Back
+SplineSet
+65 250 m 0
+ 65 121 161 15 295 15 c 0
+ 429 15 525 121 525 250 c 0
+ 525 379 429 485 295 485 c 0
+ 161 485 65 379 65 250 c 0
+40 250 m 0
+ 40 395 146 510 295 510 c 0
+ 444 510 550 395 550 250 c 0
+ 550 105 444 -10 295 -10 c 0
+ 146 -10 40 105 40 250 c 0
+EndSplineSet
+Fore
+SplineSet
+295 25 m 2
+ 550 25 l 1
+ 550 0 l 1
+ 295 0 l 2
+ 146 0 40 105 40 250 c 3
+ 40 395 146 510 295 510 c 3
+ 444 510 550 395 550 250 c 3
+ 550 188.881438801 531.167147518 133.092930191 498.21942052 89 c 1
+ 464.774327099 89 l 1
+ 502.770539768 131.175286682 525 187.92473925 525 250 c 3
+ 525 379 429 485 295 485 c 3
+ 161 485 65 379 65 250 c 3
+ 65 121 161 25 295 25 c 2
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

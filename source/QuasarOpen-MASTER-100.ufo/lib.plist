@@ -7,6 +7,7 @@
       <string>a</string>
       <string>b</string>
       <string>d</string>
+      <string>e</string>
       <string>g</string>
       <string>h</string>
       <string>i</string>
@@ -27,6 +28,8 @@
       <key>b</key>
       <string>base</string>
       <key>d</key>
+      <string>base</string>
+      <key>e</key>
       <string>base</string>
       <key>g</key>
       <string>base</string>
