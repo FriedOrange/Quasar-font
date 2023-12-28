@@ -6,6 +6,7 @@
     <array>
       <string>a</string>
       <string>b</string>
+      <string>c</string>
       <string>d</string>
       <string>e</string>
       <string>f</string>
@@ -32,6 +33,8 @@
       <key>a</key>
       <string>base</string>
       <key>b</key>
+      <string>base</string>
+      <key>c</key>
       <string>base</string>
       <key>d</key>
       <string>base</string>
