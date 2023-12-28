@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1703749808
+ModificationTime: 1703762011
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,10 +45,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 560 16 8
+WinInfo: 16 16 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 19
+BeginChars: 1114112 20
 
 StartChar: i
 Encoding: 105 105 0
@@ -188,11 +188,11 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-80 828 m 5
- 105 828 l 5
+80 828 m 1
+ 105 828 l 1
  105 0 l 1
  80 0 l 1
- 80 828 l 5
+ 80 828 l 1
 EndSplineSet
 EndChar
 
@@ -407,20 +407,33 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 8
-Width: 375
+Width: 417
 Flags: HW
 LayerCount: 2
+Back
+SplineSet
+105 250 m 0
+ 105 121 201 15 335 15 c 0
+ 469 15 565 121 565 250 c 0
+ 565 379 469 485 335 485 c 0
+ 201 485 105 379 105 250 c 0
+80 250 m 0
+ 80 395 186 510 335 510 c 0
+ 484 510 590 395 590 250 c 0
+ 590 105 484 -10 335 -10 c 0
+ 186 -10 80 105 80 250 c 0
+EndSplineSet
 Fore
 SplineSet
-325 500 m 10
- 355 500 l 1
- 355 475 l 25
- 325 475 l 2
- 216 475 105 394 105 237 c 2
+336 510 m 3
+ 352 510 377 508 397 503 c 1
+ 397 477 l 17
+ 369 484 350 485 336 485 c 3
+ 203 485 105 382 105 249 c 2
  105 0 l 9
  80 0 l 17
- 80 238 l 2
- 80 409 201 500 325 500 c 10
+ 80 250 l 2
+ 80 396 187 510 336 510 c 3
 EndSplineSet
 EndChar
 
@@ -614,7 +627,7 @@ EndChar
 StartChar: uni0261
 Encoding: 609 609 18
 Width: 620
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -635,6 +648,29 @@ SplineSet
  143 -265 l 1
  178 -293 227 -313 285 -313 c 3
  419 -313 515 -207 515 -78 c 2
+EndSplineSet
+EndChar
+
+StartChar: f
+Encoding: 102 102 19
+Width: 417
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+336 838 m 0
+ 352 838 377 836 397 831 c 1
+ 397 805 l 1
+ 369 812 350 813 336 813 c 0
+ 203 813 105 710 105 577 c 2
+ 105 500 l 1
+ 372 500 l 1
+ 372 475 l 1
+ 105 475 l 1
+ 105 0 l 1
+ 80 0 l 1
+ 80 578 l 2
+ 80 724 187 838 336 838 c 0
 EndSplineSet
 EndChar
 EndChars

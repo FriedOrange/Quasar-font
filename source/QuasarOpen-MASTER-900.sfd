@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1703749937
+ModificationTime: 1703762086
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,10 +45,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 560 16 8
+WinInfo: 16 16 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 19
+BeginChars: 1114112 20
 
 StartChar: i
 Encoding: 105 105 0
@@ -306,32 +306,63 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 5
-Width: 410
+Width: 421
 Flags: HW
 LayerCount: 2
 Back
 SplineSet
-330 500 m 2
- 390 500 l 25
- 390 325 l 25
- 330 325 l 2
- 300 325 255 310 255 236 c 2
- 255 0 l 9
- 80 0 l 17
- 80 241 l 2
- 80 413 196 500 330 500 c 2
+255 250 m 7
+ 255 207 289 165 340 165 c 7
+ 391 165 425 207 425 250 c 7
+ 425 293 391 335 340 335 c 7
+ 289 335 255 293 255 250 c 7
+  Spiro
+    255 250 o
+    265.239 208.001 o
+    294.445 177.014 o
+    340 165 o
+    385.555 177.014 o
+    414.761 208.001 o
+    425 250 o
+    414.761 291.999 o
+    385.555 322.986 o
+    340 335 o
+    294.445 322.986 o
+    265.239 291.999 o
+    0 0 z
+  EndSpiro
+80 250 m 7
+ 80 391.00390625 189 510 340 510 c 7
+ 493 510 600 388.006835938 600 250 c 7
+ 600 111 493 -10 340 -10 c 7
+ 190 -10 80 109 80 250 c 7
+  Spiro
+    80 250 o
+    113.121 381.736 o
+    204.264 474.882 o
+    340 510 o
+    477.514 474.882 o
+    567.767 381.736 o
+    600 250 o
+    567.767 118.264 o
+    477.514 25.118 o
+    340 -10 o
+    204.264 25.118 o
+    113.121 118.264 o
+    0 0 z
+  EndSpiro
 EndSplineSet
 Fore
 SplineSet
-330 500 m 2
- 390 500 l 25
- 390 325 l 25
- 349 325 l 2
- 272 325 255 286 255 206 c 2
- 255 0 l 9
- 80 0 l 17
- 80 241 l 2
- 80 413 196 500 330 500 c 2
+340 510 m 3
+ 364 510 385 507 401 503 c 1
+ 401 328 l 1
+ 386 333 368 335 355 335 c 3
+ 275.991210938 335 255 283 255 250 c 2
+ 255 0 l 1
+ 80 0 l 1
+ 80 250 l 2
+ 80 398 195.996296347 510 340 510 c 3
 EndSplineSet
 EndChar
 
@@ -715,7 +746,7 @@ EndChar
 StartChar: uni0261
 Encoding: 609 609 18
 Width: 630
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -736,6 +767,29 @@ SplineSet
  164 -132 l 1
  206 -157 232.989257812 -163 268 -163 c 3
  335.553710938 -163 375 -130 375 -78 c 2
+EndSplineSet
+EndChar
+
+StartChar: f
+Encoding: 102 102 19
+Width: 421
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+340 838 m 0
+ 364 838 385 835 401 831 c 1
+ 401 656 l 1
+ 386 661 368 663 355 663 c 0
+ 275.991210938 663 255 611 255 578 c 2
+ 255 500 l 1
+ 386 500 l 1
+ 386 332 l 1
+ 255 332 l 1
+ 255 0 l 1
+ 80 0 l 1
+ 80 578 l 2
+ 80 726 195.99609375 838 340 838 c 0
 EndSplineSet
 EndChar
 EndChars
