@@ -22,6 +22,7 @@
       <string>w</string>
       <string>x</string>
       <string>y</string>
+      <string>uni0261</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -54,6 +55,8 @@
       <key>r</key>
       <string>base</string>
       <key>u</key>
+      <string>base</string>
+      <key>uni0261</key>
       <string>base</string>
       <key>w</key>
       <string>base</string>
