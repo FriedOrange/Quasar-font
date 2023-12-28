@@ -19,6 +19,7 @@
       <string>q</string>
       <string>r</string>
       <string>u</string>
+      <string>w</string>
       <string>x</string>
       <string>y</string>
     </array>
@@ -53,6 +54,8 @@
       <key>r</key>
       <string>base</string>
       <key>u</key>
+      <string>base</string>
+      <key>w</key>
       <string>base</string>
       <key>x</key>
       <string>base</string>
