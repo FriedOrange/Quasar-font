@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1703762086
+ModificationTime: 1703762247
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -783,8 +783,8 @@ SplineSet
  386 661 368 663 355 663 c 0
  275.991210938 663 255 611 255 578 c 2
  255 500 l 1
- 386 500 l 1
- 386 332 l 1
+ 392 500 l 1
+ 392 332 l 1
  255 332 l 1
  255 0 l 1
  80 0 l 1
