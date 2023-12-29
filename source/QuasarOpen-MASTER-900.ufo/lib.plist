@@ -24,6 +24,7 @@
       <string>s</string>
       <string>t</string>
       <string>u</string>
+      <string>v</string>
       <string>w</string>
       <string>x</string>
       <string>y</string>
@@ -72,6 +73,8 @@
       <key>u</key>
       <string>base</string>
       <key>uni0261</key>
+      <string>base</string>
+      <key>v</key>
       <string>base</string>
       <key>w</key>
       <string>base</string>
