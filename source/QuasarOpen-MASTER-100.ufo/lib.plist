@@ -21,6 +21,7 @@
       <string>p</string>
       <string>q</string>
       <string>r</string>
+      <string>s</string>
       <string>t</string>
       <string>u</string>
       <string>w</string>
@@ -63,6 +64,8 @@
       <key>q</key>
       <string>base</string>
       <key>r</key>
+      <string>base</string>
+      <key>s</key>
       <string>base</string>
       <key>t</key>
       <string>base</string>
