@@ -14,6 +14,7 @@
       <string>h</string>
       <string>i</string>
       <string>j</string>
+      <string>k</string>
       <string>l</string>
       <string>m</string>
       <string>n</string>
@@ -52,6 +53,8 @@
       <key>i</key>
       <string>base</string>
       <key>j</key>
+      <string>base</string>
+      <key>k</key>
       <string>base</string>
       <key>l</key>
       <string>base</string>
