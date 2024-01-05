@@ -29,6 +29,7 @@
       <string>w</string>
       <string>x</string>
       <string>y</string>
+      <string>z</string>
       <string>uni0261</string>
       <string>uni026F</string>
     </array>
@@ -87,6 +88,8 @@
       <key>x</key>
       <string>base</string>
       <key>y</key>
+      <string>base</string>
+      <key>z</key>
       <string>base</string>
     </dict>
   </dict>
