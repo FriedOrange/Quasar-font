@@ -5,8 +5,11 @@
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>
+      <string>space</string>
       <string>comma</string>
       <string>period</string>
+      <string>colon</string>
+      <string>semicolon</string>
       <string>a</string>
       <string>b</string>
       <string>c</string>
@@ -44,6 +47,8 @@
       <string>base</string>
       <key>c</key>
       <string>base</string>
+      <key>colon</key>
+      <string>base</string>
       <key>comma</key>
       <string>base</string>
       <key>d</key>
@@ -79,6 +84,10 @@
       <key>r</key>
       <string>base</string>
       <key>s</key>
+      <string>base</string>
+      <key>semicolon</key>
+      <string>base</string>
+      <key>space</key>
       <string>base</string>
       <key>t</key>
       <string>base</string>

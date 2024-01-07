@@ -10,6 +10,13 @@
     <integer>-200</integer>
     <key>familyName</key>
     <string>Quasar Open</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>y</key>
+        <real>500.25</real>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <real>0.0</real>
     <key>note</key>
@@ -32,8 +39,6 @@
     <integer>-200</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>90</integer>
-    <key>openTypeOS2VendorID</key>
-    <string>PfEd</string>
     <key>openTypeOS2WinAscent</key>
     <integer>838</integer>
     <key>openTypeOS2WinDescent</key>
