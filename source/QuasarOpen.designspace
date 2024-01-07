@@ -42,7 +42,7 @@
 				<dimension name="Weight" uservalue="100" />
 			</location>
 		</instance>
-		<instance familyname="Quasar Open" stylename="Extra Light" name="openxlight" filename="open200.ttf" postscriptfontname="QuasarOpen-ExtraLight" stylemapfamilyname="Quasar Open" stylemapstylename="Extra Light">
+		<instance familyname="Quasar Open" stylename="ExtraLight" name="openxlight" filename="open200.ttf" postscriptfontname="QuasarOpen-ExtraLight" stylemapfamilyname="Quasar Open" stylemapstylename="Extra Light">
 			<location>
 				<dimension name="Weight" uservalue="200" />
 			</location>
@@ -62,7 +62,7 @@
 				<dimension name="Weight" uservalue="500" />
 			</location>
 		</instance>
-		<instance familyname="Quasar Open" stylename="Semibold" name="opensbold" filename="open600.ttf" postscriptfontname="QuasarOpen-SemiBold" stylemapfamilyname="Quasar Open" stylemapstylename="Semi Bold">
+		<instance familyname="Quasar Open" stylename="SemiBold" name="opensbold" filename="open600.ttf" postscriptfontname="QuasarOpen-SemiBold" stylemapfamilyname="Quasar Open" stylemapstylename="Semi Bold">
 			<location>
 				<dimension name="Weight" uservalue="600" />
 			</location>
@@ -72,7 +72,7 @@
 				<dimension name="Weight" uservalue="700" />
 			</location>
 		</instance>
-		<instance familyname="Quasar Open" stylename="Extra Bold" name="openxbold" filename="open800.ttf" postscriptfontname="QuasarOpen-ExtraBold" stylemapfamilyname="Quasar Open" stylemapstylename="Extra Bold">
+		<instance familyname="Quasar Open" stylename="ExtraBold" name="openxbold" filename="open800.ttf" postscriptfontname="QuasarOpen-ExtraBold" stylemapfamilyname="Quasar Open" stylemapstylename="Extra Bold">
 			<location>
 				<dimension name="Weight" uservalue="800" />
 			</location>
