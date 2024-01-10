@@ -1,4 +1,4 @@
-@GDEF_base = [a b c colon comma d e f g h i j k l m n o p period q r s semicolon space t u uni0261 uni026F v w x y z];
+@GDEF_base = [a b c colon comma d e f g h i j k l m n o p period q question r s semicolon space t two u uni0261 uni026F v w x y z];
 @GDEF_mark = [];
 @GDEF_ligature = [];
 @GDEF_component = [];

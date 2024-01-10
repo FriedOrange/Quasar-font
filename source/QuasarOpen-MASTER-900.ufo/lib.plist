@@ -10,6 +10,7 @@
       <string>period</string>
       <string>colon</string>
       <string>semicolon</string>
+      <string>question</string>
       <string>a</string>
       <string>b</string>
       <string>c</string>
@@ -80,6 +81,8 @@
       <key>period</key>
       <string>base</string>
       <key>q</key>
+      <string>base</string>
+      <key>question</key>
       <string>base</string>
       <key>r</key>
       <string>base</string>

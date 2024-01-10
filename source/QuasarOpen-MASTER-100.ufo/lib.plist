@@ -8,8 +8,10 @@
       <string>space</string>
       <string>comma</string>
       <string>period</string>
+      <string>two</string>
       <string>colon</string>
       <string>semicolon</string>
+      <string>question</string>
       <string>a</string>
       <string>b</string>
       <string>c</string>
@@ -81,6 +83,8 @@
       <string>base</string>
       <key>q</key>
       <string>base</string>
+      <key>question</key>
+      <string>base</string>
       <key>r</key>
       <string>base</string>
       <key>s</key>
@@ -90,6 +94,8 @@
       <key>space</key>
       <string>base</string>
       <key>t</key>
+      <string>base</string>
+      <key>two</key>
       <string>base</string>
       <key>u</key>
       <string>base</string>
