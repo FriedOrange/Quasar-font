@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1704972191
+ModificationTime: 1704972453
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -309,7 +309,7 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 5
-Width: 421
+Width: 426
 Flags: HMW
 LayerCount: 2
 Back
