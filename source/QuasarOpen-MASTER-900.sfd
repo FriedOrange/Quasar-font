@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1704954095
+ModificationTime: 1704972191
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -1034,7 +1034,7 @@ EndChar
 
 StartChar: k
 Encoding: 107 107 26
-Width: 621
+Width: 606
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1240,7 +1240,7 @@ EndChar
 StartChar: question
 Encoding: 63 63 34
 Width: 590
-Flags: MWO
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
