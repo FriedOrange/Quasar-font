@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1704894471
+ModificationTime: 1704974475
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeFull
@@ -727,8 +726,8 @@ SplineSet
  359 812 340 813 326 813 c 0
  193 813 95 710 95 577 c 2
  95 500 l 1
- 362 500 l 1
- 362 475 l 1
+ 382 500 l 5
+ 382 475 l 5
  95 475 l 1
  95 0 l 1
  70 0 l 1
@@ -749,8 +748,8 @@ SplineSet
  70 679 l 1
  95 679 l 1
  95 500 l 1
- 362 500 l 1
- 362 475 l 1
+ 382 500 l 5
+ 382 475 l 5
  95 475 l 1
  95 251 l 2
  95 118 193 15 326 15 c 0
@@ -906,24 +905,24 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-185 252 m 2
- 81 252 l 9
- 81 272 l 17
- 185 272 l 2
- 291 272 405 353 405 490 c 2
- 405 500 l 9
- 430 500 l 17
- 430 489 l 2
- 430 343 309 252 185 252 c 2
-185 267 m 2
- 309 267 430 176 430 30 c 2
- 430 -1 l 9
- 405 -1 l 17
- 405 29 l 2
- 405 166 291 247 185 247 c 2
+185 247 m 2
  81 247 l 9
  81 267 l 17
  185 267 l 2
+ 291 267 405 348 405 485 c 2
+ 405 500 l 9
+ 430 500 l 17
+ 430 484 l 2
+ 430 338 309 247 185 247 c 2
+185 262 m 2
+ 309 262 430 171 430 25 c 2
+ 430 -1 l 9
+ 405 -1 l 17
+ 405 24 l 2
+ 405 161 291 242 185 242 c 2
+ 81 242 l 9
+ 81 262 l 17
+ 185 262 l 2
 70 828 m 1
  95 828 l 1
  95 0 l 1
@@ -935,7 +934,7 @@ EndChar
 StartChar: z
 Encoding: 122 122 27
 Width: 407
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Back
 SplineSet
@@ -959,28 +958,28 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-55 490 m 1
- 76 501 105 510 142 510 c 0
+54 490 m 1
+ 75 501 105 510 142 510 c 0
  261 510 357 410 357 291 c 0
  357 170 260 80 141 80 c 2
- 80 80 l 1
- 80 98 l 1
+ 61 80 l 5
+ 61 98 l 5
  111 98 l 2
  256 98 332 186 332 291 c 0
  332 396 247 485 142 485 c 0
- 100 485 79 476 55 464 c 1
- 55 490 l 1
-51 -318 m 1
- 51 -292 l 1
- 75 -304 98 -313 140 -313 c 3
+ 100 485 78 476 54 464 c 1
+ 54 490 l 1
+52 -318 m 1
+ 52 -292 l 1
+ 76 -304 98 -313 140 -313 c 3
  245 -313 332 -225 332 -120 c 0
  332 -15 256 73 111 73 c 2
- 80 73 l 1
- 80 91 l 1
+ 61 73 l 5
+ 61 91 l 5
  141 91 l 2
  260 91 357 1 357 -120 c 0
  357 -239 259 -338 140 -338 c 3
- 103 -338 72 -329 51 -318 c 1
+ 103 -338 73 -329 52 -318 c 1
 EndSplineSet
 EndChar
 
@@ -1114,14 +1113,14 @@ EndChar
 StartChar: space
 Encoding: 32 32 33
 Width: 330
-Flags: HW
+Flags: MW
 LayerCount: 2
 EndChar
 
 StartChar: question
 Encoding: 63 63 34
 Width: 602
-Flags: HWO
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -1150,7 +1149,6 @@ EndChar
 StartChar: two
 Encoding: 50 50 35
 Width: 1000
-Flags: H
 LayerCount: 2
 Back
 SplineSet
