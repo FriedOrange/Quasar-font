@@ -40,6 +40,34 @@
       <string>z</string>
       <string>uni0261</string>
       <string>uni026F</string>
+      <string>uniE651</string>
+      <string>uniE652</string>
+      <string>uniE656</string>
+      <string>uniE657</string>
+      <string>uniE658</string>
+      <string>uniE659</string>
+      <string>uniE65A</string>
+      <string>uniE65B</string>
+      <string>uniE65C</string>
+      <string>uniE65D</string>
+      <string>uniE660</string>
+      <string>uniE661</string>
+      <string>uniE662</string>
+      <string>uniE665</string>
+      <string>uniE668</string>
+      <string>uniE66B</string>
+      <string>uniE66C</string>
+      <string>uniE670</string>
+      <string>uniE671</string>
+      <string>uniE672</string>
+      <string>uniE674</string>
+      <string>uniE676</string>
+      <string>uniE677</string>
+      <string>uniE678</string>
+      <string>uniE67A</string>
+      <string>uniE67C</string>
+      <string>uniE67D</string>
+      <string>uniE67E</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -102,6 +130,62 @@
       <key>uni0261</key>
       <string>base</string>
       <key>uni026F</key>
+      <string>base</string>
+      <key>uniE651</key>
+      <string>base</string>
+      <key>uniE652</key>
+      <string>base</string>
+      <key>uniE656</key>
+      <string>base</string>
+      <key>uniE657</key>
+      <string>base</string>
+      <key>uniE658</key>
+      <string>base</string>
+      <key>uniE659</key>
+      <string>base</string>
+      <key>uniE65A</key>
+      <string>base</string>
+      <key>uniE65B</key>
+      <string>base</string>
+      <key>uniE65C</key>
+      <string>base</string>
+      <key>uniE65D</key>
+      <string>base</string>
+      <key>uniE660</key>
+      <string>base</string>
+      <key>uniE661</key>
+      <string>base</string>
+      <key>uniE662</key>
+      <string>base</string>
+      <key>uniE665</key>
+      <string>base</string>
+      <key>uniE668</key>
+      <string>base</string>
+      <key>uniE66B</key>
+      <string>base</string>
+      <key>uniE66C</key>
+      <string>base</string>
+      <key>uniE670</key>
+      <string>base</string>
+      <key>uniE671</key>
+      <string>base</string>
+      <key>uniE672</key>
+      <string>base</string>
+      <key>uniE674</key>
+      <string>base</string>
+      <key>uniE676</key>
+      <string>base</string>
+      <key>uniE677</key>
+      <string>base</string>
+      <key>uniE678</key>
+      <string>base</string>
+      <key>uniE67A</key>
+      <string>base</string>
+      <key>uniE67C</key>
+      <string>base</string>
+      <key>uniE67D</key>
+      <string>base</string>
+      <key>uniE67E</key>
       <string>base</string>
       <key>v</key>
       <string>base</string>

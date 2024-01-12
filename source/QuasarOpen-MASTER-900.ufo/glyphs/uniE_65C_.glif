@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE65C" format="2">
+  <advance width="385"/>
+  <unicode hex="E65C"/>
+  <outline>
+    <component base="uniE662" yScale="-1.0" yOffset="828.0"/>
+  </outline>
+</glyph>

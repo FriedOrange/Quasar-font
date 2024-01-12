@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE662" format="2">
+  <advance width="385"/>
+  <unicode hex="E662"/>
+  <outline>
+    <contour>
+      <point x="235.0" y="0.0" type="line"/>
+      <point x="60.0" y="0.0" type="line"/>
+      <point x="60.0" y="578.0" type="line" smooth="yes"/>
+      <point x="60.0" y="726.0"/>
+      <point x="175.99609375" y="838.0"/>
+      <point x="320.0" y="838.0" type="curve" smooth="yes"/>
+      <point x="344.0" y="838.0"/>
+      <point x="365.0" y="835.0"/>
+      <point x="381.0" y="831.0" type="curve"/>
+      <point x="381.0" y="656.0" type="line"/>
+      <point x="366.0" y="661.0"/>
+      <point x="348.0" y="663.0"/>
+      <point x="335.0" y="663.0" type="curve" smooth="yes"/>
+      <point x="255.991210938" y="663.0"/>
+      <point x="235.0" y="611.0"/>
+      <point x="235.0" y="578.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
