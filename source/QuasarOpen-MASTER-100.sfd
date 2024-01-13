@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1705055439
+ModificationTime: 1705141990
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -1368,11 +1368,11 @@ EndChar
 
 StartChar: uniE665
 Encoding: 58981 58981 53
-Width: 620
-Flags: MW
+Width: 552
+Flags: HMWO
 LayerCount: 2
 Fore
-Refer: 59 58969 N 1 0 0 -1 0 172 2
+Refer: 61 58973 N -1 0 0 1 552 0 2
 EndChar
 
 StartChar: uniE65C
@@ -1414,7 +1414,7 @@ EndChar
 StartChar: uniE65A
 Encoding: 58970 58970 58
 Width: 497
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -1454,29 +1454,61 @@ EndChar
 
 StartChar: uniE65D
 Encoding: 58973 58973 61
-Width: 620
-Flags: MW
+Width: 552
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 59 58969 N -1 0 0 -1 620 172 2
+SplineSet
+457 250 m 2
+ 457 379 361 485 227 485 c 3
+ 169 485 120 465 85 437 c 1
+ 85 469 l 1
+ 126 495 170 510 227 510 c 3
+ 376 510 482 395 482 250 c 2
+ 481 -122 l 2
+ 481 -241 384 -338 265 -338 c 0
+ 146 -338 49 -241 49 -122 c 0
+ 49 -3 146 94 265 94 c 0
+ 312 94 356 79 392 53 c 1
+ 392 20 l 1
+ 358 50 314 69 265 69 c 0
+ 160 69 74 -17 74 -122 c 0
+ 74 -227 160 -313 265 -313 c 0
+ 370 -313 456 -227 456 -122 c 2
+ 457 250 l 2
+EndSplineSet
 EndChar
 
 StartChar: uniE651
 Encoding: 58961 58961 62
-Width: 619
-Flags: MW
+Width: 551
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 13 100 S 1 0 0 1 0 -328 2
+SplineSet
+265 -313 m 0
+ 370 -313 456 -227 456 -122 c 2
+ 456 500 l 1
+ 481 500 l 1
+ 481 -122 l 2
+ 481 -241 384 -338 265 -338 c 0
+ 146 -338 49 -241 49 -122 c 0
+ 49 -3 146 94 265 94 c 0
+ 312 94 356 79 392 53 c 1
+ 392 20 l 1
+ 358 50 314 69 265 69 c 0
+ 160 69 74 -17 74 -122 c 0
+ 74 -227 160 -313 265 -313 c 0
+EndSplineSet
 EndChar
 
 StartChar: uniE660
 Encoding: 58976 58976 63
-Width: 619
-Flags: MW
+Width: 551
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 11 112 N 1 0 0 1 0 328 2
+Refer: 62 58961 N -1 0 0 -1 619 500 2
 EndChar
 EndChars
 EndSplineFont
