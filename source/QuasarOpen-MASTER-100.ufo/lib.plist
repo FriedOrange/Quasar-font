@@ -55,6 +55,7 @@
       <string>uniE662</string>
       <string>uniE665</string>
       <string>uniE668</string>
+      <string>uniE669</string>
       <string>uniE66B</string>
       <string>uniE66C</string>
       <string>uniE670</string>
@@ -160,6 +161,8 @@
       <key>uniE665</key>
       <string>base</string>
       <key>uniE668</key>
+      <string>base</string>
+      <key>uniE669</key>
       <string>base</string>
       <key>uniE66B</key>
       <string>base</string>
