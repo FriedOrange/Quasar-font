@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1707042965
+ModificationTime: 1707043877
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -40,13 +40,12 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 8
+WinInfo: 58928 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -691,7 +690,7 @@ EndChar
 StartChar: uni0261
 Encoding: 609 609 18
 Width: 620
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -1400,16 +1399,30 @@ Width: 401
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 52 58978 N -1 0 0 1 401 0 2
+SplineSet
+336 251 m 2
+ 336 577 l 2
+ 336 710 238 813 105 813 c 0
+ 91 813 72 812 44 805 c 1
+ 44 831 l 1
+ 64 836 89 838 105 838 c 0
+ 254 838 361 724 361 578 c 2
+ 361 250 l 2
+ 361 104 254 -10 105 -10 c 0
+ 89 -10 64 -8 44 -3 c 1
+ 44 23 l 1
+ 72 16 91 15 105 15 c 0
+ 238 15 336 118 336 251 c 2
+EndSplineSet
 EndChar
 
 StartChar: uniE657
 Encoding: 58967 58967 56
 Width: 401
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
-Refer: 52 58978 N 1 0 0 -1 0 500 2
+Refer: 55 58966 N -1 0 0 -1 415 500 2
 EndChar
 
 StartChar: uniE65B
