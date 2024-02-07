@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1707298729
+ModificationTime: 1707298857
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -1433,7 +1433,7 @@ EndChar
 StartChar: uniE66B
 Encoding: 58987 58987 48
 Width: 645
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -1487,10 +1487,22 @@ EndChar
 StartChar: uniE671
 Encoding: 58993 58993 50
 Width: 590
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
-Refer: 24 118 S -1 0 0 -1 590 500 2
+SplineSet
+60 270 m 2
+ 60 419 178 500 295 500 c 2
+ 530 500 l 9
+ 530 0 l 1
+ 355 0 l 17
+ 355 325 l 17
+ 295 325 l 6
+ 262 325 235 313 235 270 c 2
+ 235 0 l 9
+ 60 0 l 17
+ 60 270 l 2
+EndSplineSet
 EndChar
 
 StartChar: uniE662
