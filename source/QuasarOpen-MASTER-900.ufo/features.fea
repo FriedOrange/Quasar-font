@@ -1,4 +1,4 @@
-@GDEF_base = [a b c colon comma d e f g h i j k l m n o p period q question r s semicolon space t u uni0261 uni026F uniE651 uniE652 uniE653 uniE654 uniE656 uniE657 uniE658 uniE659 uniE65A uniE65B uniE65C uniE65D uniE65E uniE65F uniE660 uniE661 uniE662 uniE663 uniE664 uniE665 uniE666 uniE668 uniE669 uniE66B uniE66C uniE670 uniE671 uniE672 uniE674 uniE676 uniE677 uniE678 uniE67A uniE67C uniE67D uniE67E v w x y z];
+@GDEF_base = [a b c colon comma d e f g h i j k l m n o p period q question r s semicolon space t u uni0261 uni026F uniE651 uniE652 uniE653 uniE656 uniE657 uniE658 uniE659 uniE65A uniE65B uniE65C uniE65D uniE65E uniE65F uniE660 uniE661 uniE662 uniE663 uniE664 uniE665 uniE666 uniE668 uniE669 uniE66B uniE66C uniE670 uniE671 uniE672 uniE674 uniE676 uniE677 uniE678 uniE67A uniE67C uniE67D uniE67E v w x y z];
 @GDEF_mark = [];
 @GDEF_ligature = [];
 @GDEF_component = [];
