@@ -40,6 +40,7 @@
       <string>z</string>
       <string>uni0261</string>
       <string>uni026F</string>
+      <string>uniE650</string>
       <string>uniE651</string>
       <string>uniE652</string>
       <string>uniE653</string>
@@ -137,6 +138,8 @@
       <key>uni0261</key>
       <string>base</string>
       <key>uni026F</key>
+      <string>base</string>
+      <key>uniE650</key>
       <string>base</string>
       <key>uniE651</key>
       <string>base</string>
