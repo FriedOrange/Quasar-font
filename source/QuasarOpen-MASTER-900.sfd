@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1707480679
+ModificationTime: 1707482800
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -52,7 +52,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114113 71
+BeginChars: 1114113 72
 
 StartChar: i
 Encoding: 105 105 0
@@ -1710,7 +1710,7 @@ EndChar
 StartChar: uniE669
 Encoding: 58985 58985 63
 Width: 763
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
@@ -1965,6 +1965,36 @@ SplineSet
  235 325 l 9
  60 325 l 17
  60 598 l 2
+EndSplineSet
+EndChar
+
+StartChar: uniE654
+Encoding: 58964 58964 71
+Width: 420
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+100 838 m 3
+ 244.00390625 838 360 726 360 578 c 2
+ 360 403 l 1
+ 185 403 l 1
+ 185 558 l 2
+ 185 630.040039062 132.552734375 663 85 663 c 3
+ 71 663 55 661 39 656 c 1
+ 39 831 l 1
+ 55 835 76 838 100 838 c 3
+312 165 m 3
+ 329 165 344 167 360 172 c 1
+ 360 -3 l 1
+ 344 -7 323 -10 299 -10 c 3
+ 149 -10 39 109 39 250 c 3
+ 39 391.00390625 148 510 299 510 c 3
+ 323 510 344 507 360 503 c 1
+ 360 328 l 1
+ 344 333 329.029296875 335 312 335 c 3
+ 245.9921875 335 214 293 214 250 c 3
+ 214 207 246 165 312 165 c 3
 EndSplineSet
 EndChar
 EndChars
