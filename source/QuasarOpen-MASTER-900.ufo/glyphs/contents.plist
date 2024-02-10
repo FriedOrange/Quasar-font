@@ -18,6 +18,8 @@
     <string>d.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>exclam</key>
+    <string>exclam.glif</string>
     <key>f</key>
     <string>f.glif</string>
     <key>g</key>
@@ -120,6 +122,10 @@
     <string>uniE_66B_.glif</string>
     <key>uniE66C</key>
     <string>uniE_66C_.glif</string>
+    <key>uniE66E</key>
+    <string>uniE_66E_.glif</string>
+    <key>uniE66F</key>
+    <string>uniE_66F_.glif</string>
     <key>uniE670</key>
     <string>uniE_670.glif</string>
     <key>uniE671</key>

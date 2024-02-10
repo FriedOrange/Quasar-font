@@ -6,6 +6,7 @@
     <array>
       <string>.notdef</string>
       <string>space</string>
+      <string>exclam</string>
       <string>comma</string>
       <string>period</string>
       <string>colon</string>
@@ -68,6 +69,8 @@
       <string>uniE66A</string>
       <string>uniE66B</string>
       <string>uniE66C</string>
+      <string>uniE66E</string>
+      <string>uniE66F</string>
       <string>uniE670</string>
       <string>uniE671</string>
       <string>uniE672</string>
@@ -97,6 +100,8 @@
       <key>d</key>
       <string>base</string>
       <key>e</key>
+      <string>base</string>
+      <key>exclam</key>
       <string>base</string>
       <key>f</key>
       <string>base</string>
@@ -199,6 +204,10 @@
       <key>uniE66B</key>
       <string>base</string>
       <key>uniE66C</key>
+      <string>base</string>
+      <key>uniE66E</key>
+      <string>base</string>
+      <key>uniE66F</key>
       <string>base</string>
       <key>uniE670</key>
       <string>base</string>
