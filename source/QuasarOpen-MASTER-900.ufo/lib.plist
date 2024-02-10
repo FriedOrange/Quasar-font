@@ -65,12 +65,15 @@
       <string>uniE667</string>
       <string>uniE668</string>
       <string>uniE669</string>
+      <string>uniE66A</string>
       <string>uniE66B</string>
       <string>uniE66C</string>
       <string>uniE670</string>
       <string>uniE671</string>
       <string>uniE672</string>
+      <string>uniE673</string>
       <string>uniE674</string>
+      <string>uniE675</string>
       <string>uniE676</string>
       <string>uniE677</string>
       <string>uniE678</string>
@@ -191,6 +194,8 @@
       <string>base</string>
       <key>uniE669</key>
       <string>base</string>
+      <key>uniE66A</key>
+      <string>base</string>
       <key>uniE66B</key>
       <string>base</string>
       <key>uniE66C</key>
@@ -201,7 +206,11 @@
       <string>base</string>
       <key>uniE672</key>
       <string>base</string>
+      <key>uniE673</key>
+      <string>base</string>
       <key>uniE674</key>
+      <string>base</string>
+      <key>uniE675</key>
       <string>base</string>
       <key>uniE676</key>
       <string>base</string>

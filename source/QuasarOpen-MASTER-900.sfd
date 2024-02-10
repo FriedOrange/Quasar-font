@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1707532425
+ModificationTime: 1707541233
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -52,7 +52,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114113 75
+BeginChars: 1114113 77
 
 StartChar: i
 Encoding: 105 105 0
@@ -2092,10 +2092,46 @@ EndChar
 StartChar: uniE66A
 Encoding: 58986 58986 74
 Width: 557
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 73 58983 N -1 0 0 1 578 0 2
+EndChar
+
+StartChar: uniE673
+Encoding: 58995 58995 75
+Width: 426
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+320 -10 m 0
+ 176 -10 60 102 60 250 c 2
+ 60 345 l 2
+ 60 436 134 510 225 510 c 0
+ 316 510 390 436 390 345 c 0
+ 390 254 316 180 225 180 c 0
+ 223 180 222 180 220 180 c 2
+ 220 297 l 1
+ 222 297 223 297 225 297 c 0
+ 251 297 273 319 273 345 c 0
+ 273 371 251 393 225 393 c 0
+ 199 393 177 371 177 345 c 2
+ 177 240 l 2
+ 177 168 227 127 325 127 c 0
+ 349 127 365 129 381 134 c 1
+ 381 -3 l 1
+ 365 -7 344 -10 320 -10 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE675
+Encoding: 58997 58997 76
+Width: 426
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 75 58995 N -1 0 0 1 450 0 2
 EndChar
 EndChars
 EndSplineFont
