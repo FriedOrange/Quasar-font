@@ -1,5 +1,6 @@
 @rem generate intermediate UFO sources
 sfd2ufo source\QuasarOpen-MASTER-100.sfd source\QuasarOpen-MASTER-100.ufo
+sfd2ufo source\QuasarOpen-MASTER-600.sfd source\QuasarOpen-MASTER-600.ufo
 sfd2ufo source\QuasarOpen-MASTER-900.sfd source\QuasarOpen-MASTER-900.ufo
 
 @rem build OpenType fonts

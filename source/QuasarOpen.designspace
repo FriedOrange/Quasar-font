@@ -30,6 +30,11 @@
 				<dimension name="Weight" xvalue="25" />
 			</location>
 		</source>
+		<source familyname="Quasar Open" stylename="SemiBold" filename="QuasarOpen-MASTER-600.ufo" name="opensemibold-master">
+			<location>
+				<dimension name="Weight" xvalue="119" />
+			</location>
+		</source>
 		<source familyname="Quasar Open" stylename="Black" filename="QuasarOpen-MASTER-900.ufo" name="openblack-master">
 			<location>
 				<dimension name="Weight" xvalue="175" />
