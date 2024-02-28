@@ -4,7 +4,7 @@ Quasar: fonts for Quikscript
 Version 1.000
 Copyright Brad Neil, 2023
 
-These fonts are distributed in two formats: TTF for installation on computers; and WOFF for embedding in Web pages. The source code for generating the fonts is available on Github [1]. The Quikscript characters are mapped to the Unicode Private Use Area, so you’ll need to install a special keyboard layout to type with them. Finally, the fonts are all available under the SIL Open Font License 1.1 [2]. This means they may be freely used, distributed, extended and adapted.
+These fonts are distributed in two formats: TTF for installation on computers; and WOFF2 for embedding in Web pages. The source code for generating the fonts is available on Github [1]. The Quikscript characters are mapped to the Unicode Private Use Area, so you’ll need to install a special keyboard layout to type with them. Finally, the fonts are all available under the SIL Open Font License 1.1 [2]. This means they may be freely used, distributed, extended and adapted.
 
 * * *
 
