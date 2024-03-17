@@ -81,7 +81,9 @@
       <string>uniE676</string>
       <string>uniE677</string>
       <string>uniE678</string>
+      <string>uniE679</string>
       <string>uniE67A</string>
+      <string>uniE67B</string>
       <string>uniE67C</string>
       <string>uniE67D</string>
       <string>uniE67E</string>
@@ -230,7 +232,11 @@
       <string>base</string>
       <key>uniE678</key>
       <string>base</string>
+      <key>uniE679</key>
+      <string>base</string>
       <key>uniE67A</key>
+      <string>base</string>
+      <key>uniE67B</key>
       <string>base</string>
       <key>uniE67C</key>
       <string>base</string>

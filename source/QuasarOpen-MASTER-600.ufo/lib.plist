@@ -6,12 +6,18 @@
     <array>
       <string>uniE673</string>
       <string>uniE675</string>
+      <string>uniE679</string>
+      <string>uniE67B</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
       <key>uniE673</key>
       <string>base</string>
       <key>uniE675</key>
+      <string>base</string>
+      <key>uniE679</key>
+      <string>base</string>
+      <key>uniE67B</key>
       <string>base</string>
     </dict>
   </dict>
