@@ -40,6 +40,8 @@
     <string>n.glif</string>
     <key>o</key>
     <string>o.glif</string>
+    <key>out.alt</key>
+    <string>out.alt.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>period</key>
@@ -60,6 +62,8 @@
     <string>t.glif</string>
     <key>u</key>
     <string>u.glif</string>
+    <key>uni0258</key>
+    <string>uni0258.glif</string>
     <key>uni0261</key>
     <string>uni0261.glif</string>
     <key>uni026F</key>

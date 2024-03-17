@@ -39,6 +39,7 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>uni0258</string>
       <string>uni0261</string>
       <string>uni026F</string>
       <string>uniE650</string>
@@ -87,6 +88,7 @@
       <string>uniE67C</string>
       <string>uniE67D</string>
       <string>uniE67E</string>
+      <string>out.alt</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -126,6 +128,8 @@
       <string>base</string>
       <key>o</key>
       <string>base</string>
+      <key>out.alt</key>
+      <string>base</string>
       <key>p</key>
       <string>base</string>
       <key>period</key>
@@ -147,6 +151,8 @@
       <key>two</key>
       <string>base</string>
       <key>u</key>
+      <string>base</string>
+      <key>uni0258</key>
       <string>base</string>
       <key>uni0261</key>
       <string>base</string>
