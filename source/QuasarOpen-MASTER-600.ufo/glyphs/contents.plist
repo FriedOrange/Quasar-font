@@ -2,13 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>uniE673</key>
-    <string>uniE_673.glif</string>
-    <key>uniE675</key>
-    <string>uniE_675.glif</string>
-    <key>uniE679</key>
-    <string>uniE_679.glif</string>
-    <key>uniE67B</key>
-    <string>uniE_67B_.glif</string>
+    <key>age</key>
+    <string>age.glif</string>
+    <key>ice</key>
+    <string>ice.glif</string>
+    <key>oil</key>
+    <string>oil.glif</string>
+    <key>out</key>
+    <string>out.glif</string>
   </dict>
 </plist>

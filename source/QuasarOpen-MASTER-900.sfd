@@ -41,11 +41,11 @@ MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeFull
 UnicodeInterp: none
-NameList: AGL For New Fonts
+NameList: quikscript
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114000 16 8
+WinInfo: 58944 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -54,7 +54,7 @@ Grid
 EndSplineSet
 BeginChars: 1114114 84
 
-StartChar: i
+StartChar: uni0069
 Encoding: 105 105 0
 Width: 295
 Flags: HMW
@@ -74,7 +74,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: o
+StartChar: uni006F
 Encoding: 111 111 1
 Width: 598
 Flags: HMW
@@ -137,7 +137,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: n
+StartChar: uni006E
 Encoding: 110 110 2
 Width: 590
 Flags: HMW
@@ -211,7 +211,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: a
+StartChar: uni0061
 Encoding: 97 97 3
 Width: 609
 Flags: HMW
@@ -247,7 +247,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: g
+StartChar: uni0067
 Encoding: 103 103 4
 Width: 615
 Flags: HMW
@@ -308,7 +308,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: r
+StartChar: uni0072
 Encoding: 114 114 5
 Width: 426
 Flags: HMW
@@ -370,7 +370,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: x
+StartChar: uni0078
 Encoding: 120 120 6
 Width: 587
 Flags: HMW
@@ -445,7 +445,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: q
+StartChar: uni0071
 Encoding: 113 113 7
 Width: 609
 Flags: HMW
@@ -468,7 +468,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: b
+StartChar: uni0062
 Encoding: 98 98 8
 Width: 609
 Flags: HMW
@@ -477,7 +477,7 @@ Fore
 Refer: 7 113 N -1 0 0 -1 609 500 2
 EndChar
 
-StartChar: d
+StartChar: uni0064
 Encoding: 100 100 9
 Width: 609
 Flags: HMW
@@ -486,7 +486,7 @@ Fore
 Refer: 7 113 N 1 0 0 -1 0 500 2
 EndChar
 
-StartChar: p
+StartChar: uni0070
 Encoding: 112 112 10
 Width: 609
 Flags: HMW
@@ -495,7 +495,7 @@ Fore
 Refer: 7 113 N -1 0 0 1 609 0 2
 EndChar
 
-StartChar: l
+StartChar: uni006C
 Encoding: 108 108 11
 Width: 295
 Flags: HMW
@@ -510,7 +510,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u
+StartChar: uni0075
 Encoding: 117 117 12
 Width: 590
 Flags: HMW
@@ -519,7 +519,7 @@ Fore
 Refer: 2 110 N -1 0 0 -1 590 500 2
 EndChar
 
-StartChar: h
+StartChar: uni0068
 Encoding: 104 104 13
 Width: 590
 Flags: HMW
@@ -564,7 +564,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: m
+StartChar: uni006D
 Encoding: 109 109 14
 Width: 885
 Flags: HMW
@@ -643,7 +643,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: e
+StartChar: uni0065
 Encoding: 101 101 15
 Width: 619
 Flags: HMW
@@ -709,7 +709,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: y
+StartChar: uni0079
 Encoding: 121 121 16
 Width: 590
 Flags: HMW
@@ -793,7 +793,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: w
+StartChar: uni0077
 Encoding: 119 119 17
 Width: 885
 Flags: HMW
@@ -860,7 +860,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: f
+StartChar: uni0066
 Encoding: 102 102 19
 Width: 441
 Flags: HMW
@@ -908,7 +908,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: t
+StartChar: uni0074
 Encoding: 116 116 20
 Width: 441
 Flags: HMW
@@ -931,7 +931,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: j
+StartChar: uni006A
 Encoding: 106 106 21
 Width: 385
 Flags: HMW
@@ -968,7 +968,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: c
+StartChar: uni0063
 Encoding: 99 99 22
 Width: 420
 Flags: HMW
@@ -1001,7 +1001,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: s
+StartChar: uni0073
 Encoding: 115 115 23
 Width: 557
 Flags: HMW
@@ -1036,7 +1036,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: v
+StartChar: uni0076
 Encoding: 118 118 24
 Width: 590
 Flags: HMW
@@ -1066,7 +1066,7 @@ Fore
 Refer: 14 109 S -1 0 0 -1 905 500 2
 EndChar
 
-StartChar: k
+StartChar: uni006B
 Encoding: 107 107 26
 Width: 606
 Flags: HMW
@@ -1106,7 +1106,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: z
+StartChar: uni007A
 Encoding: 122 122 27
 Width: 493
 Flags: HMW
@@ -1201,7 +1201,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: period
+StartChar: uni002E
 Encoding: 46 46 29
 Width: 404
 Flags: HMW
@@ -1216,7 +1216,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: comma
+StartChar: uni002C
 Encoding: 44 44 30
 Width: 404
 Flags: HMW
@@ -1251,7 +1251,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: colon
+StartChar: uni003A
 Encoding: 58 58 31
 Width: 404
 Flags: HMW
@@ -1261,7 +1261,7 @@ Refer: 29 46 N 1 0 0 1 0 316 2
 Refer: 29 46 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: semicolon
+StartChar: uni003B
 Encoding: 59 59 32
 Width: 404
 Flags: HMW
@@ -1271,14 +1271,14 @@ Refer: 30 44 N 1 0 0 1 0 0 2
 Refer: 29 46 N 1 0 0 1 0 316 2
 EndChar
 
-StartChar: space
+StartChar: uni0020
 Encoding: 32 32 33
 Width: 340
 Flags: HMW
 LayerCount: 2
 EndChar
 
-StartChar: question
+StartChar: uni003F
 Encoding: 63 63 34
 Width: 488
 Flags: HMW
@@ -1309,7 +1309,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE652
+StartChar: tut
 Encoding: 58962 58962 35
 Width: 295
 Flags: HMW
@@ -1318,7 +1318,7 @@ Fore
 Refer: 11 108 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uniE670
+StartChar: if
 Encoding: 58992 58992 36
 Width: 295
 Flags: HMW
@@ -1333,7 +1333,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE661
+StartChar: winwin
 Encoding: 58977 58977 37
 Width: 295
 Flags: HMW
@@ -1342,7 +1342,7 @@ Fore
 Refer: 11 108 N 1 0 0 1 0 -328 2
 EndChar
 
-StartChar: uniE668
+StartChar: roar
 Encoding: 58984 58984 38
 Width: 420
 Flags: HMW
@@ -1351,7 +1351,7 @@ Fore
 Refer: 22 99 N -1 0 0 -1 420 500 2
 EndChar
 
-StartChar: uniE67C
+StartChar: oak
 Encoding: 59004 59004 39
 Width: 598
 Flags: HMW
@@ -1360,7 +1360,7 @@ Fore
 Refer: 1 111 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uniE67E
+StartChar: ooze
 Encoding: 59006 59006 40
 Width: 590
 Flags: HMW
@@ -1369,7 +1369,7 @@ Fore
 Refer: 2 110 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uniE67D
+StartChar: wool
 Encoding: 59005 59005 41
 Width: 590
 Flags: HMW
@@ -1378,7 +1378,7 @@ Fore
 Refer: 12 117 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uniE67A
+StartChar: ado
 Encoding: 59002 59002 42
 Width: 426
 Flags: HMW
@@ -1387,7 +1387,7 @@ Fore
 Refer: 5 114 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uniE676
+StartChar: ah
 Encoding: 58998 58998 43
 Width: 557
 Flags: HMW
@@ -1396,7 +1396,7 @@ Fore
 Refer: 23 115 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uniE672
+StartChar: ed
 Encoding: 58994 58994 44
 Width: 426
 Flags: HMW
@@ -1405,7 +1405,7 @@ Fore
 Refer: 42 59002 S 1 0 0 -1 0 500 2
 EndChar
 
-StartChar: uniE674
+StartChar: ash
 Encoding: 58996 58996 45
 Width: 426
 Flags: HMW
@@ -1414,7 +1414,7 @@ Fore
 Refer: 42 59002 S -1 0 0 -1 441 500 2
 EndChar
 
-StartChar: uniE678
+StartChar: on
 Encoding: 59000 59000 46
 Width: 426
 Flags: HMW
@@ -1423,7 +1423,7 @@ Fore
 Refer: 42 59002 N -1 0 0 1 426 0 2
 EndChar
 
-StartChar: uniE677
+StartChar: awl
 Encoding: 58999 58999 47
 Width: 557
 Flags: HMW
@@ -1432,7 +1432,7 @@ Fore
 Refer: 43 58998 S -1 0 0 1 557 0 2
 EndChar
 
-StartChar: uniE66B
+StartChar: axe
 Encoding: 58987 58987 48
 Width: 645
 Flags: HMW
@@ -1477,7 +1477,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE66C
+StartChar: exam
 Encoding: 58988 58988 49
 Width: 645
 Flags: HMW
@@ -1486,7 +1486,7 @@ Fore
 Refer: 48 58987 N -1 0 0 -1 650 500 2
 EndChar
 
-StartChar: uniE671
+StartChar: eat
 Encoding: 58993 58993 50
 Width: 590
 Flags: HMW
@@ -1507,7 +1507,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE662
+StartChar: haha
 Encoding: 58978 58978 51
 Width: 524
 Flags: HMW
@@ -1538,7 +1538,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE665
+StartChar: mime
 Encoding: 58981 58981 52
 Width: 609
 Flags: HMW
@@ -1547,7 +1547,7 @@ Fore
 Refer: 62 58973 N -1 0 0 1 620 0 2
 EndChar
 
-StartChar: uniE65C
+StartChar: shush
 Encoding: 58972 58972 53
 Width: 517
 Flags: HMW
@@ -1566,7 +1566,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE656
+StartChar: thoth
 Encoding: 58966 58966 54
 Width: 385
 Flags: HMW
@@ -1589,7 +1589,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE657
+StartChar: thither
 Encoding: 58967 58967 55
 Width: 385
 Flags: HMW
@@ -1598,7 +1598,7 @@ Fore
 Refer: 54 58966 N -1 0 0 -1 399 500 2
 EndChar
 
-StartChar: uniE65B
+StartChar: zoos
 Encoding: 58971 58971 56
 Width: 475
 Flags: HMW
@@ -1607,7 +1607,7 @@ Fore
 Refer: 57 58970 N -1 0 0 1 475 -328 2
 EndChar
 
-StartChar: uniE65A
+StartChar: sis
 Encoding: 58970 58970 57
 Width: 475
 Flags: HMW
@@ -1630,7 +1630,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE659
+StartChar: valve
 Encoding: 58969 58969 58
 Width: 630
 Flags: HMW
@@ -1639,7 +1639,7 @@ Fore
 Refer: 18 609 N -1 0 0 1 610 0 2
 EndChar
 
-StartChar: uniE658
+StartChar: fife
 Encoding: 58968 58968 59
 Width: 630
 Flags: HMW
@@ -1648,7 +1648,7 @@ Fore
 Refer: 58 58969 N -1 0 0 -1 620 500 2
 EndChar
 
-StartChar: uniE651
+StartChar: bob
 Encoding: 58961 58961 60
 Width: 609
 Flags: HMW
@@ -1671,7 +1671,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE660
+StartChar: yoyo
 Encoding: 58976 58976 61
 Width: 609
 Flags: HMW
@@ -1680,7 +1680,7 @@ Fore
 Refer: 60 58961 N -1 0 0 -1 609 500 2
 EndChar
 
-StartChar: uniE65D
+StartChar: zhivago
 Encoding: 58973 58973 62
 Width: 630
 Flags: HMW
@@ -1707,7 +1707,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE669
+StartChar: loch
 Encoding: 58985 58985 63
 Width: 763
 Flags: HW
@@ -1766,7 +1766,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE65E
+StartChar: church
 Encoding: 58974 58974 64
 Width: 755
 Flags: HW
@@ -1794,7 +1794,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE65F
+StartChar: judge
 Encoding: 58975 58975 65
 Width: 761
 Flags: HW
@@ -1803,7 +1803,7 @@ Fore
 Refer: 64 58974 N -1 0 0 -1 755 500 2
 EndChar
 
-StartChar: uniE663
+StartChar: whitewheat
 Encoding: 58979 58979 66
 Width: 542
 Flags: HW
@@ -1812,7 +1812,7 @@ Fore
 Refer: 69 58963 N -1 0 0 1 541 0 2
 EndChar
 
-StartChar: uniE664
+StartChar: inkling
 Encoding: 58980 58980 67
 Width: 615
 Flags: HW
@@ -1871,7 +1871,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE666
+StartChar: nun
 Encoding: 58982 58982 68
 Width: 538
 Flags: HW
@@ -1915,7 +1915,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE653
+StartChar: deed
 Encoding: 58963 58963 69
 Width: 542
 Flags: HW
@@ -1947,7 +1947,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE650
+StartChar: pipe
 Encoding: 58960 58960 70
 Width: 590
 Flags: HW
@@ -1968,7 +1968,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE654
+StartChar: kick
 Encoding: 58964 58964 71
 Width: 420
 Flags: HW
@@ -1998,7 +1998,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE655
+StartChar: gig
 Encoding: 58965 58965 72
 Width: 615
 Flags: HW
@@ -2050,7 +2050,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE667
+StartChar: loll
 Encoding: 58983 58983 73
 Width: 557
 Flags: HW
@@ -2089,7 +2089,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE66A
+StartChar: llan
 Encoding: 58986 58986 74
 Width: 557
 Flags: HW
@@ -2098,7 +2098,7 @@ Fore
 Refer: 73 58983 N -1 0 0 1 578 0 2
 EndChar
 
-StartChar: uniE673
+StartChar: age
 Encoding: 58995 58995 75
 Width: 426
 Flags: HW
@@ -2147,7 +2147,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE675
+StartChar: ice
 Encoding: 58997 58997 76
 Width: 426
 Flags: HW
@@ -2156,7 +2156,7 @@ Fore
 Refer: 75 58995 N -1 0 0 1 450 0 2
 EndChar
 
-StartChar: uniE66E
+StartChar: qsbracketleft
 Encoding: 58990 58990 77
 Width: 385
 Flags: HW
@@ -2173,7 +2173,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE66F
+StartChar: qsbracketright
 Encoding: 58991 58991 78
 Width: 385
 Flags: HW
@@ -2182,7 +2182,7 @@ Fore
 Refer: 77 58990 N -1 0 0 -1 409 500 2
 EndChar
 
-StartChar: exclam
+StartChar: uni0021
 Encoding: 33 33 79
 Width: 404
 Flags: HW
@@ -2202,7 +2202,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE679
+StartChar: oil
 Encoding: 59001 59001 80
 Width: 426
 Flags: HWO
@@ -2225,7 +2225,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE67B
+StartChar: out
 Encoding: 59003 59003 81
 Width: 426
 Flags: HW

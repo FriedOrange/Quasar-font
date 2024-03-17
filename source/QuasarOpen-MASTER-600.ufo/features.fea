@@ -1,4 +1,4 @@
-@GDEF_base = [uniE673 uniE675 uniE679 uniE67B];
+@GDEF_base = [age ice oil out];
 @GDEF_mark = [];
 @GDEF_ligature = [];
 @GDEF_component = [];

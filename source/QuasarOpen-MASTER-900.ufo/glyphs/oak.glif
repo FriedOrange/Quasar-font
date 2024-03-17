@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oak" format="2">
+  <advance width="598"/>
+  <unicode hex="E67C"/>
+  <outline>
+    <component base="uni006F"/>
+  </outline>
+</glyph>

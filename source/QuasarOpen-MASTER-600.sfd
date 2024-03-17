@@ -39,7 +39,7 @@ MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeFull
 UnicodeInterp: none
-NameList: AGL For New Fonts
+NameList: quikscript
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
@@ -48,7 +48,7 @@ BeginPrivate: 0
 EndPrivate
 BeginChars: 1114112 4
 
-StartChar: uniE673
+StartChar: age
 Encoding: 58995 58995 0
 Width: 426
 Flags: HW
@@ -124,7 +124,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE675
+StartChar: ice
 Encoding: 58997 58997 1
 Width: 426
 Flags: HW
@@ -133,7 +133,7 @@ Fore
 Refer: 0 58995 N -1 0 0 1 436 0 2
 EndChar
 
-StartChar: uniE679
+StartChar: oil
 Encoding: 59001 59001 2
 Width: 426
 Flags: HW
@@ -156,7 +156,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniE67B
+StartChar: out
 Encoding: 59003 59003 3
 Width: 426
 Flags: HWO

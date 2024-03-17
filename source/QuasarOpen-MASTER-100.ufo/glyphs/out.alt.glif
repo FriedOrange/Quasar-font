@@ -2,6 +2,6 @@
 <glyph name="out.alt" format="2">
   <advance width="619"/>
   <outline>
-    <component base="a" xScale="-1.0" xOffset="598.0"/>
+    <component base="uni0061" xScale="-1.0" xOffset="598.0"/>
   </outline>
 </glyph>

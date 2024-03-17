@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="deed" format="2">
+  <advance width="542"/>
+  <unicode hex="E653"/>
+  <outline>
+    <contour>
+      <point x="60.0" y="500.0" type="line"/>
+      <point x="235.0" y="500.0" type="line"/>
+      <point x="235.0" y="-328.0" type="line"/>
+      <point x="60.0" y="-328.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="460.0" y="175.0" type="curve" smooth="yes"/>
+      <point x="474.0" y="175.0"/>
+      <point x="488.0" y="174.0"/>
+      <point x="501.0" y="170.0" type="curve"/>
+      <point x="501.0" y="-5.0" type="line"/>
+      <point x="486.0" y="-1.0"/>
+      <point x="469.0" y="0.0"/>
+      <point x="455.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="342.447265625" y="0.0"/>
+      <point x="235.0" y="-92.9599609375"/>
+      <point x="235.0" y="-220.0" type="curve" smooth="yes"/>
+      <point x="235.0" y="-263.0" type="line"/>
+      <point x="160.0" y="-263.0" type="line"/>
+      <point x="160.0" y="-200.0" type="line" smooth="yes"/>
+      <point x="160.0" y="18.0"/>
+      <point x="245.99609375" y="175.0"/>
+    </contour>
+  </outline>
+</glyph>

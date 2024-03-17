@@ -5,149 +5,237 @@
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>
-      <string>space</string>
-      <string>exclam</string>
-      <string>comma</string>
-      <string>period</string>
-      <string>colon</string>
-      <string>semicolon</string>
-      <string>question</string>
-      <string>a</string>
-      <string>b</string>
-      <string>c</string>
-      <string>d</string>
-      <string>e</string>
-      <string>f</string>
-      <string>g</string>
-      <string>h</string>
-      <string>i</string>
-      <string>j</string>
-      <string>k</string>
-      <string>l</string>
-      <string>m</string>
-      <string>n</string>
-      <string>o</string>
-      <string>p</string>
-      <string>q</string>
-      <string>r</string>
-      <string>s</string>
-      <string>t</string>
-      <string>u</string>
-      <string>v</string>
-      <string>w</string>
-      <string>x</string>
-      <string>y</string>
-      <string>z</string>
+      <string>uni0020</string>
+      <string>uni0021</string>
+      <string>uni002C</string>
+      <string>uni002E</string>
+      <string>uni003A</string>
+      <string>uni003B</string>
+      <string>uni003F</string>
+      <string>uni0061</string>
+      <string>uni0062</string>
+      <string>uni0063</string>
+      <string>uni0064</string>
+      <string>uni0065</string>
+      <string>uni0066</string>
+      <string>uni0067</string>
+      <string>uni0068</string>
+      <string>uni0069</string>
+      <string>uni006A</string>
+      <string>uni006B</string>
+      <string>uni006C</string>
+      <string>uni006D</string>
+      <string>uni006E</string>
+      <string>uni006F</string>
+      <string>uni0070</string>
+      <string>uni0071</string>
+      <string>uni0072</string>
+      <string>uni0073</string>
+      <string>uni0074</string>
+      <string>uni0075</string>
+      <string>uni0076</string>
+      <string>uni0077</string>
+      <string>uni0078</string>
+      <string>uni0079</string>
+      <string>uni007A</string>
       <string>uni0258</string>
       <string>uni0261</string>
       <string>uni026F</string>
-      <string>uniE650</string>
-      <string>uniE651</string>
-      <string>uniE652</string>
-      <string>uniE653</string>
-      <string>uniE654</string>
-      <string>uniE655</string>
-      <string>uniE656</string>
-      <string>uniE657</string>
-      <string>uniE658</string>
-      <string>uniE659</string>
-      <string>uniE65A</string>
-      <string>uniE65B</string>
-      <string>uniE65C</string>
-      <string>uniE65D</string>
-      <string>uniE65E</string>
-      <string>uniE65F</string>
-      <string>uniE660</string>
-      <string>uniE661</string>
-      <string>uniE662</string>
-      <string>uniE663</string>
-      <string>uniE664</string>
-      <string>uniE665</string>
-      <string>uniE666</string>
-      <string>uniE667</string>
-      <string>uniE668</string>
-      <string>uniE669</string>
-      <string>uniE66A</string>
-      <string>uniE66B</string>
-      <string>uniE66C</string>
-      <string>uniE66E</string>
-      <string>uniE66F</string>
-      <string>uniE670</string>
-      <string>uniE671</string>
-      <string>uniE672</string>
-      <string>uniE673</string>
-      <string>uniE674</string>
-      <string>uniE675</string>
-      <string>uniE676</string>
-      <string>uniE677</string>
-      <string>uniE678</string>
-      <string>uniE679</string>
-      <string>uniE67A</string>
-      <string>uniE67B</string>
-      <string>uniE67C</string>
-      <string>uniE67D</string>
-      <string>uniE67E</string>
+      <string>pipe</string>
+      <string>bob</string>
+      <string>tut</string>
+      <string>deed</string>
+      <string>kick</string>
+      <string>gig</string>
+      <string>thoth</string>
+      <string>thither</string>
+      <string>fife</string>
+      <string>valve</string>
+      <string>sis</string>
+      <string>zoos</string>
+      <string>shush</string>
+      <string>zhivago</string>
+      <string>church</string>
+      <string>judge</string>
+      <string>yoyo</string>
+      <string>winwin</string>
+      <string>haha</string>
+      <string>whitewheat</string>
+      <string>inkling</string>
+      <string>mime</string>
+      <string>nun</string>
+      <string>loll</string>
+      <string>roar</string>
+      <string>loch</string>
+      <string>llan</string>
+      <string>axe</string>
+      <string>exam</string>
+      <string>qsbracketleft</string>
+      <string>qsbracketright</string>
+      <string>if</string>
+      <string>eat</string>
+      <string>ed</string>
+      <string>age</string>
+      <string>ash</string>
+      <string>ice</string>
+      <string>ah</string>
+      <string>awl</string>
+      <string>on</string>
+      <string>oil</string>
+      <string>ado</string>
+      <string>out</string>
+      <string>oak</string>
+      <string>wool</string>
+      <string>ooze</string>
       <string>out.alt</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
-      <key>a</key>
+      <key>ado</key>
       <string>base</string>
-      <key>b</key>
+      <key>age</key>
       <string>base</string>
-      <key>c</key>
+      <key>ah</key>
       <string>base</string>
-      <key>colon</key>
+      <key>ash</key>
       <string>base</string>
-      <key>comma</key>
+      <key>awl</key>
       <string>base</string>
-      <key>d</key>
+      <key>axe</key>
       <string>base</string>
-      <key>e</key>
+      <key>bob</key>
       <string>base</string>
-      <key>exclam</key>
+      <key>church</key>
       <string>base</string>
-      <key>f</key>
+      <key>deed</key>
       <string>base</string>
-      <key>g</key>
+      <key>eat</key>
       <string>base</string>
-      <key>h</key>
+      <key>ed</key>
       <string>base</string>
-      <key>i</key>
+      <key>exam</key>
       <string>base</string>
-      <key>j</key>
+      <key>fife</key>
       <string>base</string>
-      <key>k</key>
+      <key>gig</key>
       <string>base</string>
-      <key>l</key>
+      <key>haha</key>
       <string>base</string>
-      <key>m</key>
+      <key>ice</key>
       <string>base</string>
-      <key>n</key>
+      <key>if</key>
       <string>base</string>
-      <key>o</key>
+      <key>inkling</key>
+      <string>base</string>
+      <key>judge</key>
+      <string>base</string>
+      <key>kick</key>
+      <string>base</string>
+      <key>llan</key>
+      <string>base</string>
+      <key>loch</key>
+      <string>base</string>
+      <key>loll</key>
+      <string>base</string>
+      <key>mime</key>
+      <string>base</string>
+      <key>nun</key>
+      <string>base</string>
+      <key>oak</key>
+      <string>base</string>
+      <key>oil</key>
+      <string>base</string>
+      <key>on</key>
+      <string>base</string>
+      <key>ooze</key>
+      <string>base</string>
+      <key>out</key>
       <string>base</string>
       <key>out.alt</key>
       <string>base</string>
-      <key>p</key>
+      <key>pipe</key>
       <string>base</string>
-      <key>period</key>
+      <key>qsbracketleft</key>
       <string>base</string>
-      <key>q</key>
+      <key>qsbracketright</key>
       <string>base</string>
-      <key>question</key>
+      <key>roar</key>
       <string>base</string>
-      <key>r</key>
+      <key>shush</key>
       <string>base</string>
-      <key>s</key>
+      <key>sis</key>
       <string>base</string>
-      <key>semicolon</key>
+      <key>thither</key>
       <string>base</string>
-      <key>space</key>
+      <key>thoth</key>
       <string>base</string>
-      <key>t</key>
+      <key>tut</key>
       <string>base</string>
-      <key>u</key>
+      <key>uni0020</key>
+      <string>base</string>
+      <key>uni0021</key>
+      <string>base</string>
+      <key>uni002C</key>
+      <string>base</string>
+      <key>uni002E</key>
+      <string>base</string>
+      <key>uni003A</key>
+      <string>base</string>
+      <key>uni003B</key>
+      <string>base</string>
+      <key>uni003F</key>
+      <string>base</string>
+      <key>uni0061</key>
+      <string>base</string>
+      <key>uni0062</key>
+      <string>base</string>
+      <key>uni0063</key>
+      <string>base</string>
+      <key>uni0064</key>
+      <string>base</string>
+      <key>uni0065</key>
+      <string>base</string>
+      <key>uni0066</key>
+      <string>base</string>
+      <key>uni0067</key>
+      <string>base</string>
+      <key>uni0068</key>
+      <string>base</string>
+      <key>uni0069</key>
+      <string>base</string>
+      <key>uni006A</key>
+      <string>base</string>
+      <key>uni006B</key>
+      <string>base</string>
+      <key>uni006C</key>
+      <string>base</string>
+      <key>uni006D</key>
+      <string>base</string>
+      <key>uni006E</key>
+      <string>base</string>
+      <key>uni006F</key>
+      <string>base</string>
+      <key>uni0070</key>
+      <string>base</string>
+      <key>uni0071</key>
+      <string>base</string>
+      <key>uni0072</key>
+      <string>base</string>
+      <key>uni0073</key>
+      <string>base</string>
+      <key>uni0074</key>
+      <string>base</string>
+      <key>uni0075</key>
+      <string>base</string>
+      <key>uni0076</key>
+      <string>base</string>
+      <key>uni0077</key>
+      <string>base</string>
+      <key>uni0078</key>
+      <string>base</string>
+      <key>uni0079</key>
+      <string>base</string>
+      <key>uni007A</key>
       <string>base</string>
       <key>uni0258</key>
       <string>base</string>
@@ -155,107 +243,19 @@
       <string>base</string>
       <key>uni026F</key>
       <string>base</string>
-      <key>uniE650</key>
+      <key>valve</key>
       <string>base</string>
-      <key>uniE651</key>
+      <key>whitewheat</key>
       <string>base</string>
-      <key>uniE652</key>
+      <key>winwin</key>
       <string>base</string>
-      <key>uniE653</key>
+      <key>wool</key>
       <string>base</string>
-      <key>uniE654</key>
+      <key>yoyo</key>
       <string>base</string>
-      <key>uniE655</key>
+      <key>zhivago</key>
       <string>base</string>
-      <key>uniE656</key>
-      <string>base</string>
-      <key>uniE657</key>
-      <string>base</string>
-      <key>uniE658</key>
-      <string>base</string>
-      <key>uniE659</key>
-      <string>base</string>
-      <key>uniE65A</key>
-      <string>base</string>
-      <key>uniE65B</key>
-      <string>base</string>
-      <key>uniE65C</key>
-      <string>base</string>
-      <key>uniE65D</key>
-      <string>base</string>
-      <key>uniE65E</key>
-      <string>base</string>
-      <key>uniE65F</key>
-      <string>base</string>
-      <key>uniE660</key>
-      <string>base</string>
-      <key>uniE661</key>
-      <string>base</string>
-      <key>uniE662</key>
-      <string>base</string>
-      <key>uniE663</key>
-      <string>base</string>
-      <key>uniE664</key>
-      <string>base</string>
-      <key>uniE665</key>
-      <string>base</string>
-      <key>uniE666</key>
-      <string>base</string>
-      <key>uniE667</key>
-      <string>base</string>
-      <key>uniE668</key>
-      <string>base</string>
-      <key>uniE669</key>
-      <string>base</string>
-      <key>uniE66A</key>
-      <string>base</string>
-      <key>uniE66B</key>
-      <string>base</string>
-      <key>uniE66C</key>
-      <string>base</string>
-      <key>uniE66E</key>
-      <string>base</string>
-      <key>uniE66F</key>
-      <string>base</string>
-      <key>uniE670</key>
-      <string>base</string>
-      <key>uniE671</key>
-      <string>base</string>
-      <key>uniE672</key>
-      <string>base</string>
-      <key>uniE673</key>
-      <string>base</string>
-      <key>uniE674</key>
-      <string>base</string>
-      <key>uniE675</key>
-      <string>base</string>
-      <key>uniE676</key>
-      <string>base</string>
-      <key>uniE677</key>
-      <string>base</string>
-      <key>uniE678</key>
-      <string>base</string>
-      <key>uniE679</key>
-      <string>base</string>
-      <key>uniE67A</key>
-      <string>base</string>
-      <key>uniE67B</key>
-      <string>base</string>
-      <key>uniE67C</key>
-      <string>base</string>
-      <key>uniE67D</key>
-      <string>base</string>
-      <key>uniE67E</key>
-      <string>base</string>
-      <key>v</key>
-      <string>base</string>
-      <key>w</key>
-      <string>base</string>
-      <key>x</key>
-      <string>base</string>
-      <key>y</key>
-      <string>base</string>
-      <key>z</key>
+      <key>zoos</key>
       <string>base</string>
     </dict>
   </dict>

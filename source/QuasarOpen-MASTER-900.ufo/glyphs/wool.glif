@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wool" format="2">
+  <advance width="590"/>
+  <unicode hex="E67D"/>
+  <outline>
+    <component base="uni0075"/>
+  </outline>
+</glyph>

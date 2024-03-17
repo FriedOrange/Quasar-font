@@ -4,20 +4,20 @@
   <dict>
     <key>public.glyphOrder</key>
     <array>
-      <string>uniE673</string>
-      <string>uniE675</string>
-      <string>uniE679</string>
-      <string>uniE67B</string>
+      <string>age</string>
+      <string>ice</string>
+      <string>oil</string>
+      <string>out</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
-      <key>uniE673</key>
+      <key>age</key>
       <string>base</string>
-      <key>uniE675</key>
+      <key>ice</key>
       <string>base</string>
-      <key>uniE679</key>
+      <key>oil</key>
       <string>base</string>
-      <key>uniE67B</key>
+      <key>out</key>
       <string>base</string>
     </dict>
   </dict>
