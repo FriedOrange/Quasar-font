@@ -4,6 +4,8 @@
   <dict>
     <key>.notdef</key>
     <string>_notdef.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
     <key>ado</key>
     <string>ado.glif</string>
     <key>age</key>
@@ -16,44 +18,78 @@
     <string>awl.glif</string>
     <key>axe</key>
     <string>axe.glif</string>
+    <key>b</key>
+    <string>b.glif</string>
     <key>bob</key>
     <string>bob.glif</string>
+    <key>c</key>
+    <string>c.glif</string>
     <key>church</key>
     <string>church.glif</string>
+    <key>colon</key>
+    <string>colon.glif</string>
+    <key>comma</key>
+    <string>comma.glif</string>
+    <key>d</key>
+    <string>d.glif</string>
     <key>deed</key>
     <string>deed.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
     <key>eat</key>
     <string>eat.glif</string>
     <key>ed</key>
     <string>ed.glif</string>
     <key>exam</key>
     <string>exam.glif</string>
+    <key>exclam</key>
+    <string>exclam.glif</string>
+    <key>f</key>
+    <string>f.glif</string>
     <key>fife</key>
     <string>fife.glif</string>
+    <key>g</key>
+    <string>g.glif</string>
     <key>gig</key>
     <string>gig.glif</string>
+    <key>h</key>
+    <string>h.glif</string>
     <key>haha</key>
     <string>haha.glif</string>
+    <key>i</key>
+    <string>i.glif</string>
     <key>ice</key>
     <string>ice.glif</string>
     <key>if</key>
     <string>if.glif</string>
     <key>inkling</key>
     <string>inkling.glif</string>
+    <key>j</key>
+    <string>j.glif</string>
     <key>judge</key>
     <string>judge.glif</string>
+    <key>k</key>
+    <string>k.glif</string>
     <key>kick</key>
     <string>kick.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
     <key>llan</key>
     <string>llan.glif</string>
     <key>loch</key>
     <string>loch.glif</string>
     <key>loll</key>
     <string>loll.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
     <key>mime</key>
     <string>mime.glif</string>
+    <key>n</key>
+    <string>n.glif</string>
     <key>nun</key>
     <string>nun.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
     <key>oak</key>
     <string>oak.glif</string>
     <key>oil</key>
@@ -66,106 +102,70 @@
     <string>out.glif</string>
     <key>out.alt</key>
     <string>out.alt.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
+    <key>period</key>
+    <string>period.glif</string>
     <key>pipe</key>
     <string>pipe.glif</string>
+    <key>q</key>
+    <string>q.glif</string>
     <key>qsbracketleft</key>
     <string>qsbracketleft.glif</string>
     <key>qsbracketright</key>
     <string>qsbracketright.glif</string>
+    <key>question</key>
+    <string>question.glif</string>
+    <key>r</key>
+    <string>r.glif</string>
     <key>roar</key>
     <string>roar.glif</string>
+    <key>s</key>
+    <string>s.glif</string>
+    <key>semicolon</key>
+    <string>semicolon.glif</string>
     <key>shush</key>
     <string>shush.glif</string>
     <key>sis</key>
     <string>sis.glif</string>
+    <key>space</key>
+    <string>space.glif</string>
+    <key>t</key>
+    <string>t.glif</string>
     <key>thither</key>
     <string>thither.glif</string>
     <key>thoth</key>
     <string>thoth.glif</string>
     <key>tut</key>
     <string>tut.glif</string>
-    <key>uni0020</key>
-    <string>uni0020.glif</string>
-    <key>uni0021</key>
-    <string>uni0021.glif</string>
-    <key>uni002C</key>
-    <string>uni002C_.glif</string>
-    <key>uni002E</key>
-    <string>uni002E_.glif</string>
-    <key>uni003A</key>
-    <string>uni003A_.glif</string>
-    <key>uni003B</key>
-    <string>uni003B_.glif</string>
-    <key>uni003F</key>
-    <string>uni003F_.glif</string>
-    <key>uni0061</key>
-    <string>uni0061.glif</string>
-    <key>uni0062</key>
-    <string>uni0062.glif</string>
-    <key>uni0063</key>
-    <string>uni0063.glif</string>
-    <key>uni0064</key>
-    <string>uni0064.glif</string>
-    <key>uni0065</key>
-    <string>uni0065.glif</string>
-    <key>uni0066</key>
-    <string>uni0066.glif</string>
-    <key>uni0067</key>
-    <string>uni0067.glif</string>
-    <key>uni0068</key>
-    <string>uni0068.glif</string>
-    <key>uni0069</key>
-    <string>uni0069.glif</string>
-    <key>uni006A</key>
-    <string>uni006A_.glif</string>
-    <key>uni006B</key>
-    <string>uni006B_.glif</string>
-    <key>uni006C</key>
-    <string>uni006C_.glif</string>
-    <key>uni006D</key>
-    <string>uni006D_.glif</string>
-    <key>uni006E</key>
-    <string>uni006E_.glif</string>
-    <key>uni006F</key>
-    <string>uni006F_.glif</string>
-    <key>uni0070</key>
-    <string>uni0070.glif</string>
-    <key>uni0071</key>
-    <string>uni0071.glif</string>
-    <key>uni0072</key>
-    <string>uni0072.glif</string>
-    <key>uni0073</key>
-    <string>uni0073.glif</string>
-    <key>uni0074</key>
-    <string>uni0074.glif</string>
-    <key>uni0075</key>
-    <string>uni0075.glif</string>
-    <key>uni0076</key>
-    <string>uni0076.glif</string>
-    <key>uni0077</key>
-    <string>uni0077.glif</string>
-    <key>uni0078</key>
-    <string>uni0078.glif</string>
-    <key>uni0079</key>
-    <string>uni0079.glif</string>
-    <key>uni007A</key>
-    <string>uni007A_.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
     <key>uni0258</key>
     <string>uni0258.glif</string>
     <key>uni0261</key>
     <string>uni0261.glif</string>
     <key>uni026F</key>
     <string>uni026F_.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
     <key>valve</key>
     <string>valve.glif</string>
+    <key>w</key>
+    <string>w.glif</string>
     <key>whitewheat</key>
     <string>whitewheat.glif</string>
     <key>winwin</key>
     <string>winwin.glif</string>
     <key>wool</key>
     <string>wool.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
+    <key>y</key>
+    <string>y.glif</string>
     <key>yoyo</key>
     <string>yoyo.glif</string>
+    <key>z</key>
+    <string>z.glif</string>
     <key>zhivago</key>
     <string>zhivago.glif</string>
     <key>zoos</key>

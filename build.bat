@@ -2,6 +2,8 @@
 sfd2ufo source\QuasarOpen-MASTER-100.sfd source\QuasarOpen-MASTER-100.ufo
 sfd2ufo source\QuasarOpen-MASTER-600.sfd source\QuasarOpen-MASTER-600.ufo
 sfd2ufo source\QuasarOpen-MASTER-900.sfd source\QuasarOpen-MASTER-900.ufo
+copy source\features.fea source\QuasarOpen-MASTER-100.ufo\features.fea
+copy source\features.fea source\QuasarOpen-MASTER-900.ufo\features.fea
 
 @rem build OpenType fonts
 @cd source

@@ -1,11 +1,18 @@
-@GDEF_base = [ado age ah ash awl axe bob church deed eat ed exam fife gig haha ice if inkling judge kick llan loch loll mime nun oak oil on ooze out out.alt pipe qsbracketleft qsbracketright roar shush sis thither thoth tut uni0020 uni0021 uni002C uni002E uni003A uni003B uni003F uni0061 uni0062 uni0063 uni0064 uni0065 uni0066 uni0067 uni0068 uni0069 uni006A uni006B uni006C uni006D uni006E uni006F uni0070 uni0071 uni0072 uni0073 uni0074 uni0075 uni0076 uni0077 uni0078 uni0079 uni007A uni0258 uni0261 uni026F valve whitewheat winwin wool yoyo zhivago zoos];
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature salt {
+    sub ice by uni0258;
+    sub age by e;
+    sub oil by a;
+    sub out by out.alt;
+} salt;
+
+@GDEF_base = [a ado age ah ash awl axe b bob c church colon comma d deed e eat ed exam exclam f fife g gig h haha i ice if inkling j judge k kick l llan loch loll m mime n nun o oak oil on ooze out out.alt p period pipe q qsbracketleft qsbracketright question r roar s semicolon shush sis space t thither thoth tut u uni0258 uni0261 uni026F v valve w whitewheat winwin wool x y yoyo z zhivago zoos];
 @GDEF_mark = [];
 @GDEF_ligature = [];
 @GDEF_component = [];
 
-            table GDEF {
-            GlyphClassDef @GDEF_base,
-                          @GDEF_ligature,
-                          @GDEF_mark,
-                          @GDEF_component;
+table GDEF {
+    GlyphClassDef @GDEF_base, @GDEF_ligature, @GDEF_mark, @GDEF_component;
 } GDEF;

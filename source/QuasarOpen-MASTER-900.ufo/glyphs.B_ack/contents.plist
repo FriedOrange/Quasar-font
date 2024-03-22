@@ -4,55 +4,55 @@
   <dict>
     <key>.notdef</key>
     <string>_notdef.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
     <key>age</key>
     <string>age.glif</string>
     <key>axe</key>
     <string>axe.glif</string>
+    <key>c</key>
+    <string>c.glif</string>
+    <key>comma</key>
+    <string>comma.glif</string>
     <key>deed</key>
     <string>deed.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
+    <key>g</key>
+    <string>g.glif</string>
     <key>gig</key>
     <string>gig.glif</string>
+    <key>h</key>
+    <string>h.glif</string>
     <key>haha</key>
     <string>haha.glif</string>
     <key>inkling</key>
     <string>inkling.glif</string>
+    <key>j</key>
+    <string>j.glif</string>
     <key>loch</key>
     <string>loch.glif</string>
     <key>loll</key>
     <string>loll.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
+    <key>n</key>
+    <string>n.glif</string>
     <key>nun</key>
     <string>nun.glif</string>
-    <key>uni002C</key>
-    <string>uni002C_.glif</string>
-    <key>uni0061</key>
-    <string>uni0061.glif</string>
-    <key>uni0063</key>
-    <string>uni0063.glif</string>
-    <key>uni0065</key>
-    <string>uni0065.glif</string>
-    <key>uni0067</key>
-    <string>uni0067.glif</string>
-    <key>uni0068</key>
-    <string>uni0068.glif</string>
-    <key>uni006A</key>
-    <string>uni006A_.glif</string>
-    <key>uni006D</key>
-    <string>uni006D_.glif</string>
-    <key>uni006E</key>
-    <string>uni006E_.glif</string>
-    <key>uni006F</key>
-    <string>uni006F_.glif</string>
-    <key>uni0072</key>
-    <string>uni0072.glif</string>
-    <key>uni0073</key>
-    <string>uni0073.glif</string>
-    <key>uni0078</key>
-    <string>uni0078.glif</string>
-    <key>uni0079</key>
-    <string>uni0079.glif</string>
-    <key>uni007A</key>
-    <string>uni007A_.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
+    <key>r</key>
+    <string>r.glif</string>
+    <key>s</key>
+    <string>s.glif</string>
     <key>uni0261</key>
     <string>uni0261.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
+    <key>y</key>
+    <string>y.glif</string>
+    <key>z</key>
+    <string>z.glif</string>
   </dict>
 </plist>
