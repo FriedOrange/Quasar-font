@@ -10,6 +10,8 @@
     <string>ado.glif</string>
     <key>age</key>
     <string>age.glif</string>
+    <key>age.alt</key>
+    <string>age.alt.glif</string>
     <key>ah</key>
     <string>ah.glif</string>
     <key>ash</key>
@@ -60,6 +62,8 @@
     <string>i.glif</string>
     <key>ice</key>
     <string>ice.glif</string>
+    <key>ice.alt</key>
+    <string>ice.alt.glif</string>
     <key>if</key>
     <string>if.glif</string>
     <key>inkling</key>
@@ -94,6 +98,8 @@
     <string>oak.glif</string>
     <key>oil</key>
     <string>oil.glif</string>
+    <key>oil.alt</key>
+    <string>oil.alt.glif</string>
     <key>on</key>
     <string>on.glif</string>
     <key>ooze</key>

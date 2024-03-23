@@ -87,6 +87,9 @@
       <string>oak</string>
       <string>wool</string>
       <string>ooze</string>
+      <string>age.alt</string>
+      <string>ice.alt</string>
+      <string>oil.alt</string>
       <string>out.alt</string>
     </array>
     <key>public.openTypeCategories</key>
@@ -96,6 +99,8 @@
       <key>ado</key>
       <string>base</string>
       <key>age</key>
+      <string>base</string>
+      <key>age.alt</key>
       <string>base</string>
       <key>ah</key>
       <string>base</string>
@@ -147,6 +152,8 @@
       <string>base</string>
       <key>ice</key>
       <string>base</string>
+      <key>ice.alt</key>
+      <string>base</string>
       <key>if</key>
       <string>base</string>
       <key>inkling</key>
@@ -180,6 +187,8 @@
       <key>oak</key>
       <string>base</string>
       <key>oil</key>
+      <string>base</string>
+      <key>oil.alt</key>
       <string>base</string>
       <key>on</key>
       <string>base</string>

@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1711089123
+ModificationTime: 1711160050
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,14 +45,14 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 16 8
+WinInfo: 1114000 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114114 84
+BeginChars: 1114117 87
 
 StartChar: i
 Encoding: 105 105 0
@@ -2149,13 +2149,79 @@ Fore
 Refer: 15 101 N -1 0 0 1 608 0 2
 EndChar
 
-StartChar: out.alt
+StartChar: age.alt
 Encoding: 1114113 -1 83
+Width: 629
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+304 25 m 2
+ 549 25 l 1
+ 549 0 l 1
+ 304 0 l 2
+ 155 0 49 105 49 250 c 2
+ 49 500 l 1
+ 74 500 l 1
+ 74 366.062400542 l 1
+ 74 250 l 2
+ 74 121 170 25 304 25 c 2
+138 450.738399173 m 1
+ 181.501681784 487.851312985 238.609999406 510 304 510 c 0
+ 453 510 559 395 559 250 c 0
+ 559 188.881835938 540.166992188 133.092773438 507.219726562 89 c 1
+ 473.774414062 89 l 1
+ 511.770507812 131.174804688 534 187.924804688 534 250 c 0
+ 534 379 438 485 304 485 c 0
+ 236.587914323 485 178.79304814 458.173019308 138 415.086673092 c 1
+ 138 450.738399173 l 1
+EndSplineSet
+EndChar
+
+StartChar: ice.alt
+Encoding: 1114114 -1 84
+Width: 629
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 83 -1 N -1 0 0 1 608 0 2
+EndChar
+
+StartChar: oil.alt
+Encoding: 1114115 -1 85
 Width: 619
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 7 97 N -1 0 0 1 598 0 2
+Refer: 86 -1 N -1 0 0 1 598 0 2
+EndChar
+
+StartChar: out.alt
+Encoding: 1114116 -1 86
+Width: 619
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+539 475 m 1
+ 294 475 l 2
+ 185 475 74 404 74 237 c 2
+ 74 0 l 1
+ 49 0 l 1
+ 49 238 l 2
+ 49 419 170 500 294 500 c 2
+ 539 500 l 1
+ 539 475 l 1
+497.21942052 411 m 1
+ 530.167147518 366.907069809 549 311.118561199 549 250 c 0
+ 549 105 443 -10 294 -10 c 0
+ 233.506835938 -10 180.1015625 8.955078125 138 41.1787109375 c 1
+ 138 74.9951171875 l 1
+ 178 37.7490234375 231.922851562 15 294 15 c 0
+ 428 15 524 121 524 250 c 0
+ 524 312.07526075 501.770539768 368.824713318 463.774327099 411 c 1
+ 497.21942052 411 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

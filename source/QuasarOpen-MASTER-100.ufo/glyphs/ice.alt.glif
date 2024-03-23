@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ice.alt" format="2">
+  <advance width="629"/>
+  <outline>
+    <component base="age.alt" xScale="-1.0" xOffset="608.0"/>
+  </outline>
+</glyph>
