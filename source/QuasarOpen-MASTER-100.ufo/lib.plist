@@ -8,6 +8,7 @@
       <string>space</string>
       <string>exclam</string>
       <string>comma</string>
+      <string>hyphen</string>
       <string>period</string>
       <string>colon</string>
       <string>semicolon</string>
@@ -151,6 +152,8 @@
       <key>h</key>
       <string>base</string>
       <key>haha</key>
+      <string>base</string>
+      <key>hyphen</key>
       <string>base</string>
       <key>i</key>
       <string>base</string>
