@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="age" format="2">
-  <advance width="426"/>
+  <advance width="435"/>
   <outline>
     <contour>
       <point x="213.0" y="349.0" type="curve" smooth="yes"/>

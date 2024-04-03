@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zoos" format="2">
-  <advance width="497"/>
+  <advance width="579"/>
   <unicode hex="E65B"/>
   <outline>
-    <component base="sis" xScale="-1.0" xOffset="497.0" yOffset="-328.0"/>
+    <component base="sis" xScale="-1.0" xOffset="579.0" yOffset="-328.0"/>
   </outline>
 </glyph>

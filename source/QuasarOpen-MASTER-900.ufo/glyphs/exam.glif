@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exam" format="2">
-  <advance width="645"/>
+  <advance width="620"/>
   <unicode hex="E66C"/>
   <outline>
-    <component base="axe" xScale="-1.0" yScale="-1.0" xOffset="650.0" yOffset="500.0"/>
+    <component base="axe" xScale="-1.0" yScale="-1.0" xOffset="620.0" yOffset="500.0"/>
   </outline>
 </glyph>

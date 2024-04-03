@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="deed" format="2">
-  <advance width="542"/>
+  <advance width="546"/>
   <outline>
     <contour>
       <point x="235.0" y="-220.0" type="curve" smooth="yes"/>
