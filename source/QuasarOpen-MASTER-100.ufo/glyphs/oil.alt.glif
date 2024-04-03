@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oil.alt" format="2">
-  <advance width="619"/>
+  <advance width="640"/>
   <outline>
-    <component base="out.alt" xScale="-1.0" xOffset="598.0"/>
+    <component base="out.alt" xScale="-1.0" xOffset="640.0"/>
   </outline>
 </glyph>
