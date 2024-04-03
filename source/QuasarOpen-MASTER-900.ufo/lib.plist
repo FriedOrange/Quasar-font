@@ -41,6 +41,10 @@
       <string>uni0258</string>
       <string>uni0261</string>
       <string>uni026F</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
       <string>pipe</string>
       <string>bob</string>
       <string>tut</string>
@@ -211,6 +215,14 @@
       <key>qsbracketright</key>
       <string>base</string>
       <key>question</key>
+      <string>base</string>
+      <key>quotedblleft</key>
+      <string>base</string>
+      <key>quotedblright</key>
+      <string>base</string>
+      <key>quoteleft</key>
+      <string>base</string>
+      <key>quoteright</key>
       <string>base</string>
       <key>r</key>
       <string>base</string>
