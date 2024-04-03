@@ -42,6 +42,7 @@
       <string>uni0258</string>
       <string>uni0261</string>
       <string>uni026F</string>
+      <string>emdash</string>
       <string>quoteleft</string>
       <string>quoteright</string>
       <string>quotedblleft</string>
@@ -136,6 +137,8 @@
       <key>eat</key>
       <string>base</string>
       <key>ed</key>
+      <string>base</string>
+      <key>emdash</key>
       <string>base</string>
       <key>exam</key>
       <string>base</string>
