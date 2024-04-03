@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1712145485
+ModificationTime: 1712145899
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 58928 16 8
+WinInfo: 58944 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1489,9 +1489,9 @@ EndChar
 StartChar: eat
 Encoding: 58993 58993 50
 Width: 590
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
-Fore
+Back
 SplineSet
 60 270 m 2
  60 419 178 500 295 500 c 2
@@ -1499,12 +1499,14 @@ SplineSet
  530 0 l 1
  355 0 l 17
  355 325 l 17
- 295 325 l 6
+ 295 325 l 2
  262 325 235 313 235 270 c 2
  235 0 l 9
  60 0 l 17
  60 270 l 2
 EndSplineSet
+Fore
+Refer: 24 118 N -1 0 0 -1 590 500 2
 EndChar
 
 StartChar: haha
@@ -2284,7 +2286,7 @@ EndChar
 StartChar: out.alt
 Encoding: 1114116 -1 85
 Width: 609
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
