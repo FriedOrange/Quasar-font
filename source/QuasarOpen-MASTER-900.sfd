@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1712501517
+ModificationTime: 1712507521
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 16 8
+WinInfo: 58960 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -708,6 +708,37 @@ SplineSet
  384 293 350 335 299 335 c 0
  248 335 214 293 214 255 c 0
  214 217 248 175 299 175 c 2
+  Spiro
+    299 175 [
+    559 175 v
+    559 0 v
+    299 0 ]
+    165.042 33.4174 o
+    73.0085 122.63 o
+    39 250 o
+    72.7867 379.959 o
+    164.597 473.994 o
+    299 510 o
+    434.292 473.329 o
+    525.657 378.625 o
+    559 250 o
+    558.704 239.27 o
+    557.962 228.73 o
+    557 218 v
+    378 218 v
+    381.331 228.286 o
+    383.335 239.048 o
+    384 250 o
+    373.317 291.11 o
+    343.666 322.542 o
+    299 335 o
+    254.334 322.727 o
+    224.683 292.594 o
+    214 255 o
+    224.683 217.406 o
+    254.334 187.273 o
+    0 0 z
+  EndSpiro
 EndSplineSet
 EndChar
 
@@ -1283,7 +1314,7 @@ EndChar
 StartChar: question
 Encoding: 63 63 34
 Width: 488
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -2293,7 +2324,7 @@ EndChar
 StartChar: age
 Encoding: 58995 58995 83
 Width: 640
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -2304,7 +2335,6 @@ SplineSet
  170 0 60 109 60 250 c 2
  60 500 l 1
  235 500 l 1
- 235 496.50390625 l 1
  235 255 l 2
  235 217 269 175 320 175 c 2
 278 506.836914062 m 1

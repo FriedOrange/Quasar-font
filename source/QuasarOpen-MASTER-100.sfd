@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1712501524
+ModificationTime: 1712507518
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 8
+WinInfo: 58944 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1131,7 +1131,7 @@ EndChar
 StartChar: question
 Encoding: 63 63 34
 Width: 480
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -2023,7 +2023,7 @@ EndChar
 StartChar: age
 Encoding: 58995 58995 75
 Width: 650
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -2034,7 +2034,6 @@ SplineSet
  176 0 70 105 70 250 c 2
  70 500 l 1
  95 500 l 1
- 95 366.0625 l 1
  95 250 l 2
  95 121 191 25 325 25 c 2
 159 450.73828125 m 1
