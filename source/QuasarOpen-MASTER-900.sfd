@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1712491031
+ModificationTime: 1712495774
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -313,7 +313,7 @@ EndChar
 StartChar: r
 Encoding: 114 114 5
 Width: 426
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Back
 SplineSet
@@ -2392,7 +2392,7 @@ EndChar
 StartChar: oil
 Encoding: 59001 59001 92
 Width: 630
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 85 59003 N -1 0 0 1 630 0 2

@@ -3,15 +3,40 @@ languagesystem latn dflt;
 
 # kerning classes
 @deep = [bob deed gig thither valve zoos zhivago judge winwin whitewheat mime exam];
-@short = [nun loll roar llan if eat ed age ash ice ah awl on oil ado out oak wool ooze age.alt ice.alt oil.alt out.alt];
+@short = [nun loll roar llan if ed age ash ah awl on oil wool age.alt ice.alt oil.alt out.alt];
 @tall = [pipe tut kick thoth fife sis shush church yoyo haha inkling loch axe];
+@curve_top_left = [eat ice ado out oak ooze];
+
+# enum only
+
 
 feature kern {
+	pos deed pipe -251;
+	pos deed church -251;
+    pos deed zoos -131;
+    pos deed awl -131;
+	pos deed on -131;
+	pos thither sis -165;
+	pos thither ash -165;
+	pos sis church -131;
+	pos sis loch -131;
+	pos yoyo ash -131;
+	pos yoyo ah -171;
+	pos ado bob -131;
+	pos ado thoth -131;
+	pos ado sis -131;
+	pos ado whitewheat -131;
+	pos ado loll -131;
+
 	pos sis @short -131;
+	pos sis @curve_top_left -131;
 	pos sis @deep -131;
 	pos zoos @short -131;
+	pos zoos @curve_top_left -131;
     pos zoos @tall -131;
+	pos yoyo @curve_top_left -80;
 	pos haha @short -216;
+	pos haha @curve_top_left -216;
 } kern;
 
 feature salt {
