@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1712148204
+ModificationTime: 1712490716
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8192 16 8
+WinInfo: 1114000 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1987,38 +1987,40 @@ EndChar
 
 StartChar: age
 Encoding: 58995 58995 75
-Width: 442
+Width: 650
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-326 -10 m 0
- 177 -10 70 104 70 250 c 2
- 70 373 l 2
- 70 449 131 510 207 510 c 0
- 283 510 344 449 344 373 c 0
- 344 297 283 236 207 236 c 0
- 190 236 175 239 160 244 c 1
- 160 274 l 1
- 174 267 190 263 207 263 c 0
- 268 263 318 313 318 374 c 0
- 318 435 268 485 207 485 c 0
- 146 485 95 434 95 373 c 2
- 95 251 l 2
- 95 118 193 15 326 15 c 0
- 340 15 359 16 387 23 c 1
- 387 -3 l 1
- 367 -8 342 -10 326 -10 c 0
+325 25 m 2
+ 570 25 l 1
+ 570 0 l 1
+ 325 0 l 2
+ 176 0 70 105 70 250 c 2
+ 70 500 l 1
+ 95 500 l 1
+ 95 366.0625 l 1
+ 95 250 l 2
+ 95 121 191 25 325 25 c 2
+159 450.73828125 m 1
+ 202.501953125 487.8515625 259.610351562 510 325 510 c 0
+ 474 510 580 395 580 250 c 0
+ 580 188.881835938 561.166992188 133.092773438 528.219726562 89 c 1
+ 494.774414062 89 l 1
+ 532.770507812 131.174804688 555 187.924804688 555 250 c 0
+ 555 379 459 485 325 485 c 0
+ 257.587890625 485 199.79296875 458.172851562 159 415.086914062 c 1
+ 159 450.73828125 l 1
 EndSplineSet
 EndChar
 
 StartChar: ice
 Encoding: 58997 58997 76
-Width: 442
+Width: 650
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 75 58995 N -1 0 0 1 442 0 2
+Refer: 75 58995 N -1 0 0 1 650 0 2
 EndChar
 
 StartChar: qsbracketleft
@@ -2069,6 +2071,88 @@ EndChar
 
 StartChar: oil
 Encoding: 59001 59001 80
+Width: 640
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 81 59003 N -1 0 0 1 640 0 2
+EndChar
+
+StartChar: out
+Encoding: 59003 59003 81
+Width: 640
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+560 475 m 1
+ 315 475 l 2
+ 206 475 95 404 95 237 c 2
+ 95 0 l 1
+ 70 0 l 1
+ 70 238 l 2
+ 70 419 191 500 315 500 c 2
+ 560 500 l 1
+ 560 475 l 1
+518.219726562 411 m 1
+ 551.166992188 366.907226562 570 311.118164062 570 250 c 0
+ 570 105 464 -10 315 -10 c 0
+ 254.506835938 -10 201.1015625 8.955078125 159 41.1787109375 c 1
+ 159 74.9951171875 l 1
+ 199 37.7490234375 252.922851562 15 315 15 c 0
+ 449 15 545 121 545 250 c 0
+ 545 312.075195312 522.770507812 368.825195312 484.774414062 411 c 1
+ 518.219726562 411 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0258
+Encoding: 600 600 82
+Width: 629
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 15 101 N -1 0 0 1 629 0 2
+EndChar
+
+StartChar: age.alt
+Encoding: 1114113 -1 83
+Width: 442
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+326 -10 m 0
+ 177 -10 70 104 70 250 c 2
+ 70 373 l 2
+ 70 449 131 510 207 510 c 0
+ 283 510 344 449 344 373 c 0
+ 344 297 283 236 207 236 c 0
+ 190 236 175 239 160 244 c 1
+ 160 274 l 1
+ 174 267 190 263 207 263 c 0
+ 268 263 318 313 318 374 c 0
+ 318 435 268 485 207 485 c 0
+ 146 485 95 434 95 373 c 2
+ 95 251 l 2
+ 95 118 193 15 326 15 c 0
+ 340 15 359 16 387 23 c 1
+ 387 -3 l 1
+ 367 -8 342 -10 326 -10 c 0
+EndSplineSet
+EndChar
+
+StartChar: ice.alt
+Encoding: 1114114 -1 84
+Width: 442
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 83 -1 N -1 0 0 1 442 0 2
+EndChar
+
+StartChar: oil.alt
+Encoding: 1114115 -1 85
 Width: 393
 Flags: HW
 LayerCount: 2
@@ -2135,97 +2219,13 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: out
-Encoding: 59003 59003 81
-Width: 393
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 80 59001 N -1 0 0 1 393 0 2
-EndChar
-
-StartChar: uni0258
-Encoding: 600 600 82
-Width: 629
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 15 101 N -1 0 0 1 629 0 2
-EndChar
-
-StartChar: age.alt
-Encoding: 1114113 -1 83
-Width: 650
-Flags: HW
-LayerCount: 2
-Fore
-SplineSet
-325 25 m 2
- 570 25 l 1
- 570 0 l 1
- 325 0 l 2
- 176 0 70 105 70 250 c 2
- 70 500 l 1
- 95 500 l 1
- 95 366.0625 l 1
- 95 250 l 2
- 95 121 191 25 325 25 c 2
-159 450.73828125 m 1
- 202.501953125 487.8515625 259.610351562 510 325 510 c 0
- 474 510 580 395 580 250 c 0
- 580 188.881835938 561.166992188 133.092773438 528.219726562 89 c 1
- 494.774414062 89 l 1
- 532.770507812 131.174804688 555 187.924804688 555 250 c 0
- 555 379 459 485 325 485 c 0
- 257.587890625 485 199.79296875 458.172851562 159 415.086914062 c 1
- 159 450.73828125 l 1
-EndSplineSet
-EndChar
-
-StartChar: ice.alt
-Encoding: 1114114 -1 84
-Width: 650
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 83 -1 N -1 0 0 1 650 0 2
-EndChar
-
-StartChar: oil.alt
-Encoding: 1114115 -1 85
-Width: 640
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 86 -1 N -1 0 0 1 640 0 2
-EndChar
-
 StartChar: out.alt
 Encoding: 1114116 -1 86
-Width: 640
-Flags: HW
+Width: 393
+Flags: HWO
 LayerCount: 2
 Fore
-SplineSet
-560 475 m 1
- 315 475 l 2
- 206 475 95 404 95 237 c 2
- 95 0 l 1
- 70 0 l 1
- 70 238 l 2
- 70 419 191 500 315 500 c 2
- 560 500 l 1
- 560 475 l 1
-518.219726562 411 m 1
- 551.166992188 366.907226562 570 311.118164062 570 250 c 0
- 570 105 464 -10 315 -10 c 0
- 254.506835938 -10 201.1015625 8.955078125 159 41.1787109375 c 1
- 159 74.9951171875 l 1
- 199 37.7490234375 252.922851562 15 315 15 c 0
- 449 15 545 121 545 250 c 0
- 545 312.075195312 522.770507812 368.825195312 484.774414062 411 c 1
- 518.219726562 411 l 1
-EndSplineSet
+Refer: 85 -1 N -1 0 0 1 393 0 2
 EndChar
 
 StartChar: quoteright
@@ -2284,7 +2284,7 @@ EndChar
 StartChar: emdash
 Encoding: 8212 8212 92
 Width: 1000
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet

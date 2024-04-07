@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="oil" format="2">
+<glyph name="oil.alt" format="2">
   <advance width="439"/>
-  <unicode hex="E679"/>
   <outline>
     <contour>
       <point x="373.0" y="0.0" type="line"/>

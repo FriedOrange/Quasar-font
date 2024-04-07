@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1712148213
+ModificationTime: 1712491031
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8192 16 8
+WinInfo: 58944 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2102,8 +2102,8 @@ Fore
 Refer: 73 58983 N -1 0 0 1 572 0 2
 EndChar
 
-StartChar: age
-Encoding: 58995 58995 75
+StartChar: age.alt
+Encoding: 1114113 -1 75
 Width: 435
 Flags: HW
 LayerCount: 2
@@ -2151,13 +2151,13 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ice
-Encoding: 58997 58997 76
+StartChar: ice.alt
+Encoding: 1114114 -1 76
 Width: 435
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 75 58995 N -1 0 0 1 435 0 2
+Refer: 75 -1 N -1 0 0 1 435 0 2
 EndChar
 
 StartChar: qsbracketleft
@@ -2206,8 +2206,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: oil
-Encoding: 59001 59001 80
+StartChar: oil.alt
+Encoding: 1114115 -1 80
 Width: 429
 Flags: HW
 LayerCount: 2
@@ -2229,13 +2229,13 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: out
-Encoding: 59003 59003 81
+StartChar: out.alt
+Encoding: 1114116 -1 81
 Width: 429
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 80 59001 N -1 0 0 1 429 0 2
+Refer: 80 -1 N -1 0 0 1 429 0 2
 EndChar
 
 StartChar: uni0258
@@ -2247,8 +2247,8 @@ Fore
 Refer: 15 101 N -1 0 0 1 619 0 2
 EndChar
 
-StartChar: age.alt
-Encoding: 1114113 -1 83
+StartChar: age
+Encoding: 58995 58995 83
 Width: 640
 Flags: HW
 LayerCount: 2
@@ -2276,17 +2276,17 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ice.alt
-Encoding: 1114114 -1 84
+StartChar: ice
+Encoding: 58997 58997 84
 Width: 640
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 83 -1 N -1 0 0 1 640 0 2
+Refer: 83 58995 N -1 0 0 1 640 0 2
 EndChar
 
-StartChar: out.alt
-Encoding: 1114116 -1 85
+StartChar: out
+Encoding: 59003 59003 85
 Width: 630
 Flags: HW
 LayerCount: 2
@@ -2313,17 +2313,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: oil.alt
-Encoding: 1114115 -1 86
-Width: 630
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 85 -1 N -1 0 0 1 630 0 2
-EndChar
-
 StartChar: quoteright
-Encoding: 8217 8217 87
+Encoding: 8217 8217 86
 Width: 404
 Flags: HW
 LayerCount: 2
@@ -2332,7 +2323,7 @@ Refer: 30 44 N 1 0 0 1 0 616 2
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 88
+Encoding: 8216 8216 87
 Width: 404
 Flags: HW
 LayerCount: 2
@@ -2341,7 +2332,7 @@ Refer: 30 44 N -1 0 0 -1 409 678 2
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 89
+Encoding: 8220 8220 88
 Width: 654
 Flags: HW
 LayerCount: 2
@@ -2351,7 +2342,7 @@ Refer: 30 44 N -1 0 0 -1 409 678 2
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 90
+Encoding: 8221 8221 89
 Width: 654
 Flags: HW
 LayerCount: 2
@@ -2361,7 +2352,7 @@ Refer: 30 44 N 1 -0 -0 1 250 616 2
 EndChar
 
 StartChar: hyphen
-Encoding: 45 45 91
+Encoding: 45 45 90
 Width: 471
 Flags: HW
 LayerCount: 2
@@ -2384,9 +2375,9 @@ EndSplineSet
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 92
+Encoding: 8212 8212 91
 Width: 1000
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2396,6 +2387,15 @@ SplineSet
  0 172 l 1
  0 340 l 1
 EndSplineSet
+EndChar
+
+StartChar: oil
+Encoding: 59001 59001 92
+Width: 630
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 85 59003 N -1 0 0 1 630 0 2
 EndChar
 EndChars
 EndSplineFont

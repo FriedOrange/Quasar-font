@@ -4,20 +4,20 @@
   <dict>
     <key>public.glyphOrder</key>
     <array>
-      <string>age</string>
-      <string>ice</string>
-      <string>oil</string>
-      <string>out</string>
+      <string>age.alt</string>
+      <string>ice.alt</string>
+      <string>oil.alt</string>
+      <string>out.alt</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
-      <key>age</key>
+      <key>age.alt</key>
       <string>base</string>
-      <key>ice</key>
+      <key>ice.alt</key>
       <string>base</string>
-      <key>oil</key>
+      <key>oil.alt</key>
       <string>base</string>
-      <key>out</key>
+      <key>out.alt</key>
       <string>base</string>
     </dict>
   </dict>

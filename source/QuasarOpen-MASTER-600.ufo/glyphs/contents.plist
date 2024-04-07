@@ -2,13 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>age</key>
-    <string>age.glif</string>
-    <key>ice</key>
-    <string>ice.glif</string>
-    <key>oil</key>
-    <string>oil.glif</string>
-    <key>out</key>
-    <string>out.glif</string>
+    <key>age.alt</key>
+    <string>age.alt.glif</string>
+    <key>ice.alt</key>
+    <string>ice.alt.glif</string>
+    <key>oil.alt</key>
+    <string>oil.alt.glif</string>
+    <key>out.alt</key>
+    <string>out.alt.glif</string>
   </dict>
 </plist>

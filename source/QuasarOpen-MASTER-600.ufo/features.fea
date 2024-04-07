@@ -1,4 +1,4 @@
-@GDEF_base = [age ice oil out];
+@GDEF_base = [age.alt ice.alt oil.alt out.alt];
 @GDEF_mark = [];
 @GDEF_ligature = [];
 @GDEF_component = [];
