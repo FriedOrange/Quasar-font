@@ -2,6 +2,9 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 
 # kerning classes
+# left side
+
+# right side
 @deep = [bob deed gig thither valve zoos zhivago judge winwin whitewheat mime exam];
 @short = [nun loll roar llan if ed age ash ah awl on oil wool age.alt ice.alt oil.alt out.alt];
 @tall = [pipe tut kick thoth fife sis shush church yoyo haha inkling loch axe];
@@ -16,15 +19,51 @@ feature kern {
     pos deed zoos -131;
     pos deed awl -131;
 	pos deed on -131;
-	pos thither sis -165;
-	pos thither ash -165;
+	pos thither sis -131;
+	pos thither ash -131;
+	pos thither loll -131;
 	pos sis church -131;
 	pos sis loch -131;
+	pos zoos judge -131;
+	pos zoos whitewheat -131;
+	pos shush pipe -251;
+    pos shush zoos -131;
+    pos shush church -251;
+    pos shush judge -216;
+    pos shush awl -131;
+    pos shush on -131;
+	pos church pipe -251;
+    pos church zoos -131;
+    pos church judge -216;
+    pos church awl -131;
+    pos church on -131;
+	pos judge pipe -251;
+    pos judge zoos -131;
+    pos judge awl -131;
+	pos judge on -131;
 	pos yoyo ash -131;
 	pos yoyo ah -171;
+	pos mime pipe -78;
+    pos mime zoos -78;
+    pos mime church -78;
+    pos mime judge -78;
+	pos mime awl -78;
+	pos mime on -78;
+	pos loll thoth -99;
+    pos loll sis -99;
+    pos loll whitewheat -99;
+    pos loll loll -99;
+    pos loll ash -99;
+    pos loll ah -99;
+    pos ah thoth -131;
+    pos ah sis -131;
+    pos ah zhivago -78;
+    pos ah loll -131;
+
 	pos ado bob -131;
 	pos ado thoth -131;
 	pos ado sis -131;
+	pos ado zhivago -78;
 	pos ado whitewheat -131;
 	pos ado loll -131;
 
