@@ -22,8 +22,10 @@ feature kern {
 	pos thither sis -131;
 	pos thither ash -131;
 	pos thither loll -131;
+	pos sis sis -131;
 	pos sis church -131;
 	pos sis loch -131;
+	pos zoos zoos -131;
 	pos zoos judge -131;
 	pos zoos whitewheat -131;
 	pos shush pipe -251;
@@ -59,6 +61,14 @@ feature kern {
     pos ah sis -131;
     pos ah zhivago -78;
     pos ah loll -131;
+	pos ed pipe -131;
+    pos ed zoos -131;
+    pos ed church -131;
+    pos ed judge -131;
+    pos awl pipe -131;
+    pos awl zoos -131;
+    pos awl church -131;
+    pos awl judge -131;
 
 	pos ado bob -131;
 	pos ado thoth -131;
