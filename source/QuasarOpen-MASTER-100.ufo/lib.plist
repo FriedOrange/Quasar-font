@@ -39,6 +39,7 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>periodcentered</string>
       <string>uni0258</string>
       <string>uni0261</string>
       <string>uni026F</string>
@@ -211,6 +212,8 @@
       <key>p</key>
       <string>base</string>
       <key>period</key>
+      <string>base</string>
+      <key>periodcentered</key>
       <string>base</string>
       <key>pipe</key>
       <string>base</string>

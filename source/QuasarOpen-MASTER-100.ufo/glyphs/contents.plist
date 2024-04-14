@@ -116,6 +116,8 @@
     <string>p.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>periodcentered</key>
+    <string>periodcentered.glif</string>
     <key>pipe</key>
     <string>pipe.glif</string>
     <key>q</key>

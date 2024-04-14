@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1713084809
+ModificationTime: 1713085097
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 16 8
+WinInfo: 96 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -54,7 +54,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 93
+BeginChars: 1114117 94
 
 StartChar: i
 Encoding: 105 105 0
@@ -1314,7 +1314,7 @@ EndChar
 StartChar: question
 Encoding: 63 63 34
 Width: 488
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -2469,6 +2469,23 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 85 59003 N -1 0 0 1 630 0 2
+EndChar
+
+StartChar: periodcentered
+Encoding: 183 183 93
+Width: 404
+Flags: HWO
+LayerCount: 2
+Back
+SplineSet
+60 340 m 5
+ 405 340 l 5
+ 405 172 l 5
+ 60 172 l 5
+ 60 340 l 5
+EndSplineSet
+Fore
+Refer: 29 46 N 1 0 0 1 0 163 2
 EndChar
 EndChars
 EndSplineFont
