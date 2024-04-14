@@ -55,12 +55,12 @@ feature kern {
     pos loll sis -99;
     pos loll whitewheat -99;
     pos loll loll -99;
-    pos loll ash -99;
-    pos loll ah -99;
+    pos loll ash -66;
+    pos loll ah -66;
     pos ah thoth -131;
     pos ah sis -131;
     pos ah zhivago -78;
-    pos ah loll -131;
+    pos ah loll -99;
 	pos ed pipe -131;
     pos ed zoos -131;
     pos ed church -131;
@@ -75,7 +75,7 @@ feature kern {
 	pos ado sis -131;
 	pos ado zhivago -78;
 	pos ado whitewheat -131;
-	pos ado loll -131;
+	pos ado loll -99;
 
 	pos sis @short -131;
 	pos sis @curve_top_left -131;

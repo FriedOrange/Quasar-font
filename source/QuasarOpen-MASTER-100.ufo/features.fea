@@ -55,8 +55,8 @@ feature kern {
     pos loll sis -156;
     pos loll whitewheat -216;
     pos loll loll -207;
-    pos loll ash -207;
-    pos loll ah -156;
+    pos loll ash -156;
+    pos loll ah -138;
     pos ah thoth -138;
     pos ah sis -207;
     pos ah zhivago -30;
@@ -75,7 +75,7 @@ feature kern {
     pos ado sis -207;
     pos ado zhivago -30;
     pos ado whitewheat -277;
-	pos ado loll -277;
+	pos ado loll -207;
 
     pos sis @short -207;
     pos sis @curve_top_left -207;
