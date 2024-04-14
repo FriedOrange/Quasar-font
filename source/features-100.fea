@@ -2,100 +2,100 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 
 # kerning classes
-# left side
-
-# right side
-@deep = [bob deed gig thither valve zoos zhivago judge winwin whitewheat mime exam];
+@deep = [bob deed gig thither valve zoos zhivago judge winwin whitewheat mime exam]; # does not contain zoos
 @short = [nun loll roar llan if ed age ash ah awl on oil wool age.alt ice.alt oil.alt out.alt];
-@tall = [pipe tut kick thoth fife sis shush church yoyo haha inkling loch axe];
+@tall = [pipe tut kick thoth fife shush church inkling loch axe]; # does not contain sis, yoyo, haha
 @curve_top_left = [eat ice ado out oak ooze];
-
-# enum only
 
 
 feature kern {
-    pos deed pipe -277;
-    pos deed church -277;
-    pos deed zoos -207;
-    pos deed awl -207;
-    pos deed on -277;
-    pos thither sis -138;
-    pos thither ash -138;
-    pos thither loll -138;
-    pos sis sis -207;
-    pos sis church -207;
-    pos sis loch -207;
-    pos zoos zoos -207;
-    pos zoos judge -207;
-    pos zoos whitewheat -207;
-    pos shush pipe -277;
-    pos shush zoos -207;
-    pos shush church -277;
-    pos shush judge -277;
-    pos shush awl -207;
-    pos shush on -277;
-    pos church pipe -277;
-    pos church zoos -207;
-    pos church judge -277;
-    pos church awl -207;
-    pos church on -277;
-    pos judge pipe -277;
-    pos judge zoos -207;
-    pos judge awl -207;
-    pos judge on -277;
-    pos yoyo ash -277;
-    pos yoyo ah -257;
-    pos mime pipe -30;
-    pos mime zoos -30;
-    pos mime church -30;
-    pos mime judge -30;
-    pos mime awl -30;
-    pos mime on -30;
-    pos loll thoth -138;
-    pos loll sis -156;
-    pos loll whitewheat -216;
-    pos loll loll -207;
-    pos loll ash -156;
-    pos loll ah -138;
-    pos ah thoth -138;
-    pos ah sis -207;
-    pos ah zhivago -30;
-    pos ah loll -277;
-    pos ed pipe -277;
-    pos ed zoos -207;
-    pos ed church -277;
-    pos ed judge -277;
-    pos awl pipe -207;
-    pos awl zoos -207;
-    pos awl church -207;
-    pos awl judge -207;
-
-    pos ado bob -277;
-    pos ado thoth -138;
-    pos ado sis -207;
-    pos ado zhivago -30;
-    pos ado whitewheat -277;
+	pos deed pipe -277;
+	pos deed church -277;
+	pos deed zoos -207;
+	pos deed awl -207;
+	pos deed on -277;
+	pos thither sis -138;
+	pos thither ash -138;
+	pos thither loll -138;
+	pos sis sis -207;
+	pos sis zoos -207;
+	pos sis church -207;
+	pos sis loch -207;
+	pos zoos sis -207;
+	pos zoos zoos -207;
+	pos zoos judge -207;
+	pos zoos whitewheat -207;
+	pos zoos qsbracketright -146;
+	pos shush pipe -277;
+	pos shush zoos -207;
+	pos shush church -277;
+	pos shush judge -277;
+	pos shush awl -207;
+	pos shush on -277;
+	pos church pipe -277;
+	pos church zoos -207;
+	pos church judge -277;
+	pos church awl -207;
+	pos church on -277;
+	pos judge pipe -277;
+	pos judge zoos -207;
+	pos judge awl -207;
+	pos judge on -277;
+	pos yoyo ash -277;
+	pos yoyo ah -257;
+	pos mime pipe -30;
+	pos mime zoos -30;
+	pos mime church -30;
+	pos mime judge -30;
+	pos mime awl -30;
+	pos mime on -30;
+	pos loll thoth -138;
+	pos loll sis -156;
+	pos loll whitewheat -216;
+	pos loll loll -207;
+	pos loll ash -156;
+	pos loll ah -138;
+	pos ah thoth -138;
+	pos ah sis -207;
+	pos ah zhivago -30;
+	pos ah loll -277;
+	pos ed pipe -277;
+	pos ed zoos -207;
+	pos ed church -277;
+	pos ed judge -277;
+	pos awl pipe -207;
+	pos awl zoos -207;
+	pos awl church -207;
+	pos awl judge -207;
+	pos ado bob -277;
+	pos ado thoth -138;
+	pos ado sis -207;
+	pos ado zhivago -30;
+	pos ado whitewheat -277;
 	pos ado loll -207;
 
-    pos sis @short -207;
-    pos sis @curve_top_left -207;
-    pos sis @deep -207;
-    pos zoos @short -207;
-    pos zoos @curve_top_left -207;
-    pos zoos @tall -207;
-    pos yoyo @curve_top_left -100;
-    pos haha @short -277;
-    pos haha @curve_top_left -277;
-    # sis fife, sis church
-    # loll ash
-    # yoyo ado
+	pos sis @short -207;
+	pos sis @curve_top_left -207;
+	pos sis @deep -207;
+	pos zoos @short -207;
+	pos zoos @curve_top_left -207;
+	pos zoos @tall -207;
+	pos yoyo @curve_top_left -100;
+	pos haha @short -277;
+	pos haha @curve_top_left -277;
+	pos qsbracketleft @short -146;
+	pos qsbracketleft @curve_top_left -146;
+	pos qsbracketleft @tall -146;
+	pos @short qsbracketright -146;
+	pos @curve_top_left qsbracketright -146;
+	pos @deep qsbracketright -146;
 } kern;
 
 feature salt {
-    sub age by age.alt;
-    sub ice by ice.alt;
-    sub oil by oil.alt;
-    sub out by out.alt;
+	sub age by age.alt;
+	sub ice by ice.alt;
+	sub oil by oil.alt;
+	sub out by out.alt;
 } salt;
 
 # @GDEF_base = [a ado age ah ash awl axe b bob c church colon comma d deed e eat ed exam exclam f fife g gig h haha i ice if inkling j judge k kick l llan loch loll m mime n nun o oak oil on ooze out p period pipe q qsbracketleft qsbracketright question r roar s semicolon shush sis space t thither thoth tut u uni0258 uni0261 uni026F v valve w whitewheat winwin wool x y yoyo z zhivago zoos age.alt ice.alt oil.alt out.alt];
