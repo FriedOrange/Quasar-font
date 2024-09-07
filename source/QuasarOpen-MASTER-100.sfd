@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1725713840
+ModificationTime: 1725715477
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -2423,13 +2423,7 @@ SplineSet
  70 828 l 1
 EndSplineSet
 Fore
-SplineSet
-70 828 m 1
- 95 828 l 1
- 95 0 l 1
- 70 0 l 1
- 70 828 l 1
-EndSplineSet
+Refer: 4 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: zero
