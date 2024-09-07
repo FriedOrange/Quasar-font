@@ -20,6 +20,8 @@
     <string>e.glif</string>
     <key>eat</key>
     <string>eat.glif</string>
+    <key>four</key>
+    <string>four.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>gig</key>
@@ -46,6 +48,8 @@
     <string>nun.glif</string>
     <key>o</key>
     <string>o.glif</string>
+    <key>one</key>
+    <string>one.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
     <key>question</key>
@@ -54,6 +58,8 @@
     <string>r.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>seven</key>
+    <string>seven.glif</string>
     <key>uni0261</key>
     <string>uni0261.glif</string>
     <key>x</key>

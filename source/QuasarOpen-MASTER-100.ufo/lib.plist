@@ -10,6 +10,16 @@
       <string>comma</string>
       <string>hyphen</string>
       <string>period</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
       <string>colon</string>
       <string>semicolon</string>
       <string>question</string>
@@ -139,6 +149,8 @@
       <string>base</string>
       <key>ed</key>
       <string>base</string>
+      <key>eight</key>
+      <string>base</string>
       <key>emdash</key>
       <string>base</string>
       <key>exam</key>
@@ -148,6 +160,10 @@
       <key>f</key>
       <string>base</string>
       <key>fife</key>
+      <string>base</string>
+      <key>five</key>
+      <string>base</string>
+      <key>four</key>
       <string>base</string>
       <key>g</key>
       <string>base</string>
@@ -191,6 +207,8 @@
       <string>base</string>
       <key>n</key>
       <string>base</string>
+      <key>nine</key>
+      <string>base</string>
       <key>nun</key>
       <string>base</string>
       <key>o</key>
@@ -202,6 +220,8 @@
       <key>oil.alt</key>
       <string>base</string>
       <key>on</key>
+      <string>base</string>
+      <key>one</key>
       <string>base</string>
       <key>ooze</key>
       <string>base</string>
@@ -241,9 +261,13 @@
       <string>base</string>
       <key>semicolon</key>
       <string>base</string>
+      <key>seven</key>
+      <string>base</string>
       <key>shush</key>
       <string>base</string>
       <key>sis</key>
+      <string>base</string>
+      <key>six</key>
       <string>base</string>
       <key>space</key>
       <string>base</string>
@@ -253,7 +277,11 @@
       <string>base</string>
       <key>thoth</key>
       <string>base</string>
+      <key>three</key>
+      <string>base</string>
       <key>tut</key>
+      <string>base</string>
+      <key>two</key>
       <string>base</string>
       <key>u</key>
       <string>base</string>
@@ -282,6 +310,8 @@
       <key>yoyo</key>
       <string>base</string>
       <key>z</key>
+      <string>base</string>
+      <key>zero</key>
       <string>base</string>
       <key>zhivago</key>
       <string>base</string>
