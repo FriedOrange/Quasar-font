@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1725882908
+ModificationTime: 1725883867
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -2700,50 +2700,55 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-45 420 m 1
- 527 420 l 1
- 527 250 l 1
- 45 250 l 1
- 45 420 l 1
 437 828 m 1
  612 828 l 1
  612 0 l 1
  437 0 l 1
  437 828 l 1
+45 420 m 1
+ 527 420 l 1
+ 527 250 l 1
+ 45 250 l 1
+ 45 420 l 1
 152 828 m 1
  327 828 l 1
- 327 501 l 2
- 327 347.075195312 199.689453125 315 45 315 c 25
+ 327 541 l 2
+ 327 387.075195312 199.689453125 325 45 325 c 25
  45 420 l 17
- 112.553710938 420 152 453 152 505 c 2
+ 112.553710938 420 152 493 152 545 c 2
  152 828 l 1
 EndSplineSet
 EndChar
 
 StartChar: seven
 Encoding: 55 55 103
-Width: 530
+Width: 587
 Flags: HW
 LayerCount: 2
 Back
 SplineSet
-55 828 m 5
- 430 828 l 5
- 430 0 l 5
- 405 0 l 5
- 405 803 l 5
- 55 803 l 5
- 55 828 l 5
+69 828 m 1
+ 484 828 l 1
+ 484 0 l 1
+ 309 0 l 1
+ 309 653 l 1
+ 69 653 l 1
+ 69 828 l 1
 EndSplineSet
 Fore
 SplineSet
-55 828 m 1
- 470 828 l 1
- 470 0 l 1
- 295 0 l 1
- 295 653 l 1
- 55 653 l 1
- 55 828 l 1
+542 658 m 1
+ 45 658 l 1
+ 45 828 l 1
+ 542 828 l 1
+ 542 658 l 1
+435 0 m 1
+ 260 0 l 1
+ 260 537 l 2
+ 260 690.924804688 387.310546875 753 542 753 c 25
+ 542 658 l 17
+ 474.446289062 658 435 585 435 533 c 2
+ 435 0 l 1
 EndSplineSet
 EndChar
 EndChars

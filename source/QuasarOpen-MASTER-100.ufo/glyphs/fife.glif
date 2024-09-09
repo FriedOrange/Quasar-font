@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="fife" format="2">
-  <advance width="619"/>
-  <unicode hex="E658"/>
-  <outline>
-    <component base="valve" xScale="-1.0" yScale="-1.0" xOffset="619.0" yOffset="500.0"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="on" format="2">
-  <advance width="426"/>
-  <unicode hex="E678"/>
-  <outline>
-    <component base="ado" xScale="-1.0" xOffset="426.0"/>
-  </outline>
-</glyph>

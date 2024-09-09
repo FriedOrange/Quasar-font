@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="llan" format="2">
-  <advance width="572"/>
-  <unicode hex="E66A"/>
-  <outline>
-    <component base="loll" xScale="-1.0" xOffset="572.0"/>
-  </outline>
-</glyph>
