@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1726214052
+ModificationTime: 1726232584
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeFull
@@ -54,7 +53,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 107
+BeginChars: 1114117 108
 
 StartChar: i
 Encoding: 105 105 0
@@ -2548,7 +2547,7 @@ EndChar
 StartChar: one
 Encoding: 49 49 98
 Width: 426
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2571,7 +2570,7 @@ EndChar
 StartChar: zero
 Encoding: 48 48 99
 Width: 640
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2610,7 +2609,7 @@ EndChar
 StartChar: five
 Encoding: 53 53 100
 Width: 420
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2638,7 +2637,7 @@ EndChar
 StartChar: two
 Encoding: 50 50 101
 Width: 600
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2663,7 +2662,7 @@ EndChar
 StartChar: four
 Encoding: 52 52 102
 Width: 672
-Flags: HW
+Flags: MW
 LayerCount: 2
 Back
 SplineSet
@@ -2721,7 +2720,7 @@ EndChar
 StartChar: seven
 Encoding: 55 55 103
 Width: 587
-Flags: HW
+Flags: MW
 LayerCount: 2
 Back
 SplineSet
@@ -2753,7 +2752,7 @@ EndChar
 StartChar: O
 Encoding: 79 79 104
 Width: 926
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2773,7 +2772,7 @@ EndChar
 StartChar: Q
 Encoding: 81 81 105
 Width: 947
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2796,7 +2795,7 @@ EndChar
 StartChar: C
 Encoding: 67 67 106
 Width: 623
-Flags: HWO
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2811,6 +2810,51 @@ SplineSet
  563 2 l 1
  531 -6 497 -10 463 -10 c 0
  229 -10 39 180 39 414 c 0
+EndSplineSet
+EndChar
+
+StartChar: G
+Encoding: 71 71 107
+Width: 643
+Flags: HMWO
+LayerCount: 2
+Back
+SplineSet
+382 359 m 1
+ 563 359 l 1
+ 563 82 l 1
+ 382 82 l 1
+ 382 359 l 1
+39 414 m 0
+ 39 648 229 838 463 838 c 0
+ 497 838 531 834 563 826 c 1
+ 563 638 l 1
+ 533 650 499 657 463 657 c 0
+ 323 657 220 556 220 414 c 0
+ 220 272 323 171 463 171 c 0
+ 499 171 533 178 563 190 c 1
+ 563 2 l 1
+ 531 -6 497 -10 463 -10 c 0
+ 229 -10 39 180 39 414 c 0
+EndSplineSet
+Fore
+SplineSet
+402 414 m 1
+ 583 414 l 1
+ 583 82 l 1
+ 402 82 l 1
+ 402 414 l 1
+39 414 m 0
+ 39 648 229 838 463 838 c 0
+ 497 838 531 834 563 826 c 1
+ 563 638 l 1
+ 533 650 499 657 463 657 c 0
+ 323 657 220 556 220 414 c 0
+ 220 277 323 171 463 171 c 2
+ 583 171 l 1
+ 583 0 l 1
+ 463 0 l 2
+ 229 0 39 185 39 414 c 0
 EndSplineSet
 EndChar
 EndChars
