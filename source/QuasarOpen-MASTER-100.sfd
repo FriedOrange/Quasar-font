@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1726235613
+ModificationTime: 1726291184
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -54,7 +54,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 110
+BeginChars: 1114117 114
 
 StartChar: i
 Encoding: 105 105 0
@@ -2746,7 +2746,7 @@ EndChar
 StartChar: X
 Encoding: 88 88 109
 Width: 915
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
@@ -2786,6 +2786,108 @@ SplineSet
  823 -10 834 -10 845 -9 c 1
  845 18 l 1
  831 17 821 17 815 17 c 0
+EndSplineSet
+EndChar
+
+StartChar: N
+Encoding: 78 78 110
+Width: 692
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+622 561 m 2
+ 622 0 l 1
+ 595 0 l 1
+ 595 562 l 2
+ 595 699 483 811 346 811 c 3
+ 209 811 97 699 97 562 c 2
+ 97 0 l 1
+ 70 0 l 1
+ 70 562 l 2
+ 70 714 194 838 346 838 c 3
+ 498 838 622 713 622 561 c 2
+EndSplineSet
+EndChar
+
+StartChar: M
+Encoding: 77 77 111
+Width: 977
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+455 581 m 6
+ 455 750 554 838 688 838 c 4
+ 796 838 915 746 915 587 c 6
+ 915 0 l 13
+ 734 0 l 21
+ 734 581 l 6
+ 734 634 692 657 658 657 c 7
+ 623 657 583 634 583 581 c 6
+ 583 0 l 13
+ 455 0 l 21
+ 455 581 l 6
+70 587 m 6
+ 70 746 188 838 297 838 c 4
+ 435 838 530 750 530 581 c 6
+ 530 0 l 13
+ 402 0 l 21
+ 402 581 l 6
+ 402 634 361 657 327 657 c 7
+ 292 657 251 634 251 581 c 6
+ 251 0 l 13
+ 70 0 l 21
+ 70 587 l 6
+EndSplineSet
+Fore
+SplineSet
+480 622 m 2
+ 480 744 559 838 691 838 c 3
+ 823 838 907 743 907 621 c 2
+ 907 0 l 1
+ 880 0 l 1
+ 880 622 l 2
+ 880 729 808 811 691 811 c 3
+ 574 811 502 729 502 622 c 2
+ 502 0 l 1
+ 480 0 l 1
+ 480 622 l 2
+70 622 m 2
+ 70 744 154 838 286 838 c 3
+ 418 838 497 743 497 621 c 2
+ 497 0 l 1
+ 475 0 l 1
+ 475 622 l 2
+ 475 729 403 811 286 811 c 3
+ 169 811 97 729 97 622 c 2
+ 97 0 l 1
+ 70 0 l 1
+ 70 622 l 2
+EndSplineSet
+EndChar
+
+StartChar: U
+Encoding: 85 85 112
+Width: 692
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 110 78 N -1 0 0 -1 692 828 2
+EndChar
+
+StartChar: I
+Encoding: 73 73 113
+Width: 167
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+70 828 m 1
+ 97 828 l 1
+ 97 0 l 1
+ 70 0 l 1
+ 70 828 l 1
 EndSplineSet
 EndChar
 EndChars
