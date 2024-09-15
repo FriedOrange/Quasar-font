@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1726320507
+ModificationTime: 1726399070
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeFull
@@ -2816,7 +2817,7 @@ EndChar
 StartChar: G
 Encoding: 71 71 107
 Width: 643
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Back
 SplineSet
@@ -2839,22 +2840,22 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-402 414 m 5
- 583 414 l 5
- 583 82 l 5
- 402 82 l 5
- 402 414 l 5
-39 414 m 4
- 39 648 229 838 463 838 c 4
- 497 838 531 834 563 826 c 5
- 563 638 l 5
- 533 650 499 657 463 657 c 4
- 323 657 220 556 220 414 c 4
- 220 277 323 171 463 171 c 6
- 583 171 l 5
- 583 0 l 5
- 463 0 l 6
- 229 0 39 185 39 414 c 4
+402 444 m 1
+ 583 444 l 1
+ 583 82 l 1
+ 402 82 l 1
+ 402 444 l 1
+39 414 m 0
+ 39 648 229 838 463 838 c 0
+ 497 838 531 834 563 826 c 1
+ 563 638 l 1
+ 533 650 499 657 463 657 c 0
+ 323 657 220 556 220 414 c 0
+ 220 277 323 171 463 171 c 2
+ 583 171 l 1
+ 583 0 l 1
+ 463 0 l 2
+ 229 0 39 185 39 414 c 0
 EndSplineSet
 EndChar
 
@@ -3165,7 +3166,7 @@ EndChar
 StartChar: K
 Encoding: 75 75 118
 Width: 734
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
