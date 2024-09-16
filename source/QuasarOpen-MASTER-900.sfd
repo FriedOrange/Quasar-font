@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1726480786
+ModificationTime: 1726487699
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -54,7 +54,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 124
+BeginChars: 1114117 129
 
 StartChar: i
 Encoding: 105 105 0
@@ -3050,11 +3050,11 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-60 828 m 1
- 235 828 l 1
- 235 0 l 1
- 60 0 l 1
- 60 828 l 1
+60 828 m 5
+ 235 828 l 5
+ 235 0 l 5
+ 60 0 l 5
+ 60 828 l 5
 EndSplineSet
 EndChar
 
@@ -3355,7 +3355,7 @@ EndChar
 StartChar: B
 Encoding: 66 66 123
 Width: 613
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3383,6 +3383,109 @@ SplineSet
  574 469 439 374 317 374 c 2
  283 374 l 1
  283 504 l 1
+EndSplineSet
+EndChar
+
+StartChar: E
+Encoding: 69 69 124
+Width: 593
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+60 828 m 25
+ 533 828 l 1
+ 533 647 l 25
+ 241 647 l 25
+ 241 503 l 25
+ 531 503 l 25
+ 531 332 l 25
+ 241 332 l 25
+ 241 181 l 25
+ 534 181 l 25
+ 534 0 l 25
+ 60 0 l 1
+ 60 828 l 25
+EndSplineSet
+EndChar
+
+StartChar: F
+Encoding: 70 70 125
+Width: 593
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+60 0 m 1
+ 60 828 l 25
+ 533 828 l 1
+ 533 647 l 25
+ 241 647 l 25
+ 241 503 l 29
+ 531 503 l 29
+ 531 332 l 29
+ 241 332 l 29
+ 241 0 l 25
+ 60 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: H
+Encoding: 72 72 126
+Width: 720
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+60 828 m 1
+ 235 828 l 1
+ 235 503 l 1
+ 485 503 l 1
+ 485 828 l 1
+ 660 828 l 1
+ 660 0 l 1
+ 485 0 l 1
+ 485 332 l 1
+ 235 332 l 1
+ 235 0 l 1
+ 60 0 l 1
+ 60 828 l 1
+EndSplineSet
+EndChar
+
+StartChar: L
+Encoding: 76 76 127
+Width: 579
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+241 828 m 25
+ 241 181 l 25
+ 534 181 l 25
+ 534 0 l 25
+ 60 0 l 1
+ 60 828 l 25
+ 241 828 l 25
+EndSplineSet
+EndChar
+
+StartChar: T
+Encoding: 84 84 128
+Width: 653
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+236 647 m 1
+ 45 647 l 1
+ 45 828 l 1
+ 608 828 l 1
+ 608 647 l 1
+ 417 647 l 1
+ 417 0 l 1
+ 236 0 l 1
+ 236 647 l 1
 EndSplineSet
 EndChar
 EndChars
