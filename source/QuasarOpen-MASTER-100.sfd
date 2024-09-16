@@ -22,20 +22,27 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1726487585
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
-OS2TypoLinegap: 90
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+ModificationTime: 1726488972
+PfmFamily: 17
+TTFWeight: 100
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 1164
+OS2TypoAOffset: 0
+OS2TypoDescent: -336
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1003
+OS2WinAOffset: 0
+OS2WinDescent: 503
+OS2WinDOffset: 0
+HheadAscent: 1164
+HheadAOffset: 0
+HheadDescent: -336
+HheadDOffset: 0
+OS2CapHeight: 828
+OS2XHeight: 500
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
@@ -3187,10 +3194,10 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 124
-Width: 543
-Flags: HW
+Width: 640
+Flags: HWO
 LayerCount: 2
-Fore
+Back
 SplineSet
 70 828 m 1
  473 828 l 25
@@ -3206,6 +3213,25 @@ SplineSet
  70 0 l 1
  70 828 l 1
 EndSplineSet
+Fore
+SplineSet
+63 440 m 1
+ 515 440 l 1
+ 515 413 l 1
+ 63 413 l 1
+ 63 440 l 1
+49 414 m 0
+ 49 648 236 838 470 838 c 0
+ 505 838 538 834 570 826 c 1
+ 570 798 l 1
+ 538 806 505 811 470 811 c 0
+ 253 811 76 633 76 414 c 0
+ 76 195 253 17 470 17 c 0
+ 505 17 538 22 570 30 c 1
+ 570 2 l 1
+ 538 -6 505 -10 470 -10 c 0
+ 236 -10 49 180 49 414 c 0
+EndSplineSet
 EndChar
 
 StartChar: F
@@ -3220,10 +3246,10 @@ SplineSet
  473 828 l 25
  473 801 l 25
  97 801 l 25
- 97 454 l 29
- 468 454 l 29
- 468 427 l 29
- 97 427 l 29
+ 97 454 l 25
+ 468 454 l 25
+ 468 427 l 25
+ 97 427 l 25
  97 0 l 25
  70 0 l 1
 EndSplineSet
@@ -3272,7 +3298,7 @@ EndChar
 StartChar: T
 Encoding: 84 84 128
 Width: 643
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
