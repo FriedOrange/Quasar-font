@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1726574898
+ModificationTime: 1726575716
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5
@@ -2731,7 +2731,7 @@ EndChar
 StartChar: D
 Encoding: 68 68 108
 Width: 648
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -2767,7 +2767,7 @@ EndChar
 StartChar: X
 Encoding: 88 88 109
 Width: 915
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -2813,7 +2813,7 @@ EndChar
 StartChar: N
 Encoding: 78 78 110
 Width: 692
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -2834,7 +2834,7 @@ EndChar
 StartChar: M
 Encoding: 77 77 111
 Width: 977
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -2891,7 +2891,7 @@ EndChar
 StartChar: U
 Encoding: 85 85 112
 Width: 692
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 110 78 N -1 0 0 -1 692 828 2
@@ -2900,7 +2900,7 @@ EndChar
 StartChar: I
 Encoding: 73 73 113
 Width: 167
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -2915,7 +2915,7 @@ EndChar
 StartChar: W
 Encoding: 87 87 114
 Width: 977
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -2947,7 +2947,7 @@ EndChar
 StartChar: V
 Encoding: 86 86 115
 Width: 652
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -2968,7 +2968,7 @@ EndChar
 StartChar: A
 Encoding: 65 65 116
 Width: 652
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -2994,7 +2994,7 @@ EndChar
 StartChar: Y
 Encoding: 89 89 117
 Width: 692
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -3020,7 +3020,7 @@ EndChar
 StartChar: K
 Encoding: 75 75 118
 Width: 616
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -3053,7 +3053,7 @@ EndChar
 StartChar: P
 Encoding: 80 80 119
 Width: 619
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -3076,7 +3076,7 @@ EndChar
 StartChar: R
 Encoding: 82 82 120
 Width: 600
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -3121,7 +3121,7 @@ EndChar
 StartChar: J
 Encoding: 74 74 121
 Width: 401
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -3139,29 +3139,43 @@ EndChar
 
 StartChar: S
 Encoding: 83 83 122
-Width: 885
-Flags: HW
+Width: 745
+Flags: HMWO
 LayerCount: 2
+Back
+SplineSet
+359 414 m 0
+ 359 648 456 838 660 838 c 0
+ 695 838 728 834 760 826 c 1
+ 760 798 l 1
+ 728 806 695 811 660 811 c 0
+ 473 811 386 633 386 414 c 0
+ 386 180 289 -10 85 -10 c 0
+ 50 -10 17 -6 -15 2 c 1
+ -15 30 l 1
+ 17 22 50 17 85 17 c 0
+ 272 17 359 195 359 414 c 0
+EndSplineSet
 Fore
 SplineSet
-429 414 m 0
- 429 648 526 838 730 838 c 0
- 765 838 798 834 830 826 c 1
- 830 798 l 1
- 798 806 765 811 730 811 c 0
- 543 811 456 633 456 414 c 0
- 456 180 359 -10 155 -10 c 0
- 120 -10 87 -6 55 2 c 1
- 55 30 l 1
- 87 22 120 17 155 17 c 0
- 342 17 429 195 429 414 c 0
+359 414 m 0
+ 359 648 456 838 660 838 c 0
+ 670.16015625 838 680.15234375 837.663085938 690 836.98828125 c 1
+ 690 809.78515625 l 1
+ 680.15234375 810.579101562 670.16015625 811 660 811 c 0
+ 473 811 386 633 386 414 c 0
+ 386 180 289 -10 85 -10 c 0
+ 74.83984375 -10 64.84765625 -9.6630859375 55 -8.98828125 c 1
+ 55 18.21484375 l 1
+ 64.84765625 17.4208984375 74.83984375 17 85 17 c 0
+ 272 17 359 195 359 414 c 0
 EndSplineSet
 EndChar
 
 StartChar: B
 Encoding: 66 66 123
 Width: 551
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -3195,7 +3209,7 @@ EndChar
 StartChar: E
 Encoding: 69 69 124
 Width: 640
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -3237,7 +3251,7 @@ EndChar
 StartChar: F
 Encoding: 70 70 125
 Width: 543
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -3274,7 +3288,7 @@ EndChar
 StartChar: H
 Encoding: 72 72 126
 Width: 630
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -3297,7 +3311,7 @@ EndChar
 StartChar: L
 Encoding: 76 76 127
 Width: 529
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -3326,7 +3340,7 @@ EndChar
 StartChar: T
 Encoding: 84 84 128
 Width: 643
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -3345,7 +3359,7 @@ EndChar
 StartChar: Z
 Encoding: 90 90 129
 Width: 754
-Flags: HWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
