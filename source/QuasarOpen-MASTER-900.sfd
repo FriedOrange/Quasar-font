@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1727270164
+ModificationTime: 1727271519
 PfmFamily: 17
 TTFWeight: 900
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 16 8
+WinInfo: 8176 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1245,57 +1245,57 @@ EndChar
 
 StartChar: period
 Encoding: 46 46 29
-Width: 404
+Width: 364
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-100 92 m 0
- 100 148 146 194 202 194 c 0
- 258 194 304 148 304 92 c 0
- 304 36 258 -10 202 -10 c 0
- 146 -10 100 36 100 92 c 0
+80 92 m 0
+ 80 148 126 194 182 194 c 0
+ 238 194 284 148 284 92 c 0
+ 284 36 238 -10 182 -10 c 0
+ 126 -10 80 36 80 92 c 0
 EndSplineSet
 EndChar
 
 StartChar: comma
 Encoding: 44 44 30
-Width: 404
+Width: 364
 Flags: HMW
 LayerCount: 2
 Back
 SplineSet
-100 92 m 0
- 100 150 144 194 202 194 c 0
- 267 194 310 136 310 41 c 0
- 310 -58 263 -146 202 -146 c 1
- 202 -10 l 1
- 144 -10 100 34 100 92 c 0
-51 43 m 0
- 51 126 119 194 202 194 c 0
- 285 194 353 126 353 43 c 0
- 353 -40 285 -108 202 -108 c 0
- 119 -108 51 -40 51 43 c 0
-100 92 m 0
- 100 148 146 194 202 194 c 0
- 258 194 304 148 304 92 c 0
- 304 36 258 -10 202 -10 c 0
- 146 -10 100 36 100 92 c 0
+77.5 92 m 0
+ 77.5 150 121.5 194 179.5 194 c 0
+ 244.5 194 287.5 136 287.5 41 c 0
+ 287.5 -58 240.5 -146 179.5 -146 c 1
+ 179.5 -10 l 1
+ 121.5 -10 77.5 34 77.5 92 c 0
+28.5 43 m 0
+ 28.5 126 96.5 194 179.5 194 c 0
+ 262.5 194 330.5 126 330.5 43 c 0
+ 330.5 -40 262.5 -108 179.5 -108 c 0
+ 96.5 -108 28.5 -40 28.5 43 c 0
+77.5 92 m 0
+ 77.5 148 123.5 194 179.5 194 c 0
+ 235.5 194 281.5 148 281.5 92 c 0
+ 281.5 36 235.5 -10 179.5 -10 c 0
+ 123.5 -10 77.5 36 77.5 92 c 0
 EndSplineSet
 Fore
 SplineSet
-100 92 m 0
- 100 148 146 194 202 194 c 0
- 258 194 309 150 309 52 c 0
- 309 -60 248 -132 202 -132 c 1
- 202 -10 l 1
- 146 -10 100 36 100 92 c 0
+78 92 m 0
+ 78 148 124 194 180 194 c 0
+ 236 194 286 150 286 52 c 0
+ 286 -60 226 -132 180 -132 c 1
+ 180 -10 l 1
+ 124 -10 78 36 78 92 c 0
 EndSplineSet
 EndChar
 
 StartChar: colon
 Encoding: 58 58 31
-Width: 404
+Width: 364
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1305,7 +1305,7 @@ EndChar
 
 StartChar: semicolon
 Encoding: 59 59 32
-Width: 404
+Width: 364
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2271,21 +2271,21 @@ EndChar
 
 StartChar: exclam
 Encoding: 33 33 79
-Width: 404
+Width: 364
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-100 92 m 0
- 100 148 146 194 202 194 c 0
- 258 194 304 148 304 92 c 0
- 304 36 258 -10 202 -10 c 0
- 146 -10 100 36 100 92 c 0
-114 828 m 1
- 289 828 l 1
- 289 273 l 1
- 114 273 l 1
- 114 828 l 1
+80 92 m 0
+ 80 148 126 194 182 194 c 0
+ 238 194 284 148 284 92 c 0
+ 284 36 238 -10 182 -10 c 0
+ 126 -10 80 36 80 92 c 0
+94 828 m 1
+ 269 828 l 1
+ 269 273 l 1
+ 94 273 l 1
+ 94 828 l 1
 EndSplineSet
 EndChar
 
@@ -2397,8 +2397,8 @@ EndChar
 
 StartChar: quoteright
 Encoding: 8217 8217 86
-Width: 404
-Flags: HMW
+Width: 364
+Flags: HMWO
 LayerCount: 2
 Fore
 Refer: 30 44 N 1 0 0 1 0 646 2
@@ -2406,26 +2406,26 @@ EndChar
 
 StartChar: quoteleft
 Encoding: 8216 8216 87
-Width: 404
+Width: 364
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 30 44 N -1 0 0 -1 409 708 2
+Refer: 30 44 N -1 0 0 -1 364 708 2
 EndChar
 
 StartChar: quotedblleft
 Encoding: 8220 8220 88
-Width: 654
+Width: 614
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 30 44 S -1 0 0 -1 659 708 2
-Refer: 30 44 S -1 0 0 -1 409 708 2
+Refer: 30 44 S -1 0 0 -1 614 708 2
+Refer: 30 44 S -1 0 0 -1 364 708 2
 EndChar
 
 StartChar: quotedblright
 Encoding: 8221 8221 89
-Width: 654
+Width: 614
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2482,7 +2482,7 @@ EndChar
 
 StartChar: periodcentered
 Encoding: 183 183 93
-Width: 404
+Width: 364
 Flags: HMW
 LayerCount: 2
 Back
@@ -3778,7 +3778,7 @@ EndChar
 StartChar: at
 Encoding: 64 64 135
 Width: 1204
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
