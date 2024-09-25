@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1726750262
+ModificationTime: 1727270164
 PfmFamily: 17
 TTFWeight: 900
 TTFWidth: 5
@@ -52,16 +52,18 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 8
+WinInfo: 32 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
+472.083312988 1300 m 0
+ 472.083312988 -700 l 1024
 -1000 828 m 0
  2000 828 l 1024
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 135
+BeginChars: 1114117 136
 
 StartChar: i
 Encoding: 105 105 0
@@ -3740,7 +3742,7 @@ EndChar
 StartChar: section
 Encoding: 167 167 134
 Width: 878
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3770,6 +3772,59 @@ SplineSet
  366 172 l 1
  382 167 398 165 412 165 c 3
  459.552734375 165 512 198 512 270 c 2
+EndSplineSet
+EndChar
+
+StartChar: at
+Encoding: 64 64 135
+Width: 1204
+Flags: HWO
+LayerCount: 2
+Back
+SplineSet
+890 250 m 0
+ 890 291 924 325 965 325 c 0
+ 1006 325 1040 291 1040 250 c 0
+ 1040 209 1006 175 965 175 c 0
+ 924 175 890 209 890 250 c 0
+214 250 m 0
+ 214 22 392 -163 627 -163 c 0
+ 848 -163 1040 22 1040 250 c 0
+ 1040 478 855 663 627 663 c 0
+ 399 663 214 478 214 250 c 0
+39 250 m 0
+ 39 575 302 838 627 838 c 0
+ 952 838 1215 575 1215 250 c 0
+ 1215 -75 952 -338 627 -338 c 0
+ 302 -338 39 -75 39 250 c 0
+EndSplineSet
+Fore
+SplineSet
+797 -313 m 1
+ 745 -330 678 -338 627 -338 c 3
+ 302 -338 39 -75 39 250 c 0
+ 39 575 302 838 627 838 c 3
+ 962 838 1155 545.232421875 1155 310 c 3
+ 1155 123 1039 -2.41247451703e-14 842 0 c 2
+ 697 0 l 9
+ 697 246 l 2
+ 697 309 660 335 622 335 c 3
+ 572 335 537 294 537 250 c 0
+ 537 205 573 165 622 165 c 0
+ 634 165 642 167 654 171 c 1
+ 654 -8 l 1
+ 646 -9 634 -10 622 -10 c 0
+ 478 -10 362 105 362 249 c 0
+ 362 393 478 510 622 510 c 0
+ 753 510 872 410 872 248 c 2
+ 872 165 l 17
+ 882 165 l 2
+ 945 165 980 229 980 310 c 3
+ 980 448.422851562 875 663 627 663 c 3
+ 399 663 214 478 214 250 c 0
+ 214 22 392 -163 627 -163 c 3
+ 674.010637094 -163 740 -153 797 -125 c 1
+ 797 -313 l 1
 EndSplineSet
 EndChar
 EndChars
