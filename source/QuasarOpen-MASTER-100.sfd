@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1727272826
+ModificationTime: 1727517317
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 8
+WinInfo: 80 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -61,7 +61,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 138
+BeginChars: 1114117 150
 
 StartChar: i
 Encoding: 105 105 0
@@ -2471,16 +2471,16 @@ Fore
 SplineSet
 325 813 m 0
  191 813 95 707 95 578 c 2
- 95 250 l 2
- 95 121 191 15 325 15 c 0
- 459 15 555 121 555 250 c 2
+ 95 250 l 6
+ 95 121 191 15 325 15 c 4
+ 459 15 555 121 555 250 c 6
  555 578 l 2
  555 707 459 813 325 813 c 0
 325 838 m 0
  474 838 580 723 580 578 c 2
- 580 250 l 2
- 580 105 474 -10 325 -10 c 0
- 176 -10 70 105 70 250 c 2
+ 580 250 l 6
+ 580 105 474 -10 325 -10 c 4
+ 176 -10 70 105 70 250 c 6
  70 578 l 2
  70 723 176 838 325 838 c 0
 EndSplineSet
@@ -3643,11 +3643,233 @@ EndChar
 StartChar: quotedbl
 Encoding: 34 34 137
 Width: 371
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 39 N 1 0 0 1 130.5 0 2
 Refer: 136 39 N 1 0 0 1 0.5 0 2
+EndChar
+
+StartChar: plus
+Encoding: 43 43 138
+Width: 585
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+280 639 m 1
+ 305 639 l 1
+ 305 399 l 1
+ 530 399 l 1
+ 530 374 l 1
+ 305 374 l 1
+ 305 121 l 1
+ 280 121 l 1
+ 280 374 l 1
+ 55 374 l 1
+ 55 399 l 1
+ 280 399 l 1
+ 280 639 l 1
+EndSplineSet
+EndChar
+
+StartChar: minus
+Encoding: 8722 8722 139
+Width: 585
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+55 399 m 5
+ 530 399 l 5
+ 530 374 l 5
+ 55 374 l 5
+ 55 399 l 5
+EndSplineSet
+EndChar
+
+StartChar: equal
+Encoding: 61 61 140
+Width: 585
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+280 639 m 1
+ 305 639 l 1
+ 305 399 l 1
+ 530 399 l 1
+ 530 374 l 1
+ 305 374 l 1
+ 305 121 l 1
+ 280 121 l 1
+ 280 374 l 1
+ 55 374 l 1
+ 55 399 l 1
+ 280 399 l 1
+ 280 639 l 1
+EndSplineSet
+Fore
+Refer: 139 8722 S 1 0 0 1 0 -109 2
+Refer: 139 8722 N 1 0 0 1 0 106 2
+EndChar
+
+StartChar: logicalnot
+Encoding: 172 172 141
+Width: 600
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+530 121 m 1
+ 505 121 l 1
+ 505 374 l 1
+ 55 374 l 1
+ 55 399 l 1
+ 530 399 l 1
+ 530 121 l 1
+EndSplineSet
+EndChar
+
+StartChar: plusminus
+Encoding: 177 177 142
+Width: 585
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 139 8722 N 1 0 0 1 0 -284 2
+Refer: 138 43 N 1 0 0 1 0 58 2
+EndChar
+
+StartChar: divide
+Encoding: 247 247 143
+Width: 585
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+280 639 m 1
+ 305 639 l 1
+ 305 399 l 1
+ 530 399 l 1
+ 530 374 l 1
+ 305 374 l 1
+ 305 121 l 1
+ 280 121 l 1
+ 280 374 l 1
+ 55 374 l 1
+ 55 399 l 1
+ 280 399 l 1
+ 280 639 l 1
+EndSplineSet
+Fore
+Refer: 29 46 N 1 0 0 1 173 551 2
+Refer: 29 46 N 1 0 0 1 173 181 2
+Refer: 139 8722 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: dagger
+Encoding: 8224 8224 144
+Width: 471
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+55 558 m 1
+ 416 558 l 1
+ 416 533 l 1
+ 55 533 l 1
+ 55 558 l 1
+223 828 m 1
+ 248 828 l 1
+ 248 0 l 1
+ 223 0 l 1
+ 223 828 l 1
+EndSplineSet
+EndChar
+
+StartChar: daggerdbl
+Encoding: 8225 8225 145
+Width: 471
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+55 295 m 1
+ 416 295 l 1
+ 416 270 l 1
+ 55 270 l 1
+ 55 295 l 1
+55 558 m 1
+ 416 558 l 1
+ 416 533 l 1
+ 55 533 l 1
+ 55 558 l 1
+223 828 m 1
+ 248 828 l 1
+ 248 0 l 1
+ 223 0 l 1
+ 223 828 l 1
+EndSplineSet
+EndChar
+
+StartChar: endash
+Encoding: 8211 8211 146
+Width: 500
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 268 m 1
+ 500 268 l 5
+ 500 243 l 5
+ 0 243 l 1
+ 0 268 l 1
+EndSplineSet
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 147
+Width: 500
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 146 8211 N 1 0 0 1 0 -338 2
+EndChar
+
+StartChar: bar
+Encoding: 124 124 148
+Width: 500
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+238 828 m 1
+ 262 828 l 1
+ 262 -170 l 1
+ 238 -170 l 1
+ 238 828 l 1
+EndSplineSet
+EndChar
+
+StartChar: brokenbar
+Encoding: 166 166 149
+Width: 500
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+238 828 m 1
+ 262 828 l 1
+ 262 439 l 1
+ 238 439 l 1
+ 238 828 l 1
+262 236 m 1
+ 262 -170 l 1
+ 238 -170 l 1
+ 238 236 l 1
+ 262 236 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
