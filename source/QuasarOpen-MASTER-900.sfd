@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1727520670
+ModificationTime: 1727521474
 PfmFamily: 17
 TTFWeight: 900
 TTFWidth: 5
@@ -61,7 +61,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 156
+BeginChars: 1114117 157
 
 StartChar: i
 Encoding: 105 105 0
@@ -4106,7 +4106,7 @@ EndChar
 StartChar: parenleft
 Encoding: 40 40 151
 Width: 391
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4118,34 +4118,47 @@ SplineSet
  335 663 l 2
  289.447265625 663 235 628 235 558 c 2
  235 100 l 2
- 235 30 289.447265625 -5 335 -5 c 2
- 346 -5 l 25
- 346 -180 l 1
- 320 -180 l 2
+ 235 30 289.447265625 -5 335 -5 c 6
+ 346 -5 l 29
+ 346 -180 l 5
+ 320 -180 l 6
  175.99609375 -180 60 -68 60 80 c 2
 EndSplineSet
 EndChar
 
 StartChar: braceleft
 Encoding: 123 123 152
-Width: 441
-Flags: HW
+Width: 486
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-341 5 m 3
- 295.447265625 5 241 40 241 110 c 2
- 241 548 l 2
- 241 618 295.447265625 653 341 653 c 3
- 355 653 371 651 387 646 c 1
- 387 821 l 1
- 371 825 350 828 326 828 c 3
- 181.99609375 828 66 716 66 568 c 2
- 66 90 l 2
- 66 -58 181.99609375 -170 326 -170 c 3
- 350 -170 371 -167 387 -163 c 1
- 387 12 l 1
- 371 7 355 5 341 5 c 3
+415 -170 m 2
+ 271 -170 155 -58 155 90 c 2
+ 155 136 l 2
+ 155 208.040039062 102.552734375 241 55 241 c 2
+ 45 241 l 1
+ 45 380 l 1
+ 70 380 l 2
+ 214.00390625 380 330 294 330 146 c 2
+ 330 110 l 2
+ 330 40 384 5 430 5 c 2
+ 441 5 l 25
+ 441 -170 l 1
+ 415 -170 l 2
+430 653 m 2
+ 384 653 330 618 330 548 c 2
+ 330 511 l 2
+ 330 363 214.00390625 277 70 277 c 2
+ 45 277 l 1
+ 45 416 l 1
+ 55 416 l 2
+ 102.552734375 416 155 448.959960938 155 521 c 2
+ 155 568 l 2
+ 155 716 271 828 415 828 c 2
+ 441 828 l 1
+ 441 653 l 25
+ 430 653 l 2
 EndSplineSet
 EndChar
 
@@ -4184,6 +4197,15 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 154 91 N -1 0 0 -1 390 658 2
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 156
+Width: 486
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 152 123 N -1 0 0 -1 486 658 2
 EndChar
 EndChars
 EndSplineFont
