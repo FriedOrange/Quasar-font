@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1727958667
+ModificationTime: 1727959863
 PfmFamily: 17
 TTFWeight: 900
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 8
+WinInfo: 128 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -61,7 +61,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 163
+BeginChars: 1114117 164
 
 StartChar: i
 Encoding: 105 105 0
@@ -4406,41 +4406,28 @@ EndChar
 StartChar: less
 Encoding: 60 60 161
 Width: 454
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
-79 379 m 6
- 55 379 l 13
- 55 399 l 21
- 79 399 l 6
- 185 399 299 480 299 617 c 6
- 299 632 l 13
- 324 632 l 21
- 324 616 l 6
- 324 470 203 379 79 379 c 6
-79 394 m 6
- 203 394 324 303 324 157 c 6
- 324 131 l 13
- 299 131 l 21
- 299 156 l 6
- 299 293 185 374 79 374 c 6
- 55 374 l 13
- 55 394 l 21
- 79 394 l 6
-51 647 m 1
- 226 647 l 1
- 226 474 l 1
- 399 474 l 1
- 399 299 l 1
- 226 299 l 1
- 226 124 l 1
- 51 124 l 1
- 51 299 l 1
- -122 299 l 1
- -122 474 l 1
- 51 474 l 1
- 51 647 l 1
+79 379 m 2
+ 55 379 l 9
+ 55 399 l 17
+ 79 399 l 2
+ 185 399 299 480 299 617 c 2
+ 299 632 l 9
+ 324 632 l 17
+ 324 616 l 2
+ 324 470 203 379 79 379 c 2
+79 394 m 2
+ 203 394 324 303 324 157 c 2
+ 324 131 l 9
+ 299 131 l 17
+ 299 156 l 2
+ 299 293 185 374 79 374 c 2
+ 55 374 l 9
+ 55 394 l 17
+ 79 394 l 2
 EndSplineSet
 Fore
 SplineSet
@@ -4472,6 +4459,54 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 161 60 N -1 0 0 -1 439 764 2
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 163
+Width: 620
+Flags: HWO
+LayerCount: 2
+Back
+SplineSet
+231 647 m 1
+ 406 647 l 1
+ 406 474 l 1
+ 579 474 l 1
+ 579 299 l 1
+ 406 299 l 1
+ 406 124 l 1
+ 231 124 l 1
+ 231 299 l 1
+ 58 299 l 1
+ 58 474 l 1
+ 231 474 l 1
+ 231 647 l 1
+EndSplineSet
+Fore
+SplineSet
+310 343 m 24
+ 444 343 560 419 560 563 c 2
+ 560 636 l 9
+ 385 636 l 17
+ 385 553 l 2
+ 385 508 348 478 310 478 c 3
+ 272 478 235 508 235 553 c 2
+ 235 636 l 9
+ 60 636 l 17
+ 60 563 l 2
+ 60 419 176 343 310 343 c 24
+310 303 m 0
+ 349 303 385 273 385 228 c 2
+ 385 136 l 9
+ 560 136 l 17
+ 560 218 l 2
+ 560 362 442 438 310 438 c 3
+ 178 438 60 362 60 218 c 2
+ 60 136 l 9
+ 235 136 l 17
+ 235 228 l 2
+ 235 273 271 303 310 303 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

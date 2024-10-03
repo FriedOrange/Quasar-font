@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1727958663
+ModificationTime: 1727960188
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 8
+WinInfo: 80 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -61,7 +61,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 163
+BeginChars: 1114117 164
 
 StartChar: i
 Encoding: 105 105 0
@@ -1355,12 +1355,12 @@ EndChar
 StartChar: axe
 Encoding: 58987 58987 48
 Width: 630
-Flags: MW
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
-315 247 m 24
- 448 247 560 338 560 484 c 2
+315 247 m 0
+ 439 247 560 338 560 484 c 2
  560 500 l 9
  535 500 l 17
  535 485 l 2
@@ -1369,9 +1369,9 @@ SplineSet
  95 828 l 9
  70 828 l 17
  70 484 l 2
- 70 338 182 247 315 247 c 24
-315 242 m 24
- 436 242 535 161 535 24 c 2
+ 70 338 191 247 315 247 c 0
+315 242 m 0
+ 421 242 535 161 535 24 c 2
  535 -1 l 9
  560 -1 l 17
  560 25 l 2
@@ -1380,14 +1380,14 @@ SplineSet
  70 -1 l 9
  95 -1 l 17
  95 24 l 2
- 95 161 194 242 315 242 c 24
+ 95 161 209 242 315 242 c 0
 EndSplineSet
 EndChar
 
 StartChar: exam
 Encoding: 58988 58988 49
 Width: 630
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 48 58987 N -1 0 0 -1 630 499 2
@@ -4159,24 +4159,8 @@ EndChar
 StartChar: less
 Encoding: 60 60 161
 Width: 394
-Flags: HWO
+Flags: HW
 LayerCount: 2
-Back
-SplineSet
-254 639 m 1
- 279 639 l 1
- 279 399 l 1
- 504 399 l 1
- 504 374 l 1
- 279 374 l 1
- 279 121 l 1
- 254 121 l 1
- 254 374 l 1
- 29 374 l 1
- 29 399 l 1
- 254 399 l 1
- 254 639 l 1
-EndSplineSet
 Fore
 SplineSet
 79 379 m 2
@@ -4207,6 +4191,54 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 161 60 N -1 0 0 -1 379 763 2
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 163
+Width: 630
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+304 639 m 1
+ 329 639 l 1
+ 329 399 l 1
+ 554 399 l 1
+ 554 374 l 1
+ 329 374 l 1
+ 329 121 l 1
+ 304 121 l 1
+ 304 374 l 1
+ 79 374 l 1
+ 79 399 l 1
+ 304 399 l 1
+ 304 639 l 1
+EndSplineSet
+Fore
+SplineSet
+315 380 m 24
+ 448 380 550 471 550 617 c 2
+ 550 633 l 9
+ 525 633 l 17
+ 525 618 l 2
+ 525 481 421 400 315 400 c 3
+ 209 400 105 481 105 618 c 2
+ 105 633 l 9
+ 80 633 l 17
+ 80 617 l 2
+ 80 471 182 380 315 380 c 24
+315 375 m 24
+ 436 375 525 274 525 157 c 2
+ 525 132 l 9
+ 550 132 l 17
+ 550 158 l 2
+ 550 304 439 395 315 395 c 3
+ 191 395 80 304 80 158 c 2
+ 80 132 l 9
+ 105 132 l 17
+ 105 157 l 2
+ 105 274 194 375 315 375 c 24
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
