@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1727965609
+ModificationTime: 1728116139
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5
@@ -61,7 +61,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 168
+BeginChars: 1114117 169
 
 StartChar: i
 Encoding: 105 105 0
@@ -3894,7 +3894,7 @@ EndChar
 StartChar: numbersign
 Encoding: 35 35 150
 Width: 755
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4298,6 +4298,70 @@ SplineSet
  198 319 226 291 226 256 c 0
  226 221 198 193 163 193 c 0
  128 193 100 221 100 256 c 0
+EndSplineSet
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 168
+Width: 442
+Flags: HWO
+LayerCount: 2
+Back
+SplineSet
+-85 523 m 0
+ -85 599 -20 660 60 660 c 0
+ 140 660 205 599 205 523 c 0
+ 205 447 140 386 60 386 c 0
+ -20 386 -85 447 -85 523 c 0
+-35 522 m 0
+ -35 587 19 640 85 640 c 0
+ 151 640 205 587 205 522 c 0
+ 205 457 151 404 85 404 c 0
+ 19 404 -35 457 -35 522 c 0
+EndSplineSet
+Fore
+SplineSet
+215 660 m 2
+ 219 660 l 9
+ 219 640 l 17
+ 215 640 l 2
+ 144 640 95 589 95 522 c 2
+ 95 517 l 9
+ 70 517 l 17
+ 70 523 l 2
+ 70 599 136 660 215 660 c 2
+215 645 m 2
+ 136 645 70 706 70 782 c 2
+ 70 788 l 9
+ 95 788 l 17
+ 95 783 l 2
+ 95 716 144 665 215 665 c 2
+ 219 665 l 9
+ 219 645 l 17
+ 215 645 l 2
+227 660 m 2
+ 306 660 372 599 372 523 c 2
+ 372 517 l 9
+ 347 517 l 17
+ 347 522 l 2
+ 347 589 298 640 227 640 c 2
+ 223 640 l 9
+ 223 660 l 17
+ 227 660 l 2
+227 645 m 2
+ 223 645 l 9
+ 223 665 l 17
+ 227 665 l 2
+ 298 665 347 716 347 783 c 2
+ 347 788 l 9
+ 372 788 l 17
+ 372 782 l 2
+ 372 706 306 645 227 645 c 2
+209 838 m 1
+ 233 838 l 1
+ 233 466 l 1
+ 209 466 l 1
+ 209 838 l 1
 EndSplineSet
 EndChar
 EndChars
