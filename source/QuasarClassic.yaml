@@ -1,8 +1,8 @@
 sources:
-  - QuasarOpen.designspace
-familyName: "Quasar Open"
+  - QuasarClassic.designspace
+familyName: "Quasar Classic"
 instances:
-  QuasarOpen[wght].ttf:
+  QuasarClassic[wght].ttf:
   - coordinates:
       wght: 100
   - coordinates:

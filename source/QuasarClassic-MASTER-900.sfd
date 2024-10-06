@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: QuasarOpen-Black
-FullName: Quasar Open Black
-FamilyName: Quasar Open
+FontName: QuasarClassic-Black
+FullName: Quasar Classic Black
+FamilyName: Quasar Classic
 Weight: Black
 Copyright: Copyright (c) 2023, neilb
 UComments: "2023-12-15: Created with FontForge (http://fontforge.org)"
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1728199946
+ModificationTime: 1728200333
 PfmFamily: 17
 TTFWeight: 900
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114000 16 8
+WinInfo: 16 16 8
 BeginPrivate: 0
 EndPrivate
 Grid

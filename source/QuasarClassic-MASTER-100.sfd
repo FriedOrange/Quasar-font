@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: QuasarOpen-Thin
-FullName: Quasar Open Thin
-FamilyName: Quasar Open
+FontName: QuasarClassic-Thin
+FullName: Quasar Classic Thin
+FamilyName: Quasar Classic
 Weight: Thin
 Copyright: Copyright (c) 2023, neilb
 UComments: "2023-12-15: Created with FontForge (http://fontforge.org)"
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1728198950
+ModificationTime: 1728200356
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="5.0">
+	<axes>
+		<axis name="Weight" tag="wght" minimum="100" maximum="900" default="100">
+			<!-- <labels>
+				<label name="Thin" uservalue="100" />
+				<label name="Extra Light" uservalue="200" />
+				<label name="Light" uservalue="300" />
+				<label name="Regular" uservalue="400" />
+				<label name="Medium" uservalue="500" />
+				<label name="Semibold" uservalue="600" />
+				<label name="Bold" uservalue="700" />
+				<label name="Extra Bold" uservalue="800" />
+				<label name="Black" uservalue="900" />
+			</labels> -->
+			<map input="100.0" output="25" />
+			<!-- <map input="200.0" output="44" />
+			<map input="300.0" output="63" />
+			<map input="400.0" output="82" />
+			<map input="500.0" output="101" />
+			<map input="600.0" output="120" />
+			<map input="700.0" output="139" />
+			<map input="800.0" output="158" /> -->
+			<map input="900.0" output="175" />
+		</axis>
+	</axes>
+	<sources>
+		<source familyname="Quasar Classic" stylename="Thin" filename="QuasarClassic-MASTER-100.ufo" name="openthin-master">
+			<location>
+				<dimension name="Weight" xvalue="25" />
+			</location>
+		</source>
+		<source familyname="Quasar Classic" stylename="SemiBold" filename="QuasarClassic-MASTER-600.ufo" name="opensemibold-master">
+			<location>
+				<dimension name="Weight" xvalue="119" />
+			</location>
+		</source>
+		<source familyname="Quasar Classic" stylename="Black" filename="QuasarClassic-MASTER-900.ufo" name="openblack-master">
+			<location>
+				<dimension name="Weight" xvalue="175" />
+			</location>
+		</source>
+	</sources>
+	<instances>
+		<instance familyname="Quasar Classic" stylename="Thin" name="openthin" filename="open100.ttf" postscriptfontname="QuasarClassic-Thin" stylemapfamilyname="Quasar Classic" stylemapstylename="Thin">
+			<location>
+				<dimension name="Weight" uservalue="100" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Classic" stylename="ExtraLight" name="openxlight" filename="open200.ttf" postscriptfontname="QuasarClassic-ExtraLight" stylemapfamilyname="Quasar Classic" stylemapstylename="Extra Light">
+			<location>
+				<dimension name="Weight" uservalue="200" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Classic" stylename="Light" name="openlight" filename="open200.ttf" postscriptfontname="QuasarClassic-Light" stylemapfamilyname="Quasar Classic" stylemapstylename="Light">
+			<location>
+				<dimension name="Weight" uservalue="300" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Classic" stylename="Regular" name="openregular" filename="open400.ttf" postscriptfontname="QuasarClassic-Regular" stylemapfamilyname="Quasar Classic" stylemapstylename="Regular">
+			<location>
+				<dimension name="Weight" uservalue="400" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Classic" stylename="Medium" name="openmedium" filename="open500.ttf" postscriptfontname="QuasarClassic-Medium" stylemapfamilyname="Quasar Classic" stylemapstylename="Medium">
+			<location>
+				<dimension name="Weight" uservalue="500" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Classic" stylename="SemiBold" name="opensbold" filename="open600.ttf" postscriptfontname="QuasarClassic-SemiBold" stylemapfamilyname="Quasar Classic" stylemapstylename="Semi Bold">
+			<location>
+				<dimension name="Weight" uservalue="600" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Classic" stylename="Bold" name="openbold" filename="open700.ttf" postscriptfontname="QuasarClassic-Bold" stylemapfamilyname="Quasar Classic" stylemapstylename="Bold">
+			<location>
+				<dimension name="Weight" uservalue="700" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Classic" stylename="ExtraBold" name="openxbold" filename="open800.ttf" postscriptfontname="QuasarClassic-ExtraBold" stylemapfamilyname="Quasar Classic" stylemapstylename="Extra Bold">
+			<location>
+				<dimension name="Weight" uservalue="800" />
+			</location>
+		</instance>
+		<instance familyname="Quasar Classic" stylename="Black" name="openblack" filename="open900.ttf" postscriptfontname="QuasarClassic-Black" stylemapfamilyname="Quasar Classic" stylemapstylename="Black">
+			<location>
+				<dimension name="Weight" uservalue="900" />
+			</location>
+		</instance>
+	</instances>
+</designspace>
