@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1728140530
+ModificationTime: 1728184457
 PfmFamily: 17
 TTFWeight: 900
 TTFWidth: 5
@@ -61,7 +61,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 171
+BeginChars: 1114117 172
 
 StartChar: i
 Encoding: 105 105 0
@@ -4620,10 +4620,86 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: slash
-Encoding: 47 47 169
-Width: 519
+StartChar: grave
+Encoding: 96 96 169
+Width: 361
 Flags: HWO
+LayerCount: 2
+Back
+SplineSet
+211 175 m 6
+ 471 175 l 5
+ 471 0 l 5
+ 211 0 l 6
+ 61 0 -49 109 -49 250 c 7
+ -49 391 60 510 211 510 c 4
+ 364 510 471 388 471 250 c 4
+ 471 239 470 229 469 218 c 5
+ 290 218 l 5
+ 294 228 296 239 296 250 c 4
+ 296 293 262 335 211 335 c 4
+ 160 335 126 293 126 255 c 4
+ 126 217 160 175 211 175 c 6
+  Spiro
+    211 175 [
+    471 175 v
+    471 0 v
+    211 0 ]
+    77.042 33.4174 o
+    -14.9915 122.63 o
+    -49 250 o
+    -15.2133 379.959 o
+    76.597 473.994 o
+    211 510 o
+    346.292 473.329 o
+    437.657 378.625 o
+    471 250 o
+    470.704 239.27 o
+    469.962 228.73 o
+    469 218 v
+    290 218 v
+    293.331 228.286 o
+    295.335 239.048 o
+    296 250 o
+    285.317 291.11 o
+    255.666 322.542 o
+    211 335 o
+    166.334 322.727 o
+    136.683 292.594 o
+    126 255 o
+    136.683 217.406 o
+    166.334 187.273 o
+    0 0 z
+  EndSpiro
+39 823 m 0
+ 39 973 161 1095 311 1095 c 0
+ 461 1095 583 973 583 823 c 0
+ 583 673 461 551 311 551 c 0
+ 161 551 39 673 39 823 c 0
+214 823 m 0
+ 214 877 257 920 311 920 c 0
+ 365 920 408 877 408 823 c 0
+ 408 769 365 726 311 726 c 0
+ 257 726 214 769 214 823 c 0
+EndSplineSet
+Fore
+SplineSet
+311 551 m 2
+ 161 551 39 673 39 823 c 2
+ 39 828 l 9
+ 214 828 l 17
+ 214 823 l 2
+ 214 769 257 726 311 726 c 2
+ 316 726 l 25
+ 316 551 l 25
+ 311 551 l 2
+EndSplineSet
+EndChar
+
+StartChar: slash
+Encoding: 47 47 170
+Width: 519
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4636,12 +4712,12 @@ EndSplineSet
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 170
+Encoding: 92 92 171
 Width: 519
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 169 47 N -1 0 0 1 519 0 2
+Refer: 170 47 N -1 0 0 1 519 0 2
 EndChar
 EndChars
 EndSplineFont
