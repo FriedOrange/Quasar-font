@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1708337238
-ModificationTime: 1712145610
+ModificationTime: 1728199848
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ FitToEm: 1
 WinInfo: 65424 16 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65540 4
+BeginChars: 65541 5
 
 StartChar: age.alt
 Encoding: 65536 -1 0
@@ -163,6 +163,59 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 2 -1 N -1 0 0 1 438 0 2
+EndChar
+
+StartChar: .notdef
+Encoding: 65540 -1 4
+Width: 652
+Flags: HWO
+LayerCount: 2
+Back
+SplineSet
+575 802 m 5
+ 99 6 l 5
+ 79 26 l 5
+ 557 822 l 5
+ 575 802 l 5
+79 802 m 5
+ 97 822 l 5
+ 575 26 l 5
+ 555 6 l 5
+ 79 802 l 5
+95 803 m 5
+ 95 25 l 5
+ 557 25 l 5
+ 557 803 l 5
+ 95 803 l 5
+70 828 m 5
+ 582 828 l 5
+ 582 0 l 5
+ 70 0 l 5
+ 70 828 l 5
+EndSplineSet
+Fore
+SplineSet
+562 743 m 1
+ 164 29 l 1
+ 90 85 l 1
+ 488 799 l 1
+ 562 743 l 1
+90 743 m 1
+ 164 799 l 1
+ 562 85 l 5
+ 488 29 l 5
+ 90 743 l 1
+186 712 m 1
+ 186 116 l 1
+ 466 116 l 1
+ 466 712 l 1
+ 186 712 l 1
+70 828 m 1
+ 582 828 l 1
+ 582 0 l 1
+ 70 0 l 1
+ 70 828 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

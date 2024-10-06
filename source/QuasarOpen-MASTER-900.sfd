@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1728198954
+ModificationTime: 1728199946
 PfmFamily: 17
 TTFWeight: 900
 TTFWidth: 5
@@ -47,13 +47,12 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 48 16 8
+WinInfo: 1114000 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1192,7 +1191,7 @@ EndChar
 StartChar: .notdef
 Encoding: 1114112 -1 28
 Width: 652
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Back
 SplineSet
@@ -1219,21 +1218,21 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-550 753 m 1
- 173 30 l 1
- 99 76 l 1
- 476 799 l 1
- 550 753 l 1
-99 753 m 1
- 173 799 l 1
- 550 76 l 1
- 476 30 l 1
- 99 753 l 1
-170 728 m 1
- 170 100 l 1
- 482 100 l 1
- 482 728 l 1
- 170 728 l 1
+562 743 m 1
+ 164 29 l 1
+ 90 85 l 1
+ 488 799 l 1
+ 562 743 l 1
+90 743 m 1
+ 164 799 l 1
+ 562 85 l 5
+ 488 29 l 5
+ 90 743 l 1
+186 712 m 1
+ 186 116 l 1
+ 466 116 l 1
+ 466 712 l 1
+ 186 712 l 1
 70 828 m 1
  582 828 l 1
  582 0 l 1
@@ -4715,7 +4714,7 @@ EndChar
 StartChar: percent
 Encoding: 37 37 171
 Width: 1079
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
