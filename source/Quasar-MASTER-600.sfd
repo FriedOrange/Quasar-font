@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1708337238
-ModificationTime: 1728201473
+ModificationTime: 1728293749
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,12 +46,12 @@ FitToEm: 1
 WinInfo: 65424 16 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65541 5
+BeginChars: 65541 3
 
 StartChar: age.alt
 Encoding: 65536 -1 0
 Width: 445
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Back
 SplineSet
@@ -104,71 +104,53 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-325 -10 m 0
+182 346 m 2
+ 182 253 l 2
+ 182 162 240 109 328 109 c 0
+ 354 109 369 112 385 116 c 1
+ 385 -3 l 1
+ 369 -7 349 -10 325 -10 c 0
  178 -10 66 101 66 250 c 2
  66 346 l 2
  66 437 139 510 230 510 c 0
  321 510 394 437 394 346 c 3
- 394 255 321 182 230 182 c 3
- 228 182 228 182 225 182 c 1
- 225 297 l 1
- 227 297 229 297 230 297 c 3
+ 394 255 331 192 265 192 c 3
+ 183.9921875 192 126 265 126 346 c 1
+ 182 346 l 1
+ 182 315 206.020507812 297.59375 230 297 c 0
  254 297 279 315 279 346 c 3
  279 371 261 394 230 394 c 3
  207 394 182 375 182 346 c 2
- 182 263 l 2
- 182 172 240 109 328 109 c 0
- 354 109 369 112 385 116 c 1
- 385 -3 l 1
- 369 -7 349 -10 325 -10 c 0
 EndSplineSet
 EndChar
 
-StartChar: ice.alt
-Encoding: 65537 -1 1
-Width: 445
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 0 -1 N -1 0 0 1 445 0 2
-EndChar
-
 StartChar: oil.alt
-Encoding: 65538 -1 2
+Encoding: 65538 -1 1
 Width: 439
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
 373 0 m 9
- 373 346 l 2
- 373 437 300 510 209 510 c 0
- 118 510 45 437 45 346 c 3
- 45 255 118 182 209 182 c 3
- 211 182 211 182 214 182 c 1
- 214 297 l 1
- 212 297 210 297 209 297 c 3
- 185 297 160 315 160 346 c 3
- 160 371 178 394 209 394 c 3
- 232 394 257 375 257 346 c 2
+ 373 346 l 6
+ 373 437 300 510 209 510 c 4
+ 118 510 45 437 45 346 c 7
+ 45 255 113 182 184 182 c 7
+ 265.0078125 182 313 265 313 346 c 5
+ 257 346 l 5
+ 257 315 232.97920742 297.593554833 209 297 c 7
+ 185 297 160 315 160 346 c 7
+ 160 371 178 394 209 394 c 7
+ 232 394 257 375 257 346 c 6
  257 0 l 17
  373 0 l 9
 EndSplineSet
 EndChar
 
-StartChar: out.alt
-Encoding: 65539 -1 3
-Width: 438
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 2 -1 N -1 0 0 1 438 0 2
-EndChar
-
 StartChar: .notdef
-Encoding: 65540 -1 4
-Width: 652
-Flags: HW
+Encoding: 65540 -1 2
+Width: 1000
+Flags: H
 LayerCount: 2
 Back
 SplineSet
@@ -192,29 +174,6 @@ SplineSet
  582 0 l 5
  70 0 l 5
  70 828 l 5
-EndSplineSet
-Fore
-SplineSet
-562 743 m 1
- 164 29 l 1
- 90 85 l 1
- 488 799 l 1
- 562 743 l 1
-90 743 m 1
- 164 799 l 1
- 562 85 l 5
- 488 29 l 5
- 90 743 l 1
-186 712 m 1
- 186 116 l 1
- 466 116 l 1
- 466 712 l 1
- 186 712 l 1
-70 828 m 1
- 582 828 l 1
- 582 0 l 1
- 70 0 l 1
- 70 828 l 1
 EndSplineSet
 EndChar
 EndChars
