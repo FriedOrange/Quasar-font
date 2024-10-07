@@ -24,5 +24,5 @@ python %USERPROFILE%\AppData\Local\Programs\Python\Python310\Scripts\gftools-bui
 @rem generate proof documents
 @cd fonts\variable
 set PYTHONUTF8=1
-python %USERPROFILE%\AppData\Local\Programs\Python\Python310\Scripts\gftools-gen-html.py proof -o ..\proof Quasar[wght].ttf
+python %USERPROFILE%\AppData\Local\Programs\Python\Python310\Scripts\gftools-gen-html.py proof -o ..\proof Quasar[wght].ttf ..\..\fonts-classic\variable\QuasarClassic[wght].ttf
 @cd ..\..
