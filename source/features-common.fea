@@ -6,20 +6,21 @@ languagesystem latn dflt;
 # left
 @overhangTR = [thither ah ado];
 @underhangBR = [deed shush church judge llan ed awl];
-@curveTR = [zhivago roar loch age on oil ooze];
-@curveBR = [thoth fife nun ash ice out wool];
-@curveR = [valve, roar, loch, oak];
+@curveTR = [zhivago age on oil ooze];
+@curveBR = [thoth fife nun ash ice out wool ice.alt];
+@curveR = [valve roar loch oak];
 
 # right
 @overhangTL = [pipe zoos church judge awl on];
 @underhangBL = [thoth sis whitewheat loll ash ah];
-@curve
+@curveTL = [gig thither valve mime eat ice ado out ooze];
+@curveBL = [nun ed age oil wool age.alt];
+@curveL = [kick fife loch oak];
 
-# left & right
-@deep = [bob deed gig thither valve zoos zhivago judge winwin whitewheat mime exam]; # does not contain zoos
-@short = [nun loll roar llan if ed age ash ah awl on oil wool age.alt ice.alt oil.alt out.alt];
-@tall = [pipe tut kick thoth fife shush church inkling loch axe]; # does not contain sis, yoyo, haha
-@curve_top_left = [eat ice ado out oak ooze];
+# for enum only
+@deep = [bob deed gig thither valve zoos zhivago judge winwin whitewheat mime exam];
+@short = [nun loll roar llan if eat ed age ash ice ah awl on oil ado out oak wool ooze age.alt ice.alt oil.alt out.alt];
+@tall = [pipe tut kick thoth fife sis shush church yoyo haha inkling loch axe];
 
 # latin
 # left

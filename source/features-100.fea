@@ -1,6 +1,7 @@
 include (features-common.fea);
 
 feature kern {
+	# qs
 	pos deed pipe -277;
 	pos deed church -277;
 	pos deed zoos -207;
@@ -10,14 +11,11 @@ feature kern {
 	pos thither ash -138;
 	pos thither loll -138;
 	pos sis sis -207;
-	pos sis zoos -207;
 	pos sis church -207;
 	pos sis loch -207;
-	pos zoos sis -207;
 	pos zoos zoos -207;
 	pos zoos judge -207;
 	pos zoos whitewheat -207;
-	pos zoos qsbracketright -146;
 	pos shush pipe -277;
 	pos shush zoos -207;
 	pos shush church -277;
@@ -64,23 +62,28 @@ feature kern {
 	pos ado sis -207;
 	pos ado zhivago -30;
 	pos ado whitewheat -277;
-	pos ado loll -207;
+	pos ado loll -227;
+	enum pos sis @short -207;
+	enum pos sis @deep -207;
+	enum pos zoos @short -207;
+	enum pos zoos @tall -207;
+	enum pos haha @short -277;
+	enum pos qsbracketleft @short -146;
+	enum pos qsbracketleft @tall -146;
+	enum pos @short qsbracketright -146;
+	enum pos @deep qsbracketright -146;
 
-	pos sis @short -207;
-	pos sis @curve_top_left -207;
-	pos sis @deep -207;
-	pos zoos @short -207;
-	pos zoos @curve_top_left -207;
-	pos zoos @tall -207;
-	pos yoyo @curve_top_left -100;
-	pos haha @short -277;
-	pos haha @curve_top_left -277;
-	pos qsbracketleft @short -146;
-	pos qsbracketleft @curve_top_left -146;
-	pos qsbracketleft @tall -146;
-	pos @short qsbracketright -146;
-	pos @curve_top_left qsbracketright -146;
-	pos @deep qsbracketright -146;
+	pos yoyo @curveTL -100;
+	pos @overhangTR @curveTL -50;
+	pos @overhangTR @curveL -50;
+	pos @underhangBR @curveBL -50;
+	pos @underhangBR @curveL -50;
+	pos @curveTR @overhangTL -50;
+	pos @curveBR @underhangBL -50;
+	pos @curveR @overhangTL -50;
+	pos @curveR @underhangBL -50;
+
+	# latin
 
 	pos f s -207;
 	pos r s -207;
