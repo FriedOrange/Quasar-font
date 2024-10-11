@@ -1,12 +1,4 @@
-languagesystem DFLT dflt;
-languagesystem latn dflt;
-
-# kerning classes
-@deep = [bob deed gig thither valve zoos zhivago judge winwin whitewheat mime exam]; # does not contain zoos
-@short = [nun loll roar llan if ed age ash ah awl on oil wool age.alt ice.alt oil.alt out.alt];
-@tall = [pipe tut kick thoth fife shush church inkling loch axe]; # does not contain sis, yoyo, haha
-@curve_top_left = [eat ice ado out oak ooze];
-
+include (features-common.fea);
 
 feature kern {
 	pos deed pipe -277;
@@ -91,12 +83,6 @@ feature kern {
 	pos @deep qsbracketright -146;
 } kern;
 
-feature salt {
-	sub age by age.alt;
-	sub ice by ice.alt;
-	sub oil by oil.alt;
-	sub out by out.alt;
-} salt;
 
 # @GDEF_base = [a ado age ah ash awl axe b bob c church colon comma d deed e eat ed exam exclam f fife g gig h haha i ice if inkling j judge k kick l llan loch loll m mime n nun o oak oil on ooze out p period pipe q qsbracketleft qsbracketright question r roar s semicolon shush sis space t thither thoth tut u uni0258 uni0261 uni026F v valve w whitewheat winwin wool x y yoyo z zhivago zoos age.alt ice.alt oil.alt out.alt];
 # @GDEF_mark = [];

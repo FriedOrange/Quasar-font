@@ -1,0 +1,38 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# kerning classes
+@deep = [bob deed gig thither valve zoos zhivago judge winwin whitewheat mime exam]; # does not contain zoos
+@short = [nun loll roar llan if ed age ash ah awl on oil wool age.alt ice.alt oil.alt out.alt];
+@tall = [pipe tut kick thoth fife shush church inkling loch axe]; # does not contain sis, yoyo, haha
+@curve_top_left = [eat ice ado out oak ooze];
+
+lookup SS01 {
+	sub g by uni0261;
+	sub w by uni026F;
+	sub W by uni019C;
+} SS01;
+
+lookup SS02 {
+	sub age by age.alt;
+	sub ice by ice.alt;
+	sub oil by oil.alt;
+	sub out by out.alt;
+} SS02;
+
+feature salt {
+	lookup SS01;
+	lookup SS02;
+} salt;
+
+feature ss01 {
+	lookup SS01;
+} ss01;
+
+feature ss02 {
+	lookup SS02;
+} ss02;
+
+feature aalt {
+	feature salt;
+} aalt;

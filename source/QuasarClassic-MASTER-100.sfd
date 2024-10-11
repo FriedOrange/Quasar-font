@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1728474063
+ModificationTime: 1728610504
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 8
+WinInfo: 320 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -61,7 +61,7 @@ Grid
 -1000 500.25 m 0
  2000 500.25 l 1024
 EndSplineSet
-BeginChars: 1114117 172
+BeginChars: 1114117 173
 
 StartChar: i
 Encoding: 105 105 0
@@ -4459,7 +4459,7 @@ EndChar
 StartChar: percent
 Encoding: 37 37 171
 Width: 1078
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4489,6 +4489,15 @@ SplineSet
  245 7 l 1
  812 833 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni019C
+Encoding: 412 412 172
+Width: 977
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 110 77 N -1 0 0 -1 977 828 2
 EndChar
 EndChars
 EndSplineFont
