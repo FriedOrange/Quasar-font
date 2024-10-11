@@ -9,20 +9,24 @@ languagesystem latn dflt;
 
 lookup SS01 {
 	sub g by uni0261;
-	sub w by uni026F;
-	sub W by uni019C;
 } SS01;
 
 lookup SS02 {
+	sub w by uni026F;
+	sub W by uni019C;
+} SS02;
+
+lookup SS03 {
 	sub age by age.alt;
 	sub ice by ice.alt;
 	sub oil by oil.alt;
 	sub out by out.alt;
-} SS02;
+} SS03;
 
 feature salt {
 	lookup SS01;
 	lookup SS02;
+	lookup SS03;
 } salt;
 
 feature ss01 {
@@ -32,6 +36,10 @@ feature ss01 {
 feature ss02 {
 	lookup SS02;
 } ss02;
+
+feature ss03 {
+	lookup SS03;
+} ss03;
 
 feature aalt {
 	feature salt;
