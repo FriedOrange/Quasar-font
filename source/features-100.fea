@@ -81,6 +81,16 @@ feature kern {
 	pos @short qsbracketright -146;
 	pos @curve_top_left qsbracketright -146;
 	pos @deep qsbracketright -146;
+
+	pos f s -207;
+	pos r s -207;
+	pos s s -207;
+
+	pos @latin_overhangTR @latin_curveTL -50;
+	pos @latin_curveBR s -50;
+	pos @latin_overhangTR j -237;
+	pos @latin_curveBR j -237;
+	pos @latin_other_non_deep j -237;
 } kern;
 
 

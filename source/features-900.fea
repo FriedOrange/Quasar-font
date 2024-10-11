@@ -66,7 +66,6 @@ feature kern {
 	pos ado whitewheat -131;
 	pos ado loll -99;
 
-
 	pos sis @short -131;
 	pos sis @curve_top_left -131;
 	pos sis @deep -131;
@@ -82,6 +81,16 @@ feature kern {
 	pos @short qsbracketright -73;
 	pos @curve_top_left qsbracketright -73;
 	pos @deep qsbracketright -73;
+
+	pos f s -131;
+	pos r s -81;
+	pos s s -131;
+
+	pos @latin_overhangTR @latin_curveTL -10;
+	pos @latin_curveBR s -10;
+	pos @latin_overhangTR j -91;
+	pos @latin_curveBR j -91;
+	pos @latin_other_non_deep j -91;
 } kern;
 
 # @GDEF_base = [a ado age ah ash awl axe b bob c church colon comma d deed e eat ed exam exclam f fife g gig h haha i ice if inkling j judge k kick l llan loch loll m mime n nun o oak oil on ooze out p period pipe q qsbracketleft qsbracketright question r roar s semicolon shush sis space t thither thoth tut u uni0258 uni0261 uni026F v valve w whitewheat winwin wool x y yoyo z zhivago zoos age.alt ice.alt oil.alt out.alt];
