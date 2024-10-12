@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1728610504
+ModificationTime: 1728711313
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5
@@ -44,15 +44,20 @@ HheadDOffset: 0
 OS2CapHeight: 828
 OS2XHeight: 500
 OS2Vendor: 'PfEd'
+Lookup: 258 0 0 "Pairwise Positioning (kerning) in Latin lookup 0" { "Pairwise Positioning (kerning) in Latin lookup 0-1" [150,15,0] "Pairwise Positioning (kerning) in Latin lookup 0-2" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+KernClass2: 2 2 "Pairwise Positioning (kerning) in Latin lookup 0-1"
+ 1 r
+ 1 o
+ 0 {} 0 {} 0 {} -40 {}
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 320 16 8
+WinInfo: 58928 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -448,6 +453,7 @@ SplineSet
  70 250 l 2
  70 396 177 510 326 510 c 3
 EndSplineSet
+Kerns2: 1 4 "Pairwise Positioning (kerning) in Latin lookup 0-2" 1 4 "Pairwise Positioning (kerning) in Latin lookup 0-2" 1 4 "Pairwise Positioning (kerning) in Latin lookup 0-2" 1 -40 "Pairwise Positioning (kerning) in Latin lookup 0-2"
 EndChar
 
 StartChar: x
@@ -1981,43 +1987,61 @@ EndChar
 StartChar: gig
 Encoding: 58965 58965 72
 Width: 536
-Flags: MW
+Flags: HMWO
 LayerCount: 2
 Back
 SplineSet
-464 294 m 17
- 464 399 376 485 271 485 c 9
- 271 510 l 17
- 392 510 489 413 489 294 c 9
- 464 294 l 17
-80 -122 m 0
- 80 -227 166 -313 271 -313 c 0
- 376 -313 462 -227 462 -122 c 0
- 462 -17 376 69 271 69 c 0
- 166 69 80 -17 80 -122 c 0
-55 -122 m 0
- 55 -1 152 89 271 89 c 0
- 390 89 487 -1 487 -122 c 0
- 487 -241 390 -338 271 -338 c 0
- 152 -338 55 -241 55 -122 c 0
+271 73 m 4
+ 166 73 80 -15 80 -120 c 4
+ 80 -225 166 -313 271 -313 c 4
+ 376 -313 462 -225 462 -120 c 4
+ 462 -14.9793985188 376 73 271 73 c 4
+271 93 m 5
+ 271 78 l 4
+ 157 90 65 170 65 292 c 4
+ 65 413 161 510 280 510 c 4
+ 371 510 438 456 458 427 c 5
+ 458 390 l 5
+ 435 428 369 485 280 485 c 4
+ 175 485 90 397 90 292 c 4
+ 90 187 174.192839322 105.439568853 271 98 c 4
+ 398.935874372 88.1682092578 487 -3 487 -120 c 4
+ 487 -241 390 -338 271 -338 c 4
+ 152 -338 55 -241 55 -120 c 4
+ 55 1 162 93 271 93 c 5
+-76 294 m 17
+ -76 399 -164 485 -269 485 c 9
+ -269 510 l 17
+ -148 510 -51 413 -51 294 c 9
+ -76 294 l 17
+-460 -122 m 0
+ -460 -227 -374 -313 -269 -313 c 0
+ -164 -313 -78 -227 -78 -122 c 0
+ -78 -17 -164 69 -269 69 c 0
+ -374 69 -460 -17 -460 -122 c 0
+-485 -122 m 0
+ -485 -1 -388 89 -269 89 c 0
+ -150 89 -53 -1 -53 -122 c 0
+ -53 -241 -150 -338 -269 -338 c 0
+ -388 -338 -485 -241 -485 -122 c 0
 EndSplineSet
 Fore
 SplineSet
 271 73 m 0
- 152 85 55 170 55 292 c 0
- 55 413 151 510 270 510 c 0
- 361 510 428 456 448 427 c 1
- 448 390 l 1
- 425 428 359 485 270 485 c 0
- 165 485 80 397 80 292 c 0
- 80 187 165.478224814 108.731027985 271 98 c 0
+ 152 85 65 170 65 292 c 0
+ 65 413 161 510 280 510 c 0
+ 371 510 438 456 458 427 c 1
+ 458 390 l 1
+ 435 428 369 485 280 485 c 0
+ 175 485 90 397 90 292 c 0
+ 90 187 165.478224814 108.731027985 271 98 c 0
  389 86 487 -1 487 -120 c 0
  487 -241 390 -338 271 -338 c 0
  152 -338 55 -241 55 -120 c 0
- 55 -73 71 -27 100 9 c 1
- 132 9 l 1
- 101 -25 80 -71 80 -120 c 0
- 80 -225 166 -313 271 -313 c 0
+ 55 -46 96 13 133 41 c 1
+ 167 41 l 1
+ 132 19 79.9486039698 -35.9829562135 80 -120 c 0
+ 80.0642319929 -224.999980354 166 -313 271 -313 c 0
  376 -313 462 -225 462 -120 c 0
  462 -15 377.515862063 62.2589046659 271 73 c 0
 EndSplineSet
