@@ -8,7 +8,7 @@ This is my take on a Bauhaus-style geometric typeface. It was a bit of a stretch
 
 Quikscript is already known for having several letters that are simple reflections or rotations of others, like Age and Ice. The strict geometric construction of Quasar created a few more such instances, like Zhivago, Mime, Fife and Valve. The self-imposed ban on diagonals resulted in Win-win and Whitewheat becoming completely vertical, and therefore simple transformations of Tut and Deed, respectively. I originally wanted Thoth and Thither to be a reflection and translation of Shush, respectively, but this would have resulted in confusion between Thoth and Pipe, so I opted for a symmetrical design for them.
 
-Weights range from thin to black. Those two “master” weights were drawn in FontForge, with everything in between being interpolated by Fontmake. Variable fonts are available; play around with the sample above! The static (individual weight) fonts have hinting applied, however, so they may look nicer on-screen in Windows.
+Weights range from thin to black. Those two “master” weights were drawn in FontForge, with everything in between being interpolated by Fontmake. Variable fonts are available. The static (individual weight) fonts have hinting applied, however, so they may look nicer on-screen in Windows.
 
 Alternate forms of the letters g and w/W are accessible through the Stylistic Set 1 and Stylistic Set 2 OpenType features, respectively; alternate forms of Age, Ice, Oil and Out are accessible via Stylistic Set 3. The Stylistic Alternates feature activates all of these at once.
 

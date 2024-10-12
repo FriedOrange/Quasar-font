@@ -2,7 +2,7 @@ Quasar: fonts for Quikscript
 =================================
 
 Version 1.000
-Copyright Brad Neil, 2023
+Copyright Brad Neil, 2024
 
 These fonts are distributed in two formats: TTF (for installation on computers) and WOFF2 (for embedding in Web pages, as seen here). The source code for generating the fonts is available on my GitHub page [1]. As the Quikscript letters are mapped to the Unicode Private Use Area, a special keyboard layout is required to type with them. Finally: the fonts are all available under the SIL Open Font License 1.1 [2], which means you are welcome to freely use, modify, and distribute them.
 
@@ -12,7 +12,7 @@ This is my take on a Bauhaus-style geometric typeface. It was a bit of a stretch
 
 Quikscript is already known for having several letters that are simple reflections or rotations of others, like Age and Ice. The strict geometric construction of Quasar created a few more such instances, like Zhivago, Mime, Fife and Valve. The self-imposed ban on diagonals resulted in Win-win and Whitewheat becoming completely vertical, and therefore simple transformations of Tut and Deed, respectively. I originally wanted Thoth and Thither to be a reflection and translation of Shush, respectively, but this would have resulted in confusion between Thoth and Pipe, so I opted for a symmetrical design for them.
 
-Weights range from thin to black. Those two “master” weights were drawn in FontForge, with everything in between being interpolated by Fontmake. Variable fonts are available; play around with the sample above! The static (individual weight) fonts have hinting applied, however, so they may look nicer on-screen in Windows.
+Weights range from thin to black. Those two “master” weights were drawn in FontForge, with everything in between being interpolated by Fontmake. Variable fonts are available. The static (individual weight) fonts have hinting applied, however, so they may look nicer on-screen in Windows.
 
 Alternate forms of the letters g and w/W are accessible through the Stylistic Set 1 and Stylistic Set 2 OpenType features, respectively; alternate forms of Age, Ice, Oil and Out are accessible via Stylistic Set 3. The Stylistic Alternates feature activates all of these at once.
 
