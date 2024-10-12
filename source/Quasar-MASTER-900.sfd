@@ -3,7 +3,7 @@ FontName: Quasar-Black
 FullName: Quasar Black
 FamilyName: Quasar
 Weight: Black
-Copyright: Copyright (c) 2023, neilb
+Copyright: Copyright 2024 Brad Neil
 UComments: "2023-12-15: Created with FontForge (http://fontforge.org)"
 Version: 000.001
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1728711583
+ModificationTime: 1728712681
 PfmFamily: 17
 TTFWeight: 900
 TTFWidth: 5
@@ -46,6 +46,7 @@ OS2XHeight: 500
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Brad Neil" "A font for the Quikscript alphabet, in a geometric style. The matching Latin glyphs were modelled after the classic 'Bauhaus' designs that were popular in the late 20th century." "" "https://friedorange.xyz/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -53,7 +54,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 7
+WinInfo: 0 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -451,7 +452,7 @@ EndChar
 StartChar: gig
 Encoding: 58965 58965 8
 Width: 600
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
