@@ -14,7 +14,7 @@ languagesystem latn dflt;
 @overhangTL = [pipe zoos church judge awl on];
 @underhangBL = [thoth sis whitewheat loll ash ah];
 @curveTL = [gig thither valve mime eat ice ado out ooze];
-@curveBL = [nun ed age oil wool age.alt];
+@curveBL = [shush nun ed age oil wool age.alt];
 @curveL = [kick fife loch oak];
 
 # for enum only
@@ -26,10 +26,11 @@ languagesystem latn dflt;
 # left
 @latin_curveBR = [b d o p u v w B D O U V W];
 @latin_overhangTR = [f r s];
-@latin_other_non_deep = [A C E-N P-T X Y Z a c e h i k-n t x];
+@latin_other_non_deep = [A C E G-N P Q R X Z a c e h i k-n t x];
 
 # right
 @latin_curveTL = [a c d e g m n o p q r];
+@latin_other_non_tall = [g s t u v w x y z]
 
 lookup SS01 {
 	sub g by uni0261;
