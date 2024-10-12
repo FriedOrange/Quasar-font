@@ -8,16 +8,6 @@ These fonts are distributed in two formats: TTF (for installation on computers) 
 
 * * *
 
-This font was inspired by geometric typefaces of the Bauhaus school. A key design principle of mine was to avoid diagonal lines, leading to the use of many curves. What else is known for its roundness? The celestial radio sources known as quasars derive their energy from black holes, which are some of the roundest things in the universe behind neutron stars. (Okay, it was a bit of a stretch to make this one fit my naming scheme of words beginning with Q, but the word Quasar does serve as an excellent demonstration of its design characteristics!).
-
-Quasar comes in two styles, both as variable fonts with weight ranging from Thin to Black:
-
-- Open: with small openings in the counters of letters like a, b, et cetera, much like the 20th-century typefaces which inspired this one.
-- Closed: with more conventional, closed counters in those letters, lending this style a more contemporary appearance.
-
-Quasar replaces my previous fonts, both unfinished and previously unreleased: QS Round (2018) and QS Rotund (2019). [3].
-
-
 This is my take on a Bauhaus-style geometric typeface. It was a bit of a stretch to make this one fit my naming scheme of words beginning with Q; I settled on “Quasar”, as that term not only evokes space age retrofuturism, but serves as an excellent demonstration of the font’s design characteristics. A key design principle was to avoid diagonal lines, often leading to the use of curves in their place—note the handwritten-style letters x, y and z.
 
 Quikscript is already known for having several letters that are simple reflections or rotations of others, like Age and Ice. The strict geometric construction of Quasar created a few more such instances, like Zhivago, Mime, Fife and Valve. The self-imposed ban on diagonals resulted in Win-win and Whitewheat becoming completely vertical, and therefore simple transformations of Tut and Deed, respectively. I originally wanted Thoth and Thither to be a reflection and translation of Shush, respectively, but this would have resulted in confusion between Thoth and Pipe, so I opted for a symmetrical design for them.
