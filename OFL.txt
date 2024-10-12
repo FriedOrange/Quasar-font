@@ -1,4 +1,4 @@
-Copyright 2023 Brad Neil (https://github.com/FriedOrange/Quasar-font)
+Copyright 2024 Brad Neil (https://github.com/FriedOrange/Quasar-font)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
