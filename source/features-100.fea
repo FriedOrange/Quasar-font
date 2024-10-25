@@ -77,7 +77,11 @@ feature kern {
 	pos f s -207;
 	pos r s -207;
 	pos s s -207;
+	pos C C -50;
+	pos C E -50;
+	pos C O -50;
 	pos D T -50;
+	pos D S -50;
 	pos F J -164;
 	pos F S -219;
 	pos L O -50;
@@ -86,6 +90,7 @@ feature kern {
 	pos L Y -192;
 	pos O S -50;
 	pos O T -50;
+	pos O X -50;
 	pos P J -164;
 	pos P S -219;
 	pos S A -20;
@@ -101,6 +106,11 @@ feature kern {
 	pos T Q -50;
 	pos T S -219;
 	pos U S -20;
+	pos V S -20;
+	pos W S -20;
+	pos X C -50;
+	pos X E -50;
+	pos X O -50;
 	pos Y J -164;
 	# pos F j
     # pos F s

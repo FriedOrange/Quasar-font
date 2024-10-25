@@ -30,7 +30,7 @@ languagesystem latn dflt;
 
 # right
 @latin_curveTL = [a c d e g m n o p q r uni0261];
-@latin_other_non_tall = [g s t u v w x y z];
+@latin_other_non_tall = [g s t u v w x y z uni026F];
 
 lookup SS01 {
 	sub g by uni0261;
