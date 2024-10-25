@@ -77,6 +77,39 @@ feature kern {
 	pos f s -207;
 	pos r s -207;
 	pos s s -207;
+	pos D T -50;
+	pos F J -164;
+	pos F S -219;
+	pos L O -50;
+	pos L T -168;
+	pos L U -20;
+	pos L Y -192;
+	pos O S -50;
+	pos O T -50;
+	pos P J -164;
+	pos P S -219;
+	pos S A -20;
+	pos S E -50;
+	pos S J -164;
+	pos S O -50;
+	pos S Q -50;
+	pos S S -219;
+	pos T A -20;
+	pos T E -50;
+	pos T J -164;
+	pos T O -50;
+	pos T Q -50;
+	pos T S -219;
+	pos U S -20;
+	pos Y J -164;
+	# pos F j
+    # pos F s
+	# pos P j
+	# pos P s
+	# pos T j
+	# pos T s
+	# pos Y j
+	# pos Y s
 
 	# qs class
 	pos gig @overhangTL -23;
@@ -104,6 +137,13 @@ feature kern {
 	pos @latin_overhangTR j -237;
 	pos @latin_curveBR j -237;
 	pos @latin_other_non_deep j -237;
+	# pos F @latin_curveTL
+	# pos P @latin_curveTL
+	# pos S @latin_curveTL
+	# pos S @latin_other_non_tall
+	# pos T @latin_curveTL
+	# pos T @latin_other_non_tall
+	# pos Y @latin_curveTL
 } kern;
 
 

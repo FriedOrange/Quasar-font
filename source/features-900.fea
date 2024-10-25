@@ -77,6 +77,39 @@ feature kern {
 	pos f s -131;
 	pos r s -81;
 	pos s s -131;
+	pos D T -50;
+	pos F J -85;
+	pos F S -138;
+	pos L O -50;
+	pos L T -176;
+	pos L U -20;
+	pos L Y -188;
+	pos O S -50;
+	pos O T -50;
+	pos P J -85;
+	pos P S -138;
+	pos S A -20;
+	pos S E -50;
+	pos S J -85;
+	pos S O -50;
+	pos S Q -50;
+	pos S S -138;
+	pos T A -20;
+	pos T E -50;
+	pos T J -85;
+	pos T O -50;
+	pos T Q -50;
+	pos T S -138;
+	pos U S -20;
+	pos Y J -85;
+	# pos F j
+    # pos F s
+	# pos P j
+	# pos P s
+	# pos T j
+	# pos T s
+	# pos Y j
+	# pos Y s
 
 	# qs class
 	pos gig @overhangTL -80;
@@ -104,6 +137,13 @@ feature kern {
 	pos @latin_overhangTR j -91;
 	pos @latin_curveBR j -91;
 	pos @latin_other_non_deep j -91;
+	# pos F @latin_curveTL
+	# pos P @latin_curveTL
+	# pos S @latin_curveTL
+	# pos S @latin_other_non_tall
+	# pos T @latin_curveTL
+	# pos T @latin_other_non_tall
+	# pos Y @latin_curveTL
 } kern;
 
 # @GDEF_base = [a ado age ah ash awl axe b bob c church colon comma d deed e eat ed exam exclam f fife g gig h haha i ice if inkling j judge k kick l llan loch loll m mime n nun o oak oil on ooze out p period pipe q qsbracketleft qsbracketright question r roar s semicolon shush sis space t thither thoth tut u uni0258 uni0261 uni026F v valve w whitewheat winwin wool x y yoyo z zhivago zoos age.alt ice.alt oil.alt out.alt];
