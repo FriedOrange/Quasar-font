@@ -112,14 +112,14 @@ feature kern {
 	pos X E -50;
 	pos X O -50;
 	pos Y J -85;
-	# pos F j
-    # pos F s
-	# pos P j
-	# pos P s
-	# pos T j
-	# pos T s
-	# pos Y j
-	# pos Y s
+	pos F j -91;
+    pos F s -131;
+	pos P j -91;
+	pos P s -131;
+	pos T j -91;
+	pos T s -131;
+	pos Y j -91;
+	pos Y s -131;
 
 	# qs class
 	pos gig @overhangTL -80;
@@ -147,13 +147,13 @@ feature kern {
 	pos @latin_overhangTR j -91;
 	pos @latin_curveBR j -91;
 	pos @latin_other_non_deep j -91;
-	# pos F @latin_curveTL
-	# pos P @latin_curveTL
-	# pos S @latin_curveTL
-	# pos S @latin_other_non_tall
-	# pos T @latin_curveTL
-	# pos T @latin_other_non_tall
-	# pos Y @latin_curveTL
+	pos F @latin_curveTL -10;
+	pos P @latin_curveTL -70;
+	pos S @latin_curveTL -138;
+	pos S @latin_other_non_tall -138;
+	pos T @latin_curveTL -176;
+	pos T @latin_other_non_tall -176;
+	pos Y @latin_curveTL -70;
 } kern;
 
 # @GDEF_base = [a ado age ah ash awl axe b bob c church colon comma d deed e eat ed exam exclam f fife g gig h haha i ice if inkling j judge k kick l llan loch loll m mime n nun o oak oil on ooze out p period pipe q qsbracketleft qsbracketright question r roar s semicolon shush sis space t thither thoth tut u uni0258 uni0261 uni026F v valve w whitewheat winwin wool x y yoyo z zhivago zoos age.alt ice.alt oil.alt out.alt];
