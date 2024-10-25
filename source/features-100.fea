@@ -87,7 +87,7 @@ feature kern {
 	pos L O -50;
 	pos L T -168;
 	pos L U -20;
-	pos L Y -192;
+	pos L Y -122;
 	pos O S -50;
 	pos O T -50;
 	pos O X -50;
