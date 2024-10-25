@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702635369
-ModificationTime: 1728713099
+ModificationTime: 1729821051
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5
@@ -1176,7 +1176,7 @@ EndChar
 StartChar: question
 Encoding: 63 63 34
 Width: 480
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Back
 SplineSet
@@ -1225,8 +1225,8 @@ SplineSet
  339 838 445 720 445 578 c 0
 128 343 m 1
  153 343 l 1
- 153 205 l 1
- 128 205 l 1
+ 153 155 l 1
+ 128 155 l 1
  128 343 l 1
 111 20 m 0
  111 37 124 50 141 50 c 0
@@ -2176,8 +2176,8 @@ SplineSet
  103 -10 90 3 90 20 c 0
 107 828 m 1
  132 828 l 1
- 132 204 l 1
- 107 204 l 1
+ 132 154 l 5
+ 107 154 l 5
  107 828 l 1
 EndSplineSet
 EndChar
